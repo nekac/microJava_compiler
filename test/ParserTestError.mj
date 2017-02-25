@@ -1,0 +1,73 @@
+// NEISPRAVAN TEST PARSER
+
+program ParserTestError
+
+	class PrvaKlasa extends NepostojecaNatklasa {  // osnovna klasa ne postoji
+	
+		char x;
+		real y;                       // tip real ne postoji 
+		y z;                          // tip y ne postoji 
+		char q;
+		{
+			void funkcija(){
+				this.q = 'Q';
+			}
+			
+			int funkcijaSaParametrom(int parametar){        
+				this = 1;              		// ne poklapaju se tipovi, this je klasnog
+				this.q = 1;            		// ne poklapaju se tipovi, q je char
+				this.zh = 2;           		// polje ne postoji, zh nije deklarisano
+				this.q = funkcija();        // metoda funkcija() vraca void tip
+				return q;              		// ne poklapa se tip povratne vrednosti, q je tipa char
+			}
+		}	
+	}
+	
+	
+	
+	
+	
+	class DrugaKlasa{
+		int a,b;
+		char c;
+		{
+			void setA(){
+				read(a);
+			}
+			
+			void setAB(int aa, int bb){
+				a = aa;
+				b = bb;
+			}
+			
+			void setC(char cc){
+				c = cc;
+			}
+			
+			char getC(){
+				return c;
+			}
+		}
+	}
+
+	
+	
+{
+	void main2()               // na kraju prijava, nije definisana main f-ja, main2() ne moze!
+	PrvaKlasa a;
+	DrugaKlasa b;
+	{
+		a = new PrvaKlasa;
+		b = new DrugaKlasa;
+		print(a.funkcijaSaParametrom((3 + 5)-4));
+		this = 3;                	// ne poklapaju se tipovi
+		b.setA(2);               	// ovde je visak parametara
+		b.setAB(2);              	// manjak parametara
+		b.setAB('a', 'b');       	// ne poklapaju se tipovi oba parametra
+		
+		if(b.setA() > b.getC()){
+			b.setAB('a',  5);        // ne poklapa se tip prvog parametra
+			b.setAB( 5,  'b');       // ne poklapa se tip drugog parametra
+		}
+	}
+}	

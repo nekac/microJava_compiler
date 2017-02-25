@@ -1,0 +1,41 @@
+INFO  13:03:08,398 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test08.mj
+INFO  13:03:08,417 - #2 program
+INFO  13:03:08,418 - #18 test08
+INFO  13:03:08,418 - #13 class
+INFO  13:03:08,418 - #18 Alfa
+INFO  13:03:08,418 - #12 extends
+INFO  13:03:08,418 - #18 Nepostojeca
+INFO  13:03:08,418 - #23 {
+INFO  13:03:08,418 - Obradjuje se klasa Alfa na liniji 5
+INFO  13:03:08,419 - #18 int
+INFO  13:03:08,419 - #18 x
+INFO  13:03:08,419 - #25 ;
+INFO  13:03:08,419 - Deklarisana promenljiva x na liniji 6
+INFO  13:03:08,419 - #18 char
+INFO  13:03:08,419 - #18 x
+INFO  13:03:08,419 - #25 ;
+INFO  13:03:08,419 - #18 real
+INFO  13:03:08,419 - #18 y
+INFO  13:03:08,420 - #25 ;
+INFO  13:03:08,420 - Deklarisana promenljiva y na liniji 8
+INFO  13:03:08,420 - #18 y
+INFO  13:03:08,420 - #18 z
+INFO  13:03:08,420 - #25 ;
+INFO  13:03:08,420 - Deklarisana promenljiva z na liniji 9
+INFO  13:03:08,421 - #18 char
+INFO  13:03:08,421 - #18 b
+INFO  13:03:08,421 - #25 ;
+INFO  13:03:08,421 - Deklarisana promenljiva b na liniji 10
+INFO  13:03:08,421 - #23 {
+INFO  13:03:08,421 - #8 void
+INFO  13:03:08,421 - #18 k
+INFO  13:03:08,421 - #26 (
+INFO  13:03:08,421 - Obradjuje se funkcija k na liniji 12
+INFO  13:03:08,421 - #27 )
+INFO  13:03:08,421 - #23 {
+INFO  13:03:08,421 - #18 this
+INFO  13:03:08,423 - #32 .
+INFO  13:03:08,423 - #18 b
+INFO  13:03:08,423 - #31 =
+INFO  13:03:08,423 - #16 a
+INFO  13:03:08,424 - #25 ;

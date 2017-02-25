@@ -1,0 +1,31 @@
+INFO  11:45:06,331 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test302.mj
+INFO  11:45:06,351 - #2 program
+INFO  11:45:06,351 - #18 test302
+INFO  11:45:06,351 - #18 int
+INFO  11:45:06,351 - #18 i
+INFO  11:45:06,351 - #25 ;
+INFO  11:45:06,351 - Deklarisana promenljiva i na liniji 6
+INFO  11:45:06,351 - #18 bool
+INFO  11:45:06,352 - #18 ijedva
+INFO  11:45:06,352 - #25 ;
+INFO  11:45:06,352 - Deklarisana promenljiva ijedva na liniji 7
+INFO  11:45:06,352 - #18 int
+INFO  11:45:06,352 - #18 niz
+INFO  11:45:06,352 - #28 [
+INFO  11:45:06,352 - #29 ]
+INFO  11:45:06,352 - #25 ;
+INFO  11:45:06,352 - Deklarisan niz niz na liniji 9
+INFO  11:45:06,353 - #23 {
+INFO  11:45:06,353 - #18 int
+INFO  11:45:06,353 - #18 sum
+INFO  11:45:06,353 - #26 (
+INFO  11:45:06,353 - Obradjuje se funkcija sum na liniji 12
+INFO  11:45:06,353 - #18 int
+INFO  11:45:06,353 - #18 z
+INFO  11:45:06,354 - #18 r
+INFO  11:45:06,354 - #30 ,
+INFO  11:45:06,354 - #18 int
+INFO  11:45:06,354 - #18 d
+INFO  11:45:06,355 - #27 )
+INFO  11:45:06,355 - Deklarisana formalna promenljiva d na liniji 12
+INFO  11:45:06,355 - Uspesan oporavak od greske do , prilikom deklarisanja formalnih argumenata funkcije na liniji 12

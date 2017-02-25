@@ -1,0 +1,57 @@
+// NEISPRAVAN TEST PARSER, SA OPORAVCIMA OD GRESAKA
+// Postoje i neke semanticke greske koje nisam zakomentarisao, zbog tipa testa
+
+program ParserTestErrorRecover
+
+	int a, c, x, maxcif;
+	char /e              								// GRESKA definicija globalne promenljive, oporavak do ;
+	int niz[];
+	
+	class Klasa  {  
+		int ; 											// GRESKA deklaracija polja klase, oporavak do ;
+		char a;
+		{
+			void A(){
+				this.a = 'A';
+			}
+			
+			int ispravna(int x, int y){
+				return x + y;
+			}
+			
+		}	
+	}
+	
+	class Klasa2 extends ;Klasa {  						// GRESKA deklaracija natklase, oporavak do {
+		int arr[];
+	}
+	
+{
+	int pogresna(int x, int){              				// GRESKA deklaracija formalnog argumenta funkcije, oporavak do )
+		return 1;
+	}
+	
+
+
+	void main() 
+	char a; 
+	int z = 0 											// GRESKA deklaracija lokalne promenljive, oporavak do {
+	Klasa K;
+	{ 
+		read(a);
+		K = new Klasa;
+		K.ispravna(1,);									// GRESKA lista parametara u pozivu metode objekta, oporavak do )
+		maxcif = 0;
+		x = 5;
+		niz[x++] = 2;          							// GRESKA izraz za indeksiranje niza, oporavak do ]
+		while(a != 0){            
+			c = a % 10;
+			if(maxcif <> c)      						// GRESKA logicki iskaz, oporavak do )
+				maxcif = c;
+			a =; a/10;             						// GRESKA iskaz dodele, oporavak do ;
+		}
+		read(x);                
+		x++;                     
+		print(max);             
+	}
+}

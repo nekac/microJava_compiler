@@ -1,0 +1,25 @@
+//nivo B
+//ispravan test
+
+program test04
+	int x, y;
+	int a[];
+	bool log;
+{
+	
+	int sum(int z, int d){
+		return z + d;
+	}
+	
+	void main(){
+		a = new int[5];
+		log = true;
+		x = 0; y = 3;
+		for(;log;){
+			a[x] = sum(y,x) + 1;
+			x = sum(x,1);
+			if(x == 5) break;
+		}
+		print(a[3]);
+	}
+}

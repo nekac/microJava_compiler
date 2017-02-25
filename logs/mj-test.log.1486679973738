@@ -1,0 +1,384 @@
+INFO  23:34:59,063 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test05.mj
+INFO  23:34:59,085 - #2 program
+INFO  23:34:59,085 - #18 Rastojanje
+INFO  23:34:59,085 - #18 int
+INFO  23:34:59,085 - #18 xa
+INFO  23:34:59,086 - Na liniji 4 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,086 - #30 ,
+INFO  23:34:59,086 - Deklarisana promenljiva xa na liniji 4
+INFO  23:34:59,086 - #18 ya
+INFO  23:34:59,086 - #30 ,
+INFO  23:34:59,086 - Deklarisana promenljiva ya na liniji 4
+INFO  23:34:59,086 - #18 xb
+INFO  23:34:59,087 - #30 ,
+INFO  23:34:59,087 - Deklarisana promenljiva xb na liniji 4
+INFO  23:34:59,087 - #18 yb
+INFO  23:34:59,087 - #30 ,
+INFO  23:34:59,087 - Deklarisana promenljiva yb na liniji 4
+INFO  23:34:59,087 - #18 xc
+INFO  23:34:59,087 - #30 ,
+INFO  23:34:59,087 - Deklarisana promenljiva xc na liniji 4
+INFO  23:34:59,088 - #18 xc
+INFO  23:34:59,088 - #25 ;
+INFO  23:34:59,088 - #18 char
+INFO  23:34:59,088 - #18 cccc
+INFO  23:34:59,088 - Na liniji 5 detektovano koriscenje tipa Type char: char, -1, -1 
+INFO  23:34:59,088 - #25 ;
+INFO  23:34:59,088 - Deklarisana promenljiva cccc na liniji 5
+INFO  23:34:59,088 - #18 int
+INFO  23:34:59,088 - #18 a
+INFO  23:34:59,089 - Na liniji 6 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,089 - #30 ,
+INFO  23:34:59,089 - Deklarisana promenljiva a na liniji 6
+INFO  23:34:59,089 - #18 b
+INFO  23:34:59,089 - #18 c
+INFO  23:34:59,089 - #25 ;
+INFO  23:34:59,089 - #18 int
+INFO  23:34:59,089 - #18 u
+INFO  23:34:59,092 - #30 ,
+DEBUG 23:34:59,092 - Uspesan oporavak od greske do ; pri definiciji globalne promenljive.
+INFO  23:34:59,092 - Na liniji 7 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,092 - Deklarisana promenljiva u na liniji 7
+INFO  23:34:59,093 - #18 v
+INFO  23:34:59,093 - #25 ;
+INFO  23:34:59,093 - Deklarisana promenljiva v na liniji 7
+INFO  23:34:59,093 - #23 {
+INFO  23:34:59,093 - #18 int
+INFO  23:34:59,093 - #18 distance
+INFO  23:34:59,093 - Na liniji 9 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,094 - #26 (
+INFO  23:34:59,094 - Obradjuje se funkcija distance na liniji 9
+INFO  23:34:59,094 - #18 int
+INFO  23:34:59,094 - #18 x1
+INFO  23:34:59,094 - Na liniji 9 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,094 - #30 ,
+INFO  23:34:59,094 - Deklarisana formalna promenljiva x1 na liniji 9
+INFO  23:34:59,094 - #18 int
+INFO  23:34:59,095 - #18 y1
+INFO  23:34:59,095 - Na liniji 9 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,095 - #30 ,
+INFO  23:34:59,095 - Deklarisana formalna promenljiva y1 na liniji 9
+INFO  23:34:59,095 - #18 int
+INFO  23:34:59,095 - #18 x2
+INFO  23:34:59,095 - Na liniji 9 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,096 - #30 ,
+INFO  23:34:59,096 - Deklarisana formalna promenljiva x2 na liniji 9
+INFO  23:34:59,096 - #18 int
+INFO  23:34:59,096 - #18 y2
+INFO  23:34:59,096 - Na liniji 9 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,096 - #27 )
+INFO  23:34:59,096 - Deklarisana formalna promenljiva y2 na liniji 9
+INFO  23:34:59,097 - #23 {
+INFO  23:34:59,097 - #18 sqrt
+INFO  23:34:59,097 - #26 (
+INFO  23:34:59,097 - #18 sqr
+INFO  23:34:59,097 - #26 (
+INFO  23:34:59,097 - #18 x1
+INFO  23:34:59,097 - #21 -
+INFO  23:34:59,097 - Na liniji 10 detektovano koriscenje simbola: Var x1: int, 0, 1 
+INFO  23:34:59,099 - #18 x2
+INFO  23:34:59,099 - #27 )
+INFO  23:34:59,099 - Na liniji 10 detektovano koriscenje simbola: Var x2: int, 2, 1 
+INFO  23:34:59,099 - #19 +
+INFO  23:34:59,100 - #18 sqr
+INFO  23:34:59,100 - #26 (
+INFO  23:34:59,100 - #18 y1
+INFO  23:34:59,100 - #21 -
+INFO  23:34:59,100 - Na liniji 10 detektovano koriscenje simbola: Var y1: int, 1, 1 
+INFO  23:34:59,100 - #18 y2
+INFO  23:34:59,100 - #27 )
+INFO  23:34:59,100 - Na liniji 10 detektovano koriscenje simbola: Var y2: int, 3, 1 
+INFO  23:34:59,100 - #27 )
+INFO  23:34:59,101 - #25 ;
+INFO  23:34:59,101 - #24 }
+INFO  23:34:59,101 - #18 int
+INFO  23:34:59,101 - #18 obim
+INFO  23:34:59,102 - Na liniji 13 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,102 - #26 (
+INFO  23:34:59,102 - Obradjuje se funkcija obim na liniji 13
+INFO  23:34:59,102 - #18 int
+INFO  23:34:59,102 - #18 a
+INFO  23:34:59,102 - Na liniji 13 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,102 - #30 ,
+INFO  23:34:59,102 - Deklarisana formalna promenljiva a na liniji 13
+INFO  23:34:59,102 - #18 int
+INFO  23:34:59,102 - #18 b
+INFO  23:34:59,102 - Na liniji 13 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,102 - #30 ,
+INFO  23:34:59,103 - Deklarisana formalna promenljiva b na liniji 13
+INFO  23:34:59,103 - #18 int
+INFO  23:34:59,103 - #18 c
+INFO  23:34:59,103 - Na liniji 13 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,103 - #27 )
+INFO  23:34:59,103 - Deklarisana formalna promenljiva c na liniji 13
+INFO  23:34:59,103 - #18 char
+INFO  23:34:59,103 - #18 o
+INFO  23:34:59,103 - Na liniji 13 detektovano koriscenje tipa Type char: char, -1, -1 
+INFO  23:34:59,103 - #25 ;
+INFO  23:34:59,104 - Deklarisana promenljiva o na liniji 13
+INFO  23:34:59,104 - #23 {
+INFO  23:34:59,104 - #18 o
+INFO  23:34:59,104 - #31 =
+INFO  23:34:59,104 - Na liniji 14 detektovano koriscenje simbola: Var o: char, 3, 1 
+INFO  23:34:59,104 - #18 a
+INFO  23:34:59,104 - #19 +
+INFO  23:34:59,105 - Na liniji 14 detektovano koriscenje simbola: Var a: int, 0, 1 
+INFO  23:34:59,105 - #18 b
+INFO  23:34:59,105 - #19 +
+INFO  23:34:59,105 - Na liniji 14 detektovano koriscenje simbola: Var b: int, 1, 1 
+INFO  23:34:59,105 - #18 c
+INFO  23:34:59,105 - #25 ;
+INFO  23:34:59,105 - Na liniji 14 detektovano koriscenje simbola: Var c: int, 2, 1 
+INFO  23:34:59,107 - #7 return
+INFO  23:34:59,107 - #18 o
+INFO  23:34:59,107 - #25 ;
+INFO  23:34:59,107 - Na liniji 15 detektovano koriscenje simbola: Var o: char, 3, 1 
+INFO  23:34:59,108 - #24 }
+INFO  23:34:59,109 - #8 void
+INFO  23:34:59,109 - #18 povrsina
+INFO  23:34:59,109 - #26 (
+INFO  23:34:59,109 - Obradjuje se funkcija povrsina na liniji 18
+INFO  23:34:59,109 - #18 int
+INFO  23:34:59,109 - #18 a
+INFO  23:34:59,109 - Na liniji 18 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,110 - #30 ,
+INFO  23:34:59,110 - Deklarisana formalna promenljiva a na liniji 18
+INFO  23:34:59,110 - #18 int
+INFO  23:34:59,110 - #18 b
+INFO  23:34:59,110 - Na liniji 18 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,110 - #30 ,
+INFO  23:34:59,110 - Deklarisana formalna promenljiva b na liniji 18
+INFO  23:34:59,110 - #18 int
+INFO  23:34:59,110 - #18 c
+INFO  23:34:59,111 - Na liniji 18 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,111 - #27 )
+INFO  23:34:59,111 - Deklarisana formalna promenljiva c na liniji 18
+INFO  23:34:59,111 - #18 char
+INFO  23:34:59,111 - #18 s
+INFO  23:34:59,111 - Na liniji 18 detektovano koriscenje tipa Type char: char, -1, -1 
+INFO  23:34:59,111 - #25 ;
+INFO  23:34:59,111 - Deklarisana promenljiva s na liniji 18
+INFO  23:34:59,111 - #23 {
+INFO  23:34:59,111 - #18 s
+INFO  23:34:59,112 - #31 =
+INFO  23:34:59,112 - Na liniji 19 detektovano koriscenje simbola: Var s: char, 3, 1 
+INFO  23:34:59,112 - #26 (
+INFO  23:34:59,112 - #18 a
+INFO  23:34:59,112 - #19 +
+INFO  23:34:59,112 - Na liniji 19 detektovano koriscenje simbola: Var a: int, 0, 1 
+INFO  23:34:59,112 - #18 b
+INFO  23:34:59,112 - #19 +
+INFO  23:34:59,112 - Na liniji 19 detektovano koriscenje simbola: Var b: int, 1, 1 
+INFO  23:34:59,112 - #18 c
+INFO  23:34:59,112 - #27 )
+INFO  23:34:59,112 - Na liniji 19 detektovano koriscenje simbola: Var c: int, 2, 1 
+INFO  23:34:59,112 - #41 /
+INFO  23:34:59,113 - #15 2
+INFO  23:34:59,113 - #25 ;
+INFO  23:34:59,113 - #7 return
+INFO  23:34:59,113 - #18 s
+INFO  23:34:59,113 - #25 ;
+INFO  23:34:59,113 - Na liniji 20 detektovano koriscenje simbola: Var s: char, 3, 1 
+INFO  23:34:59,113 - #24 }
+INFO  23:34:59,113 - #18 int
+INFO  23:34:59,114 - #18 pogresna
+INFO  23:34:59,114 - Na liniji 23 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,114 - #26 (
+INFO  23:34:59,114 - Obradjuje se funkcija pogresna na liniji 23
+INFO  23:34:59,114 - #18 int
+INFO  23:34:59,114 - #18 x
+INFO  23:34:59,114 - Na liniji 23 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,114 - #30 ,
+INFO  23:34:59,114 - Deklarisana formalna promenljiva x na liniji 23
+INFO  23:34:59,114 - #18 z
+INFO  23:34:59,114 - #30 ,
+INFO  23:34:59,115 - #18 int
+INFO  23:34:59,115 - #27 )
+INFO  23:34:59,115 - #23 {
+INFO  23:34:59,115 - #7 return
+INFO  23:34:59,115 - #15 1
+INFO  23:34:59,115 - Uspesan oporavak od greske do ) prilikom deklarisanja formalnih argumenata funkcije na liniji 23
+INFO  23:34:59,115 - #25 ;
+INFO  23:34:59,115 - #24 }
+INFO  23:34:59,115 - #18 int
+INFO  23:34:59,115 - #18 main
+INFO  23:34:59,116 - Na liniji 27 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:34:59,116 - #26 (
+INFO  23:34:59,116 - Obradjuje se funkcija main na liniji 27
+INFO  23:34:59,116 - #27 )
+INFO  23:34:59,116 - #18 bool
+INFO  23:34:59,116 - #18 b
+INFO  23:34:59,116 - Na liniji 27 detektovano koriscenje tipa Type bool: , -1, -1 
+INFO  23:34:59,116 - #25 ;
+INFO  23:34:59,116 - Deklarisana promenljiva b na liniji 27
+INFO  23:34:59,116 - #18 char
+INFO  23:34:59,116 - #18 p
+INFO  23:34:59,116 - Na liniji 27 detektovano koriscenje tipa Type char: char, -1, -1 
+INFO  23:34:59,117 - #23 {
+INFO  23:34:59,117 - #6 read
+INFO  23:34:59,117 - #26 (
+INFO  23:34:59,117 - #18 xc
+INFO  23:34:59,117 - Uspesan oporavak od greske do { pri deklaraciji lokalnih promenljivih na liniji 27
+INFO  23:34:59,117 - #27 )
+INFO  23:34:59,117 - Na liniji 30 detektovano koriscenje simbola: Var xc: int, 4, 0 
+INFO  23:34:59,117 - #25 ;
+INFO  23:34:59,117 - #6 read
+INFO  23:34:59,117 - #26 (
+INFO  23:34:59,117 - #18 yc
+INFO  23:34:59,117 - #27 )
+INFO  23:34:59,118 - #25 ;
+INFO  23:34:59,118 - #18 a
+INFO  23:34:59,118 - #31 =
+INFO  23:34:59,118 - Na liniji 32 detektovano koriscenje simbola: Var a: int, 6, 0 
+INFO  23:34:59,118 - #18 distance
+INFO  23:34:59,118 - #26 (
+INFO  23:34:59,118 - Na liniji 32 detektovano koriscenje simbola: Meth distance: int, 0, 0 
+   Var x1: int, 0, 1 
+   Var y1: int, 1, 1 
+   Var x2: int, 2, 1 
+   Var y2: int, 3, 1 
+
+INFO  23:34:59,118 - #18 cccc
+INFO  23:34:59,118 - #30 ,
+INFO  23:34:59,118 - Na liniji 32 detektovano koriscenje simbola: Var cccc: char, 5, 0 
+INFO  23:34:59,119 - #18 ya
+INFO  23:34:59,119 - #30 ,
+INFO  23:34:59,119 - Na liniji 32 detektovano koriscenje simbola: Var ya: int, 1, 0 
+INFO  23:34:59,119 - #18 xb
+INFO  23:34:59,119 - #30 ,
+INFO  23:34:59,119 - Na liniji 32 detektovano koriscenje simbola: Var xb: int, 2, 0 
+INFO  23:34:59,119 - #18 yb
+INFO  23:34:59,119 - #27 )
+INFO  23:34:59,119 - Na liniji 32 detektovano koriscenje simbola: Var yb: int, 3, 0 
+INFO  23:34:59,120 - #25 ;
+INFO  23:34:59,120 - Pronadjen poziv funkcije distance na liniji 32
+INFO  23:34:59,120 - #18 b
+INFO  23:34:59,120 - #31 =
+INFO  23:34:59,120 - Na liniji 34 detektovano koriscenje simbola: Var b: , 0, 1 
+INFO  23:34:59,120 - #18 distance
+INFO  23:34:59,120 - #26 (
+INFO  23:34:59,120 - Na liniji 34 detektovano koriscenje simbola: Meth distance: int, 0, 0 
+   Var x1: int, 0, 1 
+   Var y1: int, 1, 1 
+   Var x2: int, 2, 1 
+   Var y2: int, 3, 1 
+
+INFO  23:34:59,120 - #18 xb
+INFO  23:34:59,121 - #30 ,
+INFO  23:34:59,121 - Na liniji 34 detektovano koriscenje simbola: Var xb: int, 2, 0 
+INFO  23:34:59,121 - #18 yb
+INFO  23:34:59,121 - #30 ,
+INFO  23:34:59,121 - Na liniji 34 detektovano koriscenje simbola: Var yb: int, 3, 0 
+INFO  23:34:59,121 - #18 xc
+INFO  23:34:59,121 - #30 ,
+INFO  23:34:59,121 - Na liniji 34 detektovano koriscenje simbola: Var xc: int, 4, 0 
+INFO  23:34:59,121 - #18 yc
+INFO  23:34:59,121 - #27 )
+INFO  23:34:59,122 - #25 ;
+INFO  23:34:59,122 - Pronadjen poziv funkcije distance na liniji 34
+INFO  23:34:59,122 - #18 c
+INFO  23:34:59,122 - #31 =
+INFO  23:34:59,122 - #18 distance
+INFO  23:34:59,122 - #26 (
+INFO  23:34:59,122 - Na liniji 37 detektovano koriscenje simbola: Meth distance: int, 0, 0 
+   Var x1: int, 0, 1 
+   Var y1: int, 1, 1 
+   Var x2: int, 2, 1 
+   Var y2: int, 3, 1 
+
+INFO  23:34:59,122 - #18 ya
+INFO  23:34:59,122 - #30 ,
+INFO  23:34:59,123 - Na liniji 37 detektovano koriscenje simbola: Var ya: int, 1, 0 
+INFO  23:34:59,123 - #18 xc
+INFO  23:34:59,123 - #30 ,
+INFO  23:34:59,123 - Na liniji 37 detektovano koriscenje simbola: Var xc: int, 4, 0 
+INFO  23:34:59,123 - #18 yc
+INFO  23:34:59,123 - #27 )
+INFO  23:34:59,123 - #25 ;
+INFO  23:34:59,123 - Pronadjen poziv funkcije distance na liniji 37
+INFO  23:34:59,123 - #9 if
+INFO  23:34:59,123 - #26 (
+INFO  23:34:59,126 - #18 a
+INFO  23:34:59,126 - #19 +
+INFO  23:34:59,126 - Na liniji 39 detektovano koriscenje simbola: Var a: int, 6, 0 
+INFO  23:34:59,127 - #18 u
+INFO  23:34:59,127 - #35 >
+INFO  23:34:59,127 - Na liniji 39 detektovano koriscenje simbola: Var u: int, 7, 0 
+INFO  23:34:59,127 - #18 v
+INFO  23:34:59,127 - #45 &&
+INFO  23:34:59,127 - Na liniji 39 detektovano koriscenje simbola: Var v: int, 8, 0 
+INFO  23:34:59,127 - #18 a
+INFO  23:34:59,127 - #19 +
+INFO  23:34:59,127 - Na liniji 39 detektovano koriscenje simbola: Var a: int, 6, 0 
+INFO  23:34:59,127 - #18 v
+INFO  23:34:59,128 - #35 >
+INFO  23:34:59,128 - Na liniji 39 detektovano koriscenje simbola: Var v: int, 8, 0 
+INFO  23:34:59,128 - #18 u
+INFO  23:34:59,128 - #45 &&
+INFO  23:34:59,128 - Na liniji 39 detektovano koriscenje simbola: Var u: int, 7, 0 
+INFO  23:34:59,128 - #18 u
+INFO  23:34:59,128 - #19 +
+INFO  23:34:59,129 - Na liniji 39 detektovano koriscenje simbola: Var u: int, 7, 0 
+INFO  23:34:59,129 - #18 v
+INFO  23:34:59,129 - #35 >
+INFO  23:34:59,129 - Na liniji 39 detektovano koriscenje simbola: Var v: int, 8, 0 
+INFO  23:34:59,130 - #18 a
+INFO  23:34:59,130 - #27 )
+INFO  23:34:59,130 - Na liniji 39 detektovano koriscenje simbola: Var a: int, 6, 0 
+INFO  23:34:59,130 - #23 {
+INFO  23:34:59,131 - #18 obim
+INFO  23:34:59,132 - #26 (
+INFO  23:34:59,132 - Na liniji 40 detektovano koriscenje simbola: Meth obim: int, 0, 0 
+   Var a: int, 0, 1 
+   Var b: int, 1, 1 
+   Var c: int, 2, 1 
+   Var o: char, 3, 1 
+
+INFO  23:34:59,132 - #18 a
+INFO  23:34:59,133 - #30 ,
+INFO  23:34:59,133 - Na liniji 40 detektovano koriscenje simbola: Var a: int, 6, 0 
+INFO  23:34:59,133 - #18 b
+INFO  23:34:59,133 - #30 ,
+INFO  23:34:59,133 - Na liniji 40 detektovano koriscenje simbola: Var b: , 0, 1 
+INFO  23:34:59,133 - #18 u
+INFO  23:34:59,133 - #30 ,
+INFO  23:34:59,133 - Na liniji 40 detektovano koriscenje simbola: Var u: int, 7, 0 
+INFO  23:34:59,133 - #18 v
+INFO  23:34:59,134 - #27 )
+INFO  23:34:59,134 - Na liniji 40 detektovano koriscenje simbola: Var v: int, 8, 0 
+INFO  23:34:59,134 - #25 ;
+INFO  23:34:59,134 - Pronadjen poziv funkcije obim na liniji 40
+INFO  23:34:59,134 - #18 povrsina
+INFO  23:34:59,134 - #26 (
+INFO  23:34:59,134 - Na liniji 41 detektovano koriscenje simbola: Meth povrsina: notype, 16, 3 
+   Var a: int, 0, 1 
+   Var b: int, 1, 1 
+   Var c: int, 2, 1 
+   Var s: char, 3, 1 
+   Con : int, 2, 1 
+
+INFO  23:34:59,135 - #15 5
+INFO  23:34:59,135 - #19 +
+INFO  23:34:59,135 - #15 2
+INFO  23:34:59,135 - #30 ,
+INFO  23:34:59,136 - #16 w
+INFO  23:34:59,136 - #30 ,
+INFO  23:34:59,136 - #18 c
+INFO  23:34:59,136 - #27 )
+INFO  23:34:59,136 - #25 ;
+INFO  23:34:59,136 - Pronadjen poziv funkcije povrsina na liniji 41
+INFO  23:34:59,137 - #24 }
+INFO  23:34:59,137 - #24 }
+INFO  23:34:59,137 - #24 }
+INFO  23:34:59,140 - Definicije globalnih promenljivih = 10
+INFO  23:34:59,140 - Definicija lokalnih promenljivih (u main funkciji) = 1
+INFO  23:34:59,140 - Definicije globalnih konstanti = 0
+INFO  23:34:59,140 - Deklaracije globalnih nizova = 0
+INFO  23:34:59,141 - Definicije funkcija u glavnom programu = 5
+INFO  23:34:59,141 - Blokovi naredbi = 6
+INFO  23:34:59,141 - Pozivi funkcija u telu metode main = 7
+INFO  23:34:59,141 - Deklaracije formalnih argumenata funkcija = 10
+INFO  23:34:59,141 - Definicje unutrasnjih klasa = 0
+INFO  23:34:59,143 - Definicije metoda unutrasnjih klasa = 0
+INFO  23:34:59,144 - Deklaracije polja unutrasnjih klasa = 0
+ERROR 23:34:59,145 - Parsiranje NIJE uspesno zavrseno!

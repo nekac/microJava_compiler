@@ -1,0 +1,40 @@
+INFO  23:34:22,931 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\ParserTestError.mj
+INFO  23:34:22,952 - #2 program
+INFO  23:34:22,952 - #18 ParserTestError
+INFO  23:34:22,952 - #13 class
+INFO  23:34:22,953 - #18 PrvaKlasa
+INFO  23:34:22,953 - #12 extends
+INFO  23:34:22,953 - #18 NepostojecaNatklasa
+INFO  23:34:22,953 - #23 {
+INFO  23:34:22,953 - Obradjuje se klasa PrvaKlasa na liniji 5
+INFO  23:34:22,953 - #18 char
+INFO  23:34:22,953 - #18 x
+INFO  23:34:22,954 - Na liniji 7 detektovano koriscenje tipa Type char: char, -1, -1 
+INFO  23:34:22,954 - #25 ;
+INFO  23:34:22,954 - Deklarisana promenljiva x na liniji 7
+INFO  23:34:22,954 - #18 real
+INFO  23:34:22,954 - #18 y
+INFO  23:34:22,954 - #25 ;
+INFO  23:34:22,955 - Deklarisana promenljiva y na liniji 8
+INFO  23:34:22,955 - #18 y
+INFO  23:34:22,955 - #18 z
+INFO  23:34:22,955 - #25 ;
+INFO  23:34:22,955 - Deklarisana promenljiva z na liniji 9
+INFO  23:34:22,955 - #18 char
+INFO  23:34:22,955 - #18 q
+INFO  23:34:22,955 - Na liniji 10 detektovano koriscenje tipa Type char: char, -1, -1 
+INFO  23:34:22,956 - #25 ;
+INFO  23:34:22,956 - Deklarisana promenljiva q na liniji 10
+INFO  23:34:22,956 - #23 {
+INFO  23:34:22,956 - #8 void
+INFO  23:34:22,956 - #18 funkcija
+INFO  23:34:22,956 - #26 (
+INFO  23:34:22,956 - Obradjuje se funkcija funkcija na liniji 12
+INFO  23:34:22,956 - #27 )
+INFO  23:34:22,956 - #23 {
+INFO  23:34:22,956 - #18 this
+INFO  23:34:22,958 - #32 .
+INFO  23:34:22,958 - #18 q
+INFO  23:34:22,958 - #31 =
+INFO  23:34:22,959 - #16 Q
+INFO  23:34:22,959 - #25 ;

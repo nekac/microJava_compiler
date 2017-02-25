@@ -1,0 +1,87 @@
+INFO  12:23:45,206 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test03.mj
+INFO  12:23:45,226 - #2 program
+INFO  12:23:45,227 - #18 test03
+INFO  12:23:45,227 - #11 const
+INFO  12:23:45,227 - #18 int
+INFO  12:23:45,227 - #18 a
+INFO  12:23:45,227 - #31 =
+INFO  12:23:45,228 - #15 3
+INFO  12:23:45,228 - #25 ;
+INFO  12:23:45,228 - Deklarisana konstanta a na liniji 5
+INFO  12:23:45,228 - #18 int
+INFO  12:23:45,228 - #18 x
+INFO  12:23:45,228 - #30 ,
+INFO  12:23:45,228 - Deklarisana promenljiva x na liniji 6
+INFO  12:23:45,228 - #18 y
+INFO  12:23:45,229 - #25 ;
+INFO  12:23:45,229 - Deklarisana promenljiva y na liniji 6
+INFO  12:23:45,229 - #18 char
+INFO  12:23:45,229 - #18 z
+INFO  12:23:45,229 - #25 ;
+INFO  12:23:45,229 - Deklarisana promenljiva z na liniji 7
+INFO  12:23:45,229 - #23 {
+INFO  12:23:45,229 - #8 void
+INFO  12:23:45,230 - #18 main
+INFO  12:23:45,230 - #26 (
+INFO  12:23:45,230 - Obradjuje se funkcija main na liniji 9
+INFO  12:23:45,230 - #27 )
+INFO  12:23:45,230 - #23 {
+INFO  12:23:45,230 - #6 read
+INFO  12:23:45,232 - #26 (
+INFO  12:23:45,232 - #18 a
+INFO  12:23:45,232 - #27 )
+INFO  12:23:45,232 - #25 ;
+INFO  12:23:45,232 - #18 a
+INFO  12:23:45,232 - #31 =
+INFO  12:23:45,232 - #15 5
+INFO  12:23:45,233 - #25 ;
+INFO  12:23:45,233 - #18 x
+INFO  12:23:45,233 - #31 =
+INFO  12:23:45,233 - #15 1
+INFO  12:23:45,233 - #25 ;
+INFO  12:23:45,234 - #18 y
+INFO  12:23:45,234 - #31 =
+INFO  12:23:45,234 - #15 3
+INFO  12:23:45,234 - #25 ;
+INFO  12:23:45,234 - #18 z
+INFO  12:23:45,234 - #31 =
+INFO  12:23:45,235 - #16 b
+INFO  12:23:45,235 - #25 ;
+INFO  12:23:45,235 - #50 for
+INFO  12:23:45,236 - #26 (
+INFO  12:23:45,236 - #25 ;
+INFO  12:23:45,236 - #18 z
+INFO  12:23:45,236 - #37 <
+INFO  12:23:45,236 - #18 a
+INFO  12:23:45,236 - #25 ;
+INFO  12:23:45,236 - #27 )
+INFO  12:23:45,236 - #23 {
+INFO  12:23:45,236 - #18 z
+INFO  12:23:45,236 - #31 =
+INFO  12:23:45,236 - #18 y
+INFO  12:23:45,237 - #19 +
+INFO  12:23:45,237 - #18 x
+INFO  12:23:45,237 - #25 ;
+INFO  12:23:45,237 - #18 x
+INFO  12:23:45,237 - #31 =
+INFO  12:23:45,237 - #18 x
+INFO  12:23:45,237 - #19 +
+INFO  12:23:45,237 - #15 1
+INFO  12:23:45,238 - #25 ;
+INFO  12:23:45,238 - #24 }
+INFO  12:23:45,238 - #4 break
+INFO  12:23:45,238 - #25 ;
+INFO  12:23:45,238 - #24 }
+INFO  12:23:45,238 - #24 }
+INFO  12:23:45,238 - Definicije globalnih promenljivih = 3
+INFO  12:23:45,238 - Definicija lokalnih promenljivih (u main funkciji) = 0
+INFO  12:23:45,239 - Definicije globalnih konstanti = 1
+INFO  12:23:45,239 - Deklaracije globalnih nizova = 0
+INFO  12:23:45,239 - Definicije funkcija u glavnom programu = 1
+INFO  12:23:45,239 - Blokovi naredbi = 2
+INFO  12:23:45,239 - Pozivi funkcija u telu metode main = 1
+INFO  12:23:45,239 - Deklaracije formalnih argumenata funkcija = 0
+INFO  12:23:45,239 - Definicje unutrasnjih klasa = 0
+INFO  12:23:45,239 - Definicije metoda unutrasnjih klasa = 0
+INFO  12:23:45,239 - Deklaracije polja unutrasnjih klasa = 0
+ERROR 12:23:45,240 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,294 @@
+INFO  21:21:22,652 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test301.mj
+INFO  21:21:22,672 - #2 program
+INFO  21:21:22,673 - #18 test301
+INFO  21:21:22,673 - #11 const
+INFO  21:21:22,673 - #18 int
+INFO  21:21:22,673 - #18 jedan
+INFO  21:21:22,673 - Na liniji 4 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  21:21:22,674 - #31 =
+INFO  21:21:22,674 - #15 1
+INFO  21:21:22,674 - #25 ;
+INFO  21:21:22,674 - Deklarisana konstanta jedan na liniji 4
+INFO  21:21:22,674 - #11 const
+INFO  21:21:22,674 - #18 int
+INFO  21:21:22,675 - #18 pet
+INFO  21:21:22,676 - Na liniji 5 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  21:21:22,676 - #31 =
+INFO  21:21:22,676 - #15 5
+INFO  21:21:22,677 - #25 ;
+INFO  21:21:22,677 - Deklarisana konstanta pet na liniji 5
+INFO  21:21:22,677 - #18 int
+INFO  21:21:22,677 - #18 niz
+INFO  21:21:22,677 - Na liniji 7 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  21:21:22,677 - #28 [
+INFO  21:21:22,677 - #29 ]
+INFO  21:21:22,677 - #25 ;
+INFO  21:21:22,677 - Deklarisan niz niz na liniji 7
+INFO  21:21:22,677 - #18 char
+INFO  21:21:22,678 - #18 nizch
+INFO  21:21:22,678 - Na liniji 9 detektovano koriscenje tipa Type char: char, -1, -1 
+INFO  21:21:22,678 - #28 [
+INFO  21:21:22,678 - #29 ]
+INFO  21:21:22,678 - #25 ;
+INFO  21:21:22,678 - Deklarisan niz nizch na liniji 9
+INFO  21:21:22,678 - #23 {
+INFO  21:21:22,678 - #8 void
+INFO  21:21:22,678 - #18 main
+INFO  21:21:22,678 - #26 (
+INFO  21:21:22,678 - Obradjuje se funkcija main na liniji 12
+INFO  21:21:22,678 - #27 )
+INFO  21:21:22,679 - #18 int
+INFO  21:21:22,679 - #18 bodovi
+INFO  21:21:22,679 - Na liniji 12 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  21:21:22,679 - #25 ;
+INFO  21:21:22,679 - Deklarisana promenljiva bodovi na liniji 12
+INFO  21:21:22,679 - #23 {
+INFO  21:21:22,679 - #18 bodovi
+INFO  21:21:22,681 - #31 =
+INFO  21:21:22,681 - Na liniji 15 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,681 - #15 0
+INFO  21:21:22,681 - #25 ;
+INFO  21:21:22,681 - #18 bodovi
+INFO  21:21:22,681 - #47 ++
+INFO  21:21:22,681 - Na liniji 16 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,681 - #25 ;
+INFO  21:21:22,681 - #18 bodovi
+INFO  21:21:22,682 - #31 =
+INFO  21:21:22,682 - Na liniji 17 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,682 - #18 bodovi
+INFO  21:21:22,682 - #19 +
+INFO  21:21:22,682 - Na liniji 17 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,682 - #18 jedan
+INFO  21:21:22,682 - #25 ;
+INFO  21:21:22,682 - Na liniji 17 detektovano koriscenje simbola: Con jedan: int, 1, 0 
+INFO  21:21:22,682 - #18 bodovi
+INFO  21:21:22,682 - #20 +=
+INFO  21:21:22,683 - Na liniji 18 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,683 - #18 bodovi
+INFO  21:21:22,683 - #40 *=
+INFO  21:21:22,683 - Na liniji 18 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,683 - #18 pet
+INFO  21:21:22,683 - #25 ;
+INFO  21:21:22,683 - Na liniji 18 detektovano koriscenje simbola: Con pet: int, 5, 0 
+INFO  21:21:22,683 - #18 bodovi
+INFO  21:21:22,684 - #48 --
+INFO  21:21:22,684 - Na liniji 19 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,684 - #25 ;
+INFO  21:21:22,684 - #18 bodovi
+INFO  21:21:22,684 - #31 =
+INFO  21:21:22,684 - Na liniji 20 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,684 - #18 bodovi
+INFO  21:21:22,685 - #19 +
+INFO  21:21:22,685 - Na liniji 20 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,685 - #18 pet
+INFO  21:21:22,685 - #25 ;
+INFO  21:21:22,685 - Na liniji 20 detektovano koriscenje simbola: Con pet: int, 5, 0 
+INFO  21:21:22,685 - #3 print
+INFO  21:21:22,685 - #26 (
+INFO  21:21:22,685 - #18 bodovi
+INFO  21:21:22,685 - #27 )
+INFO  21:21:22,685 - Na liniji 21 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,686 - #25 ;
+INFO  21:21:22,686 - #18 niz
+INFO  21:21:22,686 - #31 =
+INFO  21:21:22,686 - Na liniji 24 detektovano koriscenje simbola: Var niz: Arr of int, 0, 0 
+INFO  21:21:22,686 - #14 new
+INFO  21:21:22,686 - #18 int
+INFO  21:21:22,686 - #28 [
+INFO  21:21:22,686 - Na liniji 24 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  21:21:22,687 - #15 2
+INFO  21:21:22,687 - #29 ]
+INFO  21:21:22,687 - #25 ;
+INFO  21:21:22,687 - #18 niz
+INFO  21:21:22,687 - #28 [
+INFO  21:21:22,687 - Na liniji 25 detektovano koriscenje simbola: Var niz: Arr of int, 0, 0 
+INFO  21:21:22,687 - #15 0
+INFO  21:21:22,687 - Na liniji 25 detektovano koriscenje clana niza Var niz: Arr of int, 0, 0 
+INFO  21:21:22,687 - #29 ]
+INFO  21:21:22,688 - #31 =
+INFO  21:21:22,688 - #18 pet
+INFO  21:21:22,688 - #25 ;
+INFO  21:21:22,688 - Na liniji 25 detektovano koriscenje simbola: Con pet: int, 5, 0 
+INFO  21:21:22,688 - #18 niz
+INFO  21:21:22,688 - #28 [
+INFO  21:21:22,688 - Na liniji 26 detektovano koriscenje simbola: Var niz: Arr of int, 0, 0 
+INFO  21:21:22,689 - #15 1
+INFO  21:21:22,689 - Na liniji 26 detektovano koriscenje clana niza Var niz: Arr of int, 0, 0 
+INFO  21:21:22,689 - #29 ]
+INFO  21:21:22,689 - #31 =
+INFO  21:21:22,689 - #15 10
+INFO  21:21:22,689 - #25 ;
+INFO  21:21:22,689 - #18 bodovi
+INFO  21:21:22,691 - #31 =
+INFO  21:21:22,691 - Na liniji 27 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,691 - #26 (
+INFO  21:21:22,691 - #18 niz
+INFO  21:21:22,691 - #28 [
+INFO  21:21:22,691 - Na liniji 27 detektovano koriscenje simbola: Var niz: Arr of int, 0, 0 
+INFO  21:21:22,692 - #15 1
+INFO  21:21:22,692 - Na liniji 27 detektovano koriscenje clana niza Var niz: Arr of int, 0, 0 
+INFO  21:21:22,692 - #29 ]
+INFO  21:21:22,692 - #42 /=
+INFO  21:21:22,694 - #18 niz
+INFO  21:21:22,695 - #28 [
+INFO  21:21:22,695 - Na liniji 27 detektovano koriscenje simbola: Var niz: Arr of int, 0, 0 
+INFO  21:21:22,695 - #15 0
+INFO  21:21:22,695 - Na liniji 27 detektovano koriscenje clana niza Var niz: Arr of int, 0, 0 
+INFO  21:21:22,696 - #29 ]
+INFO  21:21:22,696 - #27 )
+INFO  21:21:22,696 - #25 ;
+INFO  21:21:22,696 - #3 print
+INFO  21:21:22,696 - #26 (
+INFO  21:21:22,696 - #18 bodovi
+INFO  21:21:22,696 - #27 )
+INFO  21:21:22,696 - Na liniji 28 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,697 - #25 ;
+INFO  21:21:22,697 - #3 print
+INFO  21:21:22,697 - #26 (
+INFO  21:21:22,697 - #18 niz
+INFO  21:21:22,697 - #28 [
+INFO  21:21:22,697 - Na liniji 29 detektovano koriscenje simbola: Var niz: Arr of int, 0, 0 
+INFO  21:21:22,697 - #15 1
+INFO  21:21:22,697 - Na liniji 29 detektovano koriscenje clana niza Var niz: Arr of int, 0, 0 
+INFO  21:21:22,697 - #29 ]
+INFO  21:21:22,697 - #27 )
+INFO  21:21:22,697 - #25 ;
+INFO  21:21:22,697 - #18 nizch
+INFO  21:21:22,698 - #31 =
+INFO  21:21:22,698 - Na liniji 32 detektovano koriscenje simbola: Var nizch: Arr of char, 1, 0 
+INFO  21:21:22,698 - #14 new
+INFO  21:21:22,698 - #18 char
+INFO  21:21:22,698 - #28 [
+INFO  21:21:22,698 - Na liniji 32 detektovano koriscenje tipa Type char: char, -1, -1 
+INFO  21:21:22,698 - #15 3
+INFO  21:21:22,698 - #29 ]
+INFO  21:21:22,698 - #25 ;
+INFO  21:21:22,698 - #18 nizch
+INFO  21:21:22,698 - #28 [
+INFO  21:21:22,699 - Na liniji 33 detektovano koriscenje simbola: Var nizch: Arr of char, 1, 0 
+INFO  21:21:22,699 - #15 0
+INFO  21:21:22,699 - Na liniji 33 detektovano koriscenje clana niza Var nizch: Arr of char, 1, 0 
+INFO  21:21:22,699 - #29 ]
+INFO  21:21:22,699 - #31 =
+INFO  21:21:22,700 - #16 a
+INFO  21:21:22,700 - #25 ;
+INFO  21:21:22,700 - #18 nizch
+INFO  21:21:22,700 - #28 [
+INFO  21:21:22,700 - Na liniji 34 detektovano koriscenje simbola: Var nizch: Arr of char, 1, 0 
+INFO  21:21:22,700 - #18 jedan
+INFO  21:21:22,700 - Na liniji 34 detektovano koriscenje clana niza Var nizch: Arr of char, 1, 0 
+INFO  21:21:22,700 - #29 ]
+INFO  21:21:22,701 - Na liniji 34 detektovano koriscenje simbola: Con jedan: int, 1, 0 
+INFO  21:21:22,701 - #31 =
+INFO  21:21:22,701 - #16 b
+INFO  21:21:22,701 - #25 ;
+INFO  21:21:22,701 - #18 nizch
+INFO  21:21:22,701 - #28 [
+INFO  21:21:22,701 - Na liniji 35 detektovano koriscenje simbola: Var nizch: Arr of char, 1, 0 
+INFO  21:21:22,701 - #18 pet
+INFO  21:21:22,701 - Na liniji 35 detektovano koriscenje clana niza Var nizch: Arr of char, 1, 0 
+INFO  21:21:22,701 - #21 -
+INFO  21:21:22,702 - Na liniji 35 detektovano koriscenje simbola: Con pet: int, 5, 0 
+INFO  21:21:22,702 - #15 3
+INFO  21:21:22,702 - #29 ]
+INFO  21:21:22,702 - #31 =
+INFO  21:21:22,702 - #16 c
+INFO  21:21:22,702 - #25 ;
+INFO  21:21:22,702 - #3 print
+INFO  21:21:22,702 - #26 (
+INFO  21:21:22,702 - #18 nizch
+INFO  21:21:22,702 - #28 [
+INFO  21:21:22,702 - Na liniji 36 detektovano koriscenje simbola: Var nizch: Arr of char, 1, 0 
+INFO  21:21:22,702 - #15 2
+INFO  21:21:22,703 - Na liniji 36 detektovano koriscenje clana niza Var nizch: Arr of char, 1, 0 
+INFO  21:21:22,703 - #21 -
+INFO  21:21:22,703 - #15 1
+INFO  21:21:22,703 - #29 ]
+INFO  21:21:22,703 - #27 )
+INFO  21:21:22,703 - #25 ;
+INFO  21:21:22,703 - #3 print
+INFO  21:21:22,703 - #26 (
+INFO  21:21:22,703 - #18 nizch
+INFO  21:21:22,703 - #28 [
+INFO  21:21:22,703 - Na liniji 37 detektovano koriscenje simbola: Var nizch: Arr of char, 1, 0 
+INFO  21:21:22,703 - #18 jedan
+INFO  21:21:22,703 - Na liniji 37 detektovano koriscenje clana niza Var nizch: Arr of char, 1, 0 
+INFO  21:21:22,703 - #39 *
+INFO  21:21:22,703 - Na liniji 37 detektovano koriscenje simbola: Con jedan: int, 1, 0 
+INFO  21:21:22,703 - #15 2
+INFO  21:21:22,704 - #29 ]
+INFO  21:21:22,704 - #27 )
+INFO  21:21:22,704 - #25 ;
+INFO  21:21:22,704 - #18 bodovi
+INFO  21:21:22,704 - #20 +=
+INFO  21:21:22,704 - Na liniji 40 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,704 - #26 (
+INFO  21:21:22,704 - #26 (
+INFO  21:21:22,704 - #18 pet
+INFO  21:21:22,704 - #39 *
+INFO  21:21:22,704 - Na liniji 40 detektovano koriscenje simbola: Con pet: int, 5, 0 
+INFO  21:21:22,704 - #18 jedan
+INFO  21:21:22,704 - #21 -
+INFO  21:21:22,704 - Na liniji 40 detektovano koriscenje simbola: Con jedan: int, 1, 0 
+INFO  21:21:22,704 - #15 1
+INFO  21:21:22,705 - #27 )
+INFO  21:21:22,705 - #39 *
+INFO  21:21:22,705 - #15 2
+INFO  21:21:22,705 - #21 -
+INFO  21:21:22,705 - #26 (
+INFO  21:21:22,705 - #15 3
+INFO  21:21:22,705 - #43 %
+INFO  21:21:22,705 - #15 2
+INFO  21:21:22,705 - #19 +
+INFO  21:21:22,705 - #15 3
+INFO  21:21:22,705 - #39 *
+INFO  21:21:22,705 - #15 2
+INFO  21:21:22,705 - #21 -
+INFO  21:21:22,705 - #15 3
+INFO  21:21:22,705 - #27 )
+INFO  21:21:22,706 - #21 -
+INFO  21:21:22,706 - #15 1
+INFO  21:21:22,706 - #39 *
+INFO  21:21:22,706 - #15 0
+INFO  21:21:22,706 - #27 )
+INFO  21:21:22,706 - #25 ;
+INFO  21:21:22,713 - #3 print
+INFO  21:21:22,713 - #26 (
+INFO  21:21:22,714 - #18 bodovi
+INFO  21:21:22,714 - #27 )
+INFO  21:21:22,714 - Na liniji 41 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,714 - #25 ;
+INFO  21:21:22,714 - #6 read
+INFO  21:21:22,714 - #26 (
+INFO  21:21:22,714 - #18 bodovi
+INFO  21:21:22,714 - #27 )
+INFO  21:21:22,715 - Na liniji 44 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,715 - #25 ;
+INFO  21:21:22,715 - #18 bodovi
+INFO  21:21:22,715 - #40 *=
+INFO  21:21:22,715 - Na liniji 45 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,715 - #18 bodovi
+INFO  21:21:22,715 - #21 -
+INFO  21:21:22,715 - Na liniji 45 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,715 - #15 3
+INFO  21:21:22,715 - #25 ;
+INFO  21:21:22,715 - #3 print
+INFO  21:21:22,715 - #26 (
+INFO  21:21:22,715 - #18 bodovi
+INFO  21:21:22,715 - #27 )
+INFO  21:21:22,716 - Na liniji 46 detektovano koriscenje simbola: Var bodovi: int, 0, 1 
+INFO  21:21:22,716 - #25 ;
+INFO  21:21:22,716 - #24 }
+INFO  21:21:22,716 - #24 }
+INFO  21:21:22,716 - Definicije globalnih promenljivih = 0
+INFO  21:21:22,716 - Definicija lokalnih promenljivih (u main funkciji) = 1
+INFO  21:21:22,716 - Definicije globalnih konstanti = 2
+INFO  21:21:22,716 - Deklaracije globalnih nizova = 2
+INFO  21:21:22,716 - Definicije funkcija u glavnom programu = 1
+INFO  21:21:22,716 - Blokovi naredbi = 1
+INFO  21:21:22,716 - Pozivi funkcija u telu metode main = 8
+INFO  21:21:22,716 - Deklaracije formalnih argumenata funkcija = 0
+INFO  21:21:22,716 - Definicje unutrasnjih klasa = 0
+INFO  21:21:22,717 - Definicije metoda unutrasnjih klasa = 0
+INFO  21:21:22,717 - Deklaracije polja unutrasnjih klasa = 0
+INFO  21:21:22,719 - Parsiranje uspesno zavrseno!

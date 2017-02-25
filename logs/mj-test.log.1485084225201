@@ -1,0 +1,112 @@
+INFO  12:22:14,041 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test02.mj
+INFO  12:22:14,065 - #2 program
+INFO  12:22:14,066 - #18 MaxCifra
+INFO  12:22:14,066 - #11 const
+INFO  12:22:14,066 - #18 x
+INFO  12:22:14,066 - #25 ;
+INFO  12:22:14,066 - #18 int
+INFO  12:22:14,067 - #18 a
+INFO  12:22:14,067 - #30 ,
+INFO  12:22:14,067 - Uspesan oporavak od greske do ; prilikom definicije konstanti na liniji 4
+INFO  12:22:14,068 - Deklarisana promenljiva a na liniji 6
+INFO  12:22:14,068 - #18 c
+INFO  12:22:14,068 - #30 ,
+INFO  12:22:14,068 - Deklarisana promenljiva c na liniji 6
+INFO  12:22:14,068 - #18 maxcif
+INFO  12:22:14,068 - #25 ;
+INFO  12:22:14,068 - Deklarisana promenljiva maxcif na liniji 6
+INFO  12:22:14,069 - #18 char
+INFO  12:22:14,069 - #18 e
+INFO  12:22:14,069 - #31 =
+INFO  12:22:14,070 - #16 2
+INFO  12:22:14,070 - #25 ;
+INFO  12:22:14,070 - #18 int
+INFO  12:22:14,070 - #18 c
+INFO  12:22:14,070 - #25 ;
+DEBUG 12:22:14,070 - Uspesan oporavak od greske do ; pri definiciji globalne promenljive.
+INFO  12:22:14,071 - #23 {
+INFO  12:22:14,071 - #8 void
+INFO  12:22:14,071 - #18 main
+INFO  12:22:14,071 - #26 (
+INFO  12:22:14,071 - Obradjuje se funkcija main na liniji 10
+INFO  12:22:14,071 - #27 )
+INFO  12:22:14,072 - #18 char
+INFO  12:22:14,072 - #18 a
+INFO  12:22:14,072 - #25 ;
+INFO  12:22:14,072 - Deklarisana promenljiva a na liniji 10
+INFO  12:22:14,072 - #18 int
+INFO  12:22:14,072 - #18 z
+INFO  12:22:14,072 - #31 =
+INFO  12:22:14,072 - #15 0
+INFO  12:22:14,072 - #23 {
+INFO  12:22:14,073 - #6 read
+INFO  12:22:14,073 - #26 (
+INFO  12:22:14,073 - #18 a
+INFO  12:22:14,073 - Uspesan oporavak od greske do { pri deklaraciji lokalnih promenljivih na liniji 10
+INFO  12:22:14,075 - #27 )
+INFO  12:22:14,075 - #25 ;
+INFO  12:22:14,075 - #18 maxcif
+INFO  12:22:14,075 - #31 =
+INFO  12:22:14,076 - #15 0
+INFO  12:22:14,076 - #25 ;
+INFO  12:22:14,076 - #50 for
+INFO  12:22:14,076 - #26 (
+INFO  12:22:14,076 - #25 ;
+INFO  12:22:14,076 - #18 a
+INFO  12:22:14,076 - #34 !=
+INFO  12:22:14,076 - #15 0
+INFO  12:22:14,077 - #25 ;
+INFO  12:22:14,077 - #27 )
+INFO  12:22:14,077 - #23 {
+INFO  12:22:14,077 - #18 c
+INFO  12:22:14,077 - #31 =
+INFO  12:22:14,077 - #18 a
+INFO  12:22:14,077 - #43 %
+INFO  12:22:14,078 - #15 10
+INFO  12:22:14,078 - #25 ;
+INFO  12:22:14,078 - #9 if
+INFO  12:22:14,078 - #26 (
+INFO  12:22:14,078 - #18 maxcif
+INFO  12:22:14,078 - #37 <
+INFO  12:22:14,078 - #35 >
+INFO  12:22:14,079 - #18 c
+INFO  12:22:14,079 - #27 )
+INFO  12:22:14,079 - #18 maxcif
+INFO  12:22:14,079 - #31 =
+INFO  12:22:14,080 - #18 c
+INFO  12:22:14,080 - Uspesan oporavak od greske do ) u uslovu na liniji 15
+INFO  12:22:14,080 - #25 ;
+INFO  12:22:14,080 - #18 a
+INFO  12:22:14,080 - #31 =
+INFO  12:22:14,080 - #18 a
+INFO  12:22:14,080 - #41 /
+INFO  12:22:14,081 - #15 10
+INFO  12:22:14,081 - #25 ;
+INFO  12:22:14,081 - #24 }
+INFO  12:22:14,081 - #6 read
+INFO  12:22:14,082 - #26 (
+INFO  12:22:14,082 - #18 x
+INFO  12:22:14,082 - #27 )
+INFO  12:22:14,082 - #25 ;
+INFO  12:22:14,083 - #18 x
+INFO  12:22:14,083 - #47 ++
+INFO  12:22:14,083 - #25 ;
+INFO  12:22:14,083 - #3 print
+INFO  12:22:14,083 - #26 (
+INFO  12:22:14,083 - #18 max
+INFO  12:22:14,084 - #27 )
+INFO  12:22:14,084 - #25 ;
+INFO  12:22:14,084 - #24 }
+INFO  12:22:14,084 - #24 }
+INFO  12:22:14,084 - Definicije globalnih promenljivih = 4
+INFO  12:22:14,084 - Definicija lokalnih promenljivih (u main funkciji) = 1
+INFO  12:22:14,084 - Definicije globalnih konstanti = 0
+INFO  12:22:14,085 - Deklaracije globalnih nizova = 0
+INFO  12:22:14,085 - Definicije funkcija u glavnom programu = 1
+INFO  12:22:14,085 - Blokovi naredbi = 2
+INFO  12:22:14,085 - Pozivi funkcija u telu metode main = 3
+INFO  12:22:14,085 - Deklaracije formalnih argumenata funkcija = 0
+INFO  12:22:14,085 - Definicje unutrasnjih klasa = 0
+INFO  12:22:14,085 - Definicije metoda unutrasnjih klasa = 0
+INFO  12:22:14,085 - Deklaracije polja unutrasnjih klasa = 0
+ERROR 12:22:14,086 - Parsiranje NIJE uspesno zavrseno!

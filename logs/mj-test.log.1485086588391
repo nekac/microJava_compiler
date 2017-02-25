@@ -1,0 +1,293 @@
+INFO  12:54:26,931 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test08.mj
+INFO  12:54:26,951 - #2 program
+INFO  12:54:26,951 - #18 test08
+INFO  12:54:26,951 - #13 class
+INFO  12:54:26,951 - #18 Alfa
+INFO  12:54:26,951 - #12 extends
+INFO  12:54:26,951 - #18 Nepostojeca
+INFO  12:54:26,951 - #23 {
+INFO  12:54:26,952 - Obradjuje se klasa Alfa na liniji 5
+INFO  12:54:26,952 - #18 int
+INFO  12:54:26,952 - #18 x
+INFO  12:54:26,952 - #25 ;
+INFO  12:54:26,952 - Deklarisana promenljiva x na liniji 6
+INFO  12:54:26,952 - #18 char
+INFO  12:54:26,952 - #18 x
+INFO  12:54:26,953 - #25 ;
+INFO  12:54:26,953 - #18 real
+INFO  12:54:26,953 - #18 y
+INFO  12:54:26,953 - #25 ;
+INFO  12:54:26,953 - Deklarisana promenljiva y na liniji 8
+INFO  12:54:26,954 - #18 y
+INFO  12:54:26,954 - #18 z
+INFO  12:54:26,954 - #25 ;
+INFO  12:54:26,954 - Deklarisana promenljiva z na liniji 9
+INFO  12:54:26,954 - #18 char
+INFO  12:54:26,954 - #18 b
+INFO  12:54:26,954 - #25 ;
+INFO  12:54:26,954 - Deklarisana promenljiva b na liniji 10
+INFO  12:54:26,954 - #23 {
+INFO  12:54:26,954 - #8 void
+INFO  12:54:26,954 - #18 k
+INFO  12:54:26,955 - #26 (
+INFO  12:54:26,955 - Obradjuje se funkcija k na liniji 12
+INFO  12:54:26,955 - #27 )
+INFO  12:54:26,955 - #23 {
+INFO  12:54:26,955 - #18 this
+INFO  12:54:26,956 - #32 .
+INFO  12:54:26,956 - #18 b
+INFO  12:54:26,957 - #31 =
+INFO  12:54:26,957 - #16 a
+INFO  12:54:26,957 - #25 ;
+INFO  12:54:26,957 - #24 }
+INFO  12:54:26,958 - #18 int
+INFO  12:54:26,958 - #18 f
+INFO  12:54:26,958 - #26 (
+INFO  12:54:26,958 - Obradjuje se funkcija f na liniji 16
+INFO  12:54:26,958 - #18 int
+INFO  12:54:26,958 - #18 sss
+INFO  12:54:26,958 - #27 )
+INFO  12:54:26,958 - Deklarisana formalna promenljiva sss na liniji 16
+INFO  12:54:26,958 - #23 {
+INFO  12:54:26,959 - #18 this
+INFO  12:54:26,959 - #31 =
+INFO  12:54:26,959 - #15 1
+INFO  12:54:26,959 - #25 ;
+INFO  12:54:26,959 - #18 this
+INFO  12:54:26,959 - #32 .
+INFO  12:54:26,960 - #18 b
+INFO  12:54:26,960 - #31 =
+INFO  12:54:26,960 - #15 1
+INFO  12:54:26,960 - #25 ;
+INFO  12:54:26,960 - #18 this
+INFO  12:54:26,960 - #32 .
+INFO  12:54:26,961 - #18 zh
+INFO  12:54:26,961 - #31 =
+INFO  12:54:26,961 - #15 2
+INFO  12:54:26,961 - #25 ;
+INFO  12:54:26,961 - #18 this
+INFO  12:54:26,961 - #32 .
+INFO  12:54:26,961 - #18 b
+INFO  12:54:26,962 - #31 =
+INFO  12:54:26,962 - #18 k
+INFO  12:54:26,962 - #26 (
+INFO  12:54:26,963 - Petraga na liniji 20(k), nadeno Meth k: notype, 0, 0 
+   Con : Class [], 97, 1 
+
+INFO  12:54:26,963 - #27 )
+INFO  12:54:26,963 - #25 ;
+INFO  12:54:26,963 - Pronadjen poziv funkcije k na liniji 20
+INFO  12:54:26,963 - #7 return
+INFO  12:54:26,963 - #18 b
+INFO  12:54:26,963 - #25 ;
+INFO  12:54:26,963 - Petraga na liniji 21(b), nadeno Fld b: char, 3, 1 
+INFO  12:54:26,964 - #24 }
+INFO  12:54:26,964 - #24 }
+INFO  12:54:26,964 - #24 }
+INFO  12:54:26,964 - #13 class
+INFO  12:54:26,964 - #18 Beta
+INFO  12:54:26,964 - #23 {
+INFO  12:54:26,964 - Obradjuje se klasa Beta na liniji 27
+INFO  12:54:26,964 - #18 int
+INFO  12:54:26,964 - #18 a
+INFO  12:54:26,964 - #30 ,
+INFO  12:54:26,965 - Deklarisana promenljiva a na liniji 28
+INFO  12:54:26,965 - #18 b
+INFO  12:54:26,965 - #25 ;
+INFO  12:54:26,965 - Deklarisana promenljiva b na liniji 28
+INFO  12:54:26,965 - #23 {
+INFO  12:54:26,965 - #8 void
+INFO  12:54:26,965 - #18 setA
+INFO  12:54:26,965 - #26 (
+INFO  12:54:26,965 - Obradjuje se funkcija setA na liniji 30
+INFO  12:54:26,966 - #27 )
+INFO  12:54:26,966 - #23 {
+INFO  12:54:26,966 - #6 read
+INFO  12:54:26,966 - #26 (
+INFO  12:54:26,966 - #18 a
+INFO  12:54:26,966 - #27 )
+INFO  12:54:26,966 - Petraga na liniji 31(a), nadeno Fld a: int, 0, 1 
+INFO  12:54:26,966 - #25 ;
+INFO  12:54:26,966 - #24 }
+INFO  12:54:26,966 - #8 void
+INFO  12:54:26,967 - #18 setAB
+INFO  12:54:26,967 - #26 (
+INFO  12:54:26,967 - Obradjuje se funkcija setAB na liniji 34
+INFO  12:54:26,967 - #18 int
+INFO  12:54:26,967 - #18 aa
+INFO  12:54:26,967 - #30 ,
+INFO  12:54:26,967 - Deklarisana formalna promenljiva aa na liniji 34
+INFO  12:54:26,967 - #18 int
+INFO  12:54:26,967 - #18 bb
+INFO  12:54:26,967 - #27 )
+INFO  12:54:26,968 - Deklarisana formalna promenljiva bb na liniji 34
+INFO  12:54:26,968 - #23 {
+INFO  12:54:26,968 - #18 a
+INFO  12:54:26,968 - #31 =
+INFO  12:54:26,968 - Petraga na liniji 35(a), nadeno Fld a: int, 0, 1 
+INFO  12:54:26,968 - #18 aa
+INFO  12:54:26,968 - #25 ;
+INFO  12:54:26,968 - Petraga na liniji 35(aa), nadeno Var aa: int, 0, 1 
+INFO  12:54:26,968 - #18 b
+INFO  12:54:26,968 - #31 =
+INFO  12:54:26,968 - Petraga na liniji 36(b), nadeno Fld b: int, 1, 1 
+INFO  12:54:26,969 - #18 bb
+INFO  12:54:26,969 - #25 ;
+INFO  12:54:26,969 - Petraga na liniji 36(bb), nadeno Var bb: int, 1, 1 
+INFO  12:54:26,969 - #24 }
+INFO  12:54:26,969 - #24 }
+INFO  12:54:26,969 - #24 }
+INFO  12:54:26,969 - #13 class
+INFO  12:54:26,970 - #18 Gama
+INFO  12:54:26,970 - #12 extends
+INFO  12:54:26,970 - #18 Beta
+INFO  12:54:26,970 - #23 {
+INFO  12:54:26,970 - Obradjuje se klasa Gama na liniji 41
+INFO  12:54:26,970 - #18 Beta
+INFO  12:54:26,970 - #18 b
+INFO  12:54:26,970 - #25 ;
+INFO  12:54:26,970 - Deklarisana promenljiva b na liniji 42
+INFO  12:54:26,971 - #24 }
+INFO  12:54:26,971 - #18 Gama
+INFO  12:54:26,971 - #18 g
+INFO  12:54:26,971 - #25 ;
+INFO  12:54:26,971 - Deklarisana promenljiva g na liniji 45
+INFO  12:54:26,972 - #23 {
+INFO  12:54:26,972 - #8 void
+INFO  12:54:26,972 - #18 main2
+INFO  12:54:26,972 - #26 (
+INFO  12:54:26,972 - Obradjuje se funkcija main2 na liniji 47
+INFO  12:54:26,972 - #27 )
+INFO  12:54:26,972 - #18 Alfa
+INFO  12:54:26,972 - #18 a
+INFO  12:54:26,972 - #25 ;
+INFO  12:54:26,972 - Deklarisana promenljiva a na liniji 48
+INFO  12:54:26,973 - #23 {
+INFO  12:54:26,973 - #18 a
+INFO  12:54:26,973 - #31 =
+INFO  12:54:26,973 - Petraga na liniji 50(a), nadeno Var a: Class [Fld x: int, 0, 1 Fld y: notype, 1, 1 Fld z: notype, 2, 1 Fld b: char, 3, 1 Meth k: notype, 0, 0 
+   Con : Class [], 97, 1 
+Meth f: int, 0, 1 
+   Var sss: int, 0, 1 
+   Con : int, 2, 1 
+], 0, 1 
+INFO  12:54:26,973 - #14 new
+INFO  12:54:26,973 - #18 Alfa
+INFO  12:54:26,973 - #25 ;
+INFO  12:54:26,973 - #18 g
+INFO  12:54:26,974 - #31 =
+INFO  12:54:26,974 - Petraga na liniji 51(g), nadeno Var g: Class [Fld b: Class [Fld a: int, 0, 1 Fld b: int, 1, 1 Meth setA: notype, 14, 0 
+Meth setAB: notype, 23, 2 
+   Var aa: int, 0, 1 
+   Var bb: int, 1, 1 
+], 0, 1 ], 2, 0 
+INFO  12:54:26,974 - #14 new
+INFO  12:54:26,974 - #18 Gama
+INFO  12:54:26,974 - #25 ;
+INFO  12:54:26,974 - #3 print
+INFO  12:54:26,974 - #26 (
+INFO  12:54:26,974 - #18 a
+INFO  12:54:26,974 - #32 .
+INFO  12:54:26,974 - Petraga na liniji 52(a), nadeno Var a: Class [Fld x: int, 0, 1 Fld y: notype, 1, 1 Fld z: notype, 2, 1 Fld b: char, 3, 1 Meth k: notype, 0, 0 
+   Con : Class [], 97, 1 
+Meth f: int, 0, 1 
+   Var sss: int, 0, 1 
+   Con : int, 2, 1 
+], 0, 1 
+INFO  12:54:26,974 - #18 f
+INFO  12:54:26,975 - #26 (
+INFO  12:54:26,975 - #26 (
+INFO  12:54:26,975 - #15 3
+INFO  12:54:26,975 - #19 +
+INFO  12:54:26,975 - #15 5
+INFO  12:54:26,975 - #27 )
+INFO  12:54:26,975 - #21 -
+INFO  12:54:26,975 - #15 4
+INFO  12:54:26,975 - #27 )
+INFO  12:54:26,975 - #27 )
+INFO  12:54:26,976 - Pronadjen poziv funkcije f na liniji 52
+INFO  12:54:26,976 - #25 ;
+INFO  12:54:26,976 - #18 this
+INFO  12:54:26,976 - #31 =
+INFO  12:54:26,977 - #15 3
+INFO  12:54:26,978 - #25 ;
+INFO  12:54:26,978 - #18 g
+INFO  12:54:26,978 - #32 .
+INFO  12:54:26,978 - Petraga na liniji 55(g), nadeno Var g: Class [Fld b: Class [Fld a: int, 0, 1 Fld b: int, 1, 1 Meth setA: notype, 14, 0 
+Meth setAB: notype, 23, 2 
+   Var aa: int, 0, 1 
+   Var bb: int, 1, 1 
+], 0, 1 ], 2, 0 
+INFO  12:54:26,978 - #18 setA
+INFO  12:54:26,978 - #26 (
+INFO  12:54:26,978 - #15 2
+INFO  12:54:26,978 - #27 )
+INFO  12:54:26,978 - #25 ;
+INFO  12:54:26,979 - #18 g
+INFO  12:54:26,979 - #32 .
+INFO  12:54:26,979 - Petraga na liniji 56(g), nadeno Var g: Class [Fld b: Class [Fld a: int, 0, 1 Fld b: int, 1, 1 Meth setA: notype, 14, 0 
+Meth setAB: notype, 23, 2 
+   Var aa: int, 0, 1 
+   Var bb: int, 1, 1 
+], 0, 1 ], 2, 0 
+INFO  12:54:26,979 - #18 setAB
+INFO  12:54:26,979 - #26 (
+INFO  12:54:26,979 - #15 2
+INFO  12:54:26,979 - #27 )
+INFO  12:54:26,979 - #25 ;
+INFO  12:54:26,979 - #18 g
+INFO  12:54:26,980 - #32 .
+INFO  12:54:26,980 - Petraga na liniji 57(g), nadeno Var g: Class [Fld b: Class [Fld a: int, 0, 1 Fld b: int, 1, 1 Meth setA: notype, 14, 0 
+Meth setAB: notype, 23, 2 
+   Var aa: int, 0, 1 
+   Var bb: int, 1, 1 
+], 0, 1 ], 2, 0 
+INFO  12:54:26,980 - #18 setAB
+INFO  12:54:26,980 - #26 (
+INFO  12:54:26,980 - #16 a
+INFO  12:54:26,980 - #30 ,
+INFO  12:54:26,980 - #16 b
+INFO  12:54:26,980 - #27 )
+INFO  12:54:26,980 - #25 ;
+INFO  12:54:26,980 - #18 g
+INFO  12:54:26,981 - #32 .
+INFO  12:54:26,981 - Petraga na liniji 58(g), nadeno Var g: Class [Fld b: Class [Fld a: int, 0, 1 Fld b: int, 1, 1 Meth setA: notype, 14, 0 
+Meth setAB: notype, 23, 2 
+   Var aa: int, 0, 1 
+   Var bb: int, 1, 1 
+], 0, 1 ], 2, 0 
+INFO  12:54:26,981 - #18 setAB
+INFO  12:54:26,981 - #26 (
+INFO  12:54:26,981 - #16 a
+INFO  12:54:26,981 - #30 ,
+INFO  12:54:26,981 - #15 5
+INFO  12:54:26,981 - #27 )
+INFO  12:54:26,981 - #25 ;
+INFO  12:54:26,982 - #18 g
+INFO  12:54:26,982 - #32 .
+INFO  12:54:26,982 - Petraga na liniji 59(g), nadeno Var g: Class [Fld b: Class [Fld a: int, 0, 1 Fld b: int, 1, 1 Meth setA: notype, 14, 0 
+Meth setAB: notype, 23, 2 
+   Var aa: int, 0, 1 
+   Var bb: int, 1, 1 
+], 0, 1 ], 2, 0 
+INFO  12:54:26,982 - #18 setAB
+INFO  12:54:26,982 - #26 (
+INFO  12:54:26,982 - #15 5
+INFO  12:54:26,982 - #30 ,
+INFO  12:54:26,982 - #16 b
+INFO  12:54:26,982 - #27 )
+INFO  12:54:26,982 - #25 ;
+INFO  12:54:26,983 - #24 }
+INFO  12:54:26,983 - #24 }
+INFO  12:54:26,983 - Definicije globalnih promenljivih = 1
+INFO  12:54:26,983 - Definicija lokalnih promenljivih (u main funkciji) = 0
+INFO  12:54:26,983 - Definicije globalnih konstanti = 0
+INFO  12:54:26,983 - Deklaracije globalnih nizova = 0
+INFO  12:54:26,983 - Definicije funkcija u glavnom programu = 1
+INFO  12:54:26,983 - Blokovi naredbi = 5
+INFO  12:54:26,983 - Pozivi funkcija u telu metode main = 0
+INFO  12:54:26,983 - Deklaracije formalnih argumenata funkcija = 3
+INFO  12:54:26,983 - Definicje unutrasnjih klasa = 3
+INFO  12:54:26,983 - Definicije metoda unutrasnjih klasa = 4
+INFO  12:54:26,983 - Deklaracije polja unutrasnjih klasa = 7
+ERROR 12:54:26,984 - Parsiranje NIJE uspesno zavrseno!

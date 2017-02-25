@@ -1,0 +1,744 @@
+INFO  11:00:10,394 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test303.mj
+INFO  11:00:10,426 - #2 program
+INFO  11:00:10,426 - #18 test_303
+INFO  11:00:10,426 - #11 const
+INFO  11:00:10,426 - #18 int
+INFO  11:00:10,426 - #18 cinilac
+INFO  11:00:10,426 - #31 =
+INFO  11:00:10,426 - #15 4
+INFO  11:00:10,427 - #30 ,
+INFO  11:00:10,427 - Deklarisana konstanta cinilac na liniji 5
+INFO  11:00:10,427 - #18 delilac
+INFO  11:00:10,427 - #31 =
+INFO  11:00:10,427 - #15 3
+INFO  11:00:10,427 - #25 ;
+INFO  11:00:10,427 - Deklarisana konstanta delilac na liniji 5
+INFO  11:00:10,427 - #13 class
+INFO  11:00:10,427 - #18 Predmet
+INFO  11:00:10,428 - #23 {
+INFO  11:00:10,428 - Obradjuje se klasa Predmet na liniji 6
+INFO  11:00:10,428 - #18 int
+INFO  11:00:10,428 - #18 tezina
+INFO  11:00:10,428 - #25 ;
+INFO  11:00:10,428 - Deklarisana promenljiva tezina na liniji 8
+INFO  11:00:10,428 - #18 char
+INFO  11:00:10,428 - #18 vrsta
+INFO  11:00:10,429 - #25 ;
+INFO  11:00:10,429 - Deklarisana promenljiva vrsta na liniji 9
+INFO  11:00:10,429 - #23 {
+INFO  11:00:10,429 - #8 void
+INFO  11:00:10,429 - #18 postaviTezinu
+INFO  11:00:10,429 - #26 (
+INFO  11:00:10,429 - Obradjuje se funkcija postaviTezinu na liniji 12
+INFO  11:00:10,429 - #18 int
+INFO  11:00:10,429 - #18 tezina
+INFO  11:00:10,430 - #27 )
+INFO  11:00:10,430 - Deklarisana formalna promenljiva tezina na liniji 12
+INFO  11:00:10,430 - #23 {
+INFO  11:00:10,430 - #18 this
+INFO  11:00:10,431 - #32 .
+INFO  11:00:10,432 - #18 tezina
+INFO  11:00:10,432 - #31 =
+INFO  11:00:10,432 - #18 tezina
+INFO  11:00:10,432 - #25 ;
+INFO  11:00:10,432 - #24 }
+INFO  11:00:10,433 - #8 void
+INFO  11:00:10,433 - #18 ucitajTezinu
+INFO  11:00:10,433 - #26 (
+INFO  11:00:10,433 - Obradjuje se funkcija ucitajTezinu na liniji 13
+INFO  11:00:10,433 - #27 )
+INFO  11:00:10,433 - #23 {
+INFO  11:00:10,433 - #6 read
+INFO  11:00:10,433 - #26 (
+INFO  11:00:10,433 - #18 tezina
+INFO  11:00:10,434 - #27 )
+INFO  11:00:10,434 - #25 ;
+INFO  11:00:10,434 - #24 }
+INFO  11:00:10,434 - #49 static
+INFO  11:00:10,434 - #8 void
+INFO  11:00:10,434 - #18 ispis
+INFO  11:00:10,434 - #26 (
+INFO  11:00:10,434 - Obradjuje se funkcija ispis na liniji 14
+INFO  11:00:10,434 - #18 Predmet
+INFO  11:00:10,434 - #18 p
+INFO  11:00:10,435 - #27 )
+INFO  11:00:10,435 - Deklarisana formalna promenljiva p na liniji 14
+INFO  11:00:10,435 - #23 {
+INFO  11:00:10,435 - #3 print
+INFO  11:00:10,435 - #26 (
+INFO  11:00:10,435 - #18 p
+INFO  11:00:10,435 - #32 .
+INFO  11:00:10,435 - #18 vrsta
+INFO  11:00:10,435 - #27 )
+INFO  11:00:10,436 - #25 ;
+INFO  11:00:10,437 - #3 print
+INFO  11:00:10,437 - #26 (
+INFO  11:00:10,438 - #18 eol
+INFO  11:00:10,438 - #27 )
+INFO  11:00:10,438 - #25 ;
+INFO  11:00:10,438 - #3 print
+INFO  11:00:10,438 - #26 (
+INFO  11:00:10,438 - #18 p
+INFO  11:00:10,438 - #32 .
+INFO  11:00:10,438 - #18 tezina
+INFO  11:00:10,438 - #27 )
+INFO  11:00:10,438 - #25 ;
+INFO  11:00:10,438 - #24 }
+INFO  11:00:10,439 - #18 int
+INFO  11:00:10,439 - #18 zapremina
+INFO  11:00:10,439 - #26 (
+INFO  11:00:10,439 - Obradjuje se funkcija zapremina na liniji 15
+INFO  11:00:10,439 - #27 )
+INFO  11:00:10,439 - #23 {
+INFO  11:00:10,439 - #7 return
+INFO  11:00:10,439 - #15 0
+INFO  11:00:10,440 - #25 ;
+INFO  11:00:10,440 - #24 }
+INFO  11:00:10,440 - #18 int
+INFO  11:00:10,440 - #18 Q
+INFO  11:00:10,440 - #26 (
+INFO  11:00:10,440 - Obradjuje se funkcija Q na liniji 16
+INFO  11:00:10,440 - #27 )
+INFO  11:00:10,440 - #23 {
+INFO  11:00:10,440 - #7 return
+INFO  11:00:10,441 - #18 zapremina
+INFO  11:00:10,441 - #26 (
+INFO  11:00:10,441 - #27 )
+INFO  11:00:10,441 - #39 *
+INFO  11:00:10,441 - Pronadjen poziv funkcije zapremina na liniji 16
+INFO  11:00:10,441 - #18 tezina
+INFO  11:00:10,441 - #25 ;
+INFO  11:00:10,441 - #24 }
+INFO  11:00:10,442 - #8 void
+INFO  11:00:10,442 - #18 postaviVrstu
+INFO  11:00:10,442 - #26 (
+INFO  11:00:10,442 - Obradjuje se funkcija postaviVrstu na liniji 17
+INFO  11:00:10,442 - #18 char
+INFO  11:00:10,442 - #18 vrsta
+INFO  11:00:10,442 - #27 )
+INFO  11:00:10,442 - Deklarisana formalna promenljiva vrsta na liniji 17
+INFO  11:00:10,443 - #23 {
+INFO  11:00:10,443 - #18 this
+INFO  11:00:10,443 - #32 .
+INFO  11:00:10,443 - #18 vrsta
+INFO  11:00:10,443 - #31 =
+INFO  11:00:10,443 - #18 vrsta
+INFO  11:00:10,443 - #25 ;
+INFO  11:00:10,444 - #24 }
+INFO  11:00:10,444 - #24 }
+INFO  11:00:10,444 - #24 }
+INFO  11:00:10,444 - #13 class
+INFO  11:00:10,444 - #18 Sfera
+INFO  11:00:10,446 - #12 extends
+INFO  11:00:10,446 - #18 Predmet
+INFO  11:00:10,446 - #23 {
+INFO  11:00:10,446 - Obradjuje se klasa Sfera na liniji 21
+INFO  11:00:10,447 - #18 int
+INFO  11:00:10,447 - #18 r
+INFO  11:00:10,449 - #25 ;
+INFO  11:00:10,449 - Deklarisana promenljiva r na liniji 23
+INFO  11:00:10,449 - #23 {
+INFO  11:00:10,450 - #8 void
+INFO  11:00:10,450 - #18 postaviTezinu
+INFO  11:00:10,450 - #26 (
+INFO  11:00:10,450 - Obradjuje se funkcija postaviTezinu na liniji 25
+INFO  11:00:10,450 - #18 int
+INFO  11:00:10,450 - #18 tezina
+INFO  11:00:10,450 - #27 )
+INFO  11:00:10,450 - Deklarisana formalna promenljiva tezina na liniji 25
+INFO  11:00:10,450 - #23 {
+INFO  11:00:10,451 - #18 this
+INFO  11:00:10,451 - #32 .
+INFO  11:00:10,451 - #18 tezina
+INFO  11:00:10,451 - #31 =
+INFO  11:00:10,451 - #18 tezina
+INFO  11:00:10,451 - #25 ;
+INFO  11:00:10,451 - #18 vrsta
+INFO  11:00:10,452 - #31 =
+INFO  11:00:10,453 - #16 s
+INFO  11:00:10,453 - #25 ;
+INFO  11:00:10,453 - #24 }
+INFO  11:00:10,454 - #8 void
+INFO  11:00:10,454 - #18 postaviPoluprecnik
+INFO  11:00:10,454 - #26 (
+INFO  11:00:10,454 - Obradjuje se funkcija postaviPoluprecnik na liniji 26
+INFO  11:00:10,455 - #18 int
+INFO  11:00:10,455 - #18 r
+INFO  11:00:10,455 - #27 )
+INFO  11:00:10,455 - Deklarisana formalna promenljiva r na liniji 26
+INFO  11:00:10,455 - #23 {
+INFO  11:00:10,455 - #18 this
+INFO  11:00:10,456 - #32 .
+INFO  11:00:10,456 - #18 r
+INFO  11:00:10,456 - #31 =
+INFO  11:00:10,456 - #18 r
+INFO  11:00:10,456 - #25 ;
+INFO  11:00:10,457 - #18 postaviVrstu
+INFO  11:00:10,457 - #26 (
+INFO  11:00:10,457 - #16 s
+INFO  11:00:10,457 - #27 )
+INFO  11:00:10,458 - #25 ;
+INFO  11:00:10,458 - Pronadjen poziv funkcije postaviVrstu na liniji 26
+INFO  11:00:10,458 - #24 }
+INFO  11:00:10,458 - #18 int
+INFO  11:00:10,458 - #18 zapremina
+INFO  11:00:10,458 - #26 (
+INFO  11:00:10,459 - Obradjuje se funkcija zapremina na liniji 27
+INFO  11:00:10,459 - #27 )
+INFO  11:00:10,459 - #18 int
+INFO  11:00:10,459 - #18 z
+INFO  11:00:10,459 - #25 ;
+INFO  11:00:10,459 - Deklarisana promenljiva z na liniji 28
+INFO  11:00:10,460 - #23 {
+INFO  11:00:10,460 - #18 z
+INFO  11:00:10,460 - #31 =
+INFO  11:00:10,460 - #18 cinilac
+INFO  11:00:10,460 - #25 ;
+INFO  11:00:10,461 - #18 z
+INFO  11:00:10,461 - #40 *=
+INFO  11:00:10,461 - #26 (
+INFO  11:00:10,461 - #18 r
+INFO  11:00:10,461 - #42 /=
+INFO  11:00:10,461 - #18 delilac
+INFO  11:00:10,461 - #27 )
+INFO  11:00:10,461 - #25 ;
+INFO  11:00:10,461 - #7 return
+INFO  11:00:10,461 - #18 z
+INFO  11:00:10,461 - #25 ;
+INFO  11:00:10,461 - #24 }
+INFO  11:00:10,461 - #24 }
+INFO  11:00:10,462 - #24 }
+INFO  11:00:10,462 - #13 class
+INFO  11:00:10,462 - #18 Kvadar
+INFO  11:00:10,462 - #12 extends
+INFO  11:00:10,462 - #18 Predmet
+INFO  11:00:10,462 - #23 {
+INFO  11:00:10,462 - Obradjuje se klasa Kvadar na liniji 37
+INFO  11:00:10,462 - #18 int
+INFO  11:00:10,462 - #18 a
+INFO  11:00:10,462 - #30 ,
+INFO  11:00:10,462 - Deklarisana promenljiva a na liniji 39
+INFO  11:00:10,462 - #18 b
+INFO  11:00:10,462 - #30 ,
+INFO  11:00:10,462 - Deklarisana promenljiva b na liniji 39
+INFO  11:00:10,462 - #18 c
+INFO  11:00:10,463 - #25 ;
+INFO  11:00:10,463 - Deklarisana promenljiva c na liniji 39
+INFO  11:00:10,463 - #23 {
+INFO  11:00:10,463 - #8 void
+INFO  11:00:10,463 - #18 postaviTezinu
+INFO  11:00:10,463 - #26 (
+INFO  11:00:10,463 - Obradjuje se funkcija postaviTezinu na liniji 41
+INFO  11:00:10,463 - #18 int
+INFO  11:00:10,463 - #18 tezina
+INFO  11:00:10,464 - #27 )
+INFO  11:00:10,464 - Deklarisana formalna promenljiva tezina na liniji 41
+INFO  11:00:10,464 - #23 {
+INFO  11:00:10,464 - #18 this
+INFO  11:00:10,464 - #32 .
+INFO  11:00:10,464 - #18 tezina
+INFO  11:00:10,464 - #31 =
+INFO  11:00:10,464 - #18 tezina
+INFO  11:00:10,464 - #25 ;
+INFO  11:00:10,464 - #18 vrsta
+INFO  11:00:10,464 - #31 =
+INFO  11:00:10,465 - #16 k
+INFO  11:00:10,465 - #25 ;
+INFO  11:00:10,465 - #24 }
+INFO  11:00:10,465 - #8 void
+INFO  11:00:10,465 - #18 postaviStranice
+INFO  11:00:10,465 - #26 (
+INFO  11:00:10,465 - Obradjuje se funkcija postaviStranice na liniji 42
+INFO  11:00:10,465 - #18 int
+INFO  11:00:10,465 - #18 a
+INFO  11:00:10,465 - #30 ,
+INFO  11:00:10,465 - Deklarisana formalna promenljiva a na liniji 42
+INFO  11:00:10,466 - #18 int
+INFO  11:00:10,466 - #18 b
+INFO  11:00:10,466 - #30 ,
+INFO  11:00:10,466 - Deklarisana formalna promenljiva b na liniji 42
+INFO  11:00:10,466 - #18 int
+INFO  11:00:10,466 - #18 c
+INFO  11:00:10,466 - #27 )
+INFO  11:00:10,466 - Deklarisana formalna promenljiva c na liniji 42
+INFO  11:00:10,466 - #23 {
+INFO  11:00:10,466 - #18 this
+INFO  11:00:10,466 - #32 .
+INFO  11:00:10,467 - #18 a
+INFO  11:00:10,467 - #31 =
+INFO  11:00:10,467 - #18 a
+INFO  11:00:10,467 - #25 ;
+INFO  11:00:10,467 - #18 this
+INFO  11:00:10,467 - #32 .
+INFO  11:00:10,467 - #18 b
+INFO  11:00:10,467 - #31 =
+INFO  11:00:10,467 - #18 b
+INFO  11:00:10,467 - #25 ;
+INFO  11:00:10,468 - #18 this
+INFO  11:00:10,468 - #32 .
+INFO  11:00:10,468 - #18 c
+INFO  11:00:10,468 - #31 =
+INFO  11:00:10,468 - #18 c
+INFO  11:00:10,468 - #25 ;
+INFO  11:00:10,468 - #18 vrsta
+INFO  11:00:10,468 - #31 =
+INFO  11:00:10,468 - #16 k
+INFO  11:00:10,468 - #25 ;
+INFO  11:00:10,468 - #24 }
+INFO  11:00:10,468 - #18 int
+INFO  11:00:10,469 - #18 zapremina
+INFO  11:00:10,469 - #26 (
+INFO  11:00:10,469 - Obradjuje se funkcija zapremina na liniji 43
+INFO  11:00:10,469 - #27 )
+INFO  11:00:10,469 - #18 int
+INFO  11:00:10,469 - #18 z
+INFO  11:00:10,469 - #25 ;
+INFO  11:00:10,469 - Deklarisana promenljiva z na liniji 44
+INFO  11:00:10,469 - #23 {
+INFO  11:00:10,469 - #18 z
+INFO  11:00:10,469 - #31 =
+INFO  11:00:10,469 - #18 a
+INFO  11:00:10,469 - #25 ;
+INFO  11:00:10,469 - #18 z
+INFO  11:00:10,469 - #40 *=
+INFO  11:00:10,470 - #18 b
+INFO  11:00:10,470 - #40 *=
+INFO  11:00:10,470 - #18 c
+INFO  11:00:10,470 - #25 ;
+INFO  11:00:10,470 - #7 return
+INFO  11:00:10,470 - #18 z
+INFO  11:00:10,470 - #25 ;
+INFO  11:00:10,470 - #24 }
+INFO  11:00:10,470 - #24 }
+INFO  11:00:10,470 - #24 }
+INFO  11:00:10,470 - #18 int
+INFO  11:00:10,470 - #18 zapreminaK
+INFO  11:00:10,470 - #30 ,
+INFO  11:00:10,470 - Deklarisana promenljiva zapreminaK na liniji 53
+INFO  11:00:10,471 - #18 zapreminaS
+INFO  11:00:10,471 - #25 ;
+INFO  11:00:10,471 - Deklarisana promenljiva zapreminaS na liniji 53
+INFO  11:00:10,471 - #18 int
+INFO  11:00:10,471 - #18 tezinaK
+INFO  11:00:10,471 - #30 ,
+INFO  11:00:10,471 - Deklarisana promenljiva tezinaK na liniji 54
+INFO  11:00:10,471 - #18 tezinaS
+INFO  11:00:10,471 - #25 ;
+INFO  11:00:10,471 - Deklarisana promenljiva tezinaS na liniji 54
+INFO  11:00:10,471 - #23 {
+INFO  11:00:10,471 - #8 void
+INFO  11:00:10,472 - #18 main
+INFO  11:00:10,472 - #26 (
+INFO  11:00:10,472 - Obradjuje se funkcija main na liniji 56
+INFO  11:00:10,472 - #27 )
+INFO  11:00:10,472 - #18 Predmet
+INFO  11:00:10,472 - #18 predmeti
+INFO  11:00:10,472 - #28 [
+INFO  11:00:10,472 - #29 ]
+INFO  11:00:10,472 - #25 ;
+INFO  11:00:10,472 - Deklarisana promenljiva predmeti na liniji 56
+INFO  11:00:10,472 - #18 int
+INFO  11:00:10,472 - #18 i
+INFO  11:00:10,472 - #25 ;
+INFO  11:00:10,472 - Deklarisana promenljiva i na liniji 56
+INFO  11:00:10,472 - #18 Sfera
+INFO  11:00:10,472 - #18 s1
+INFO  11:00:10,473 - #30 ,
+INFO  11:00:10,473 - Deklarisana promenljiva s1 na liniji 56
+INFO  11:00:10,473 - #18 s2
+INFO  11:00:10,473 - #30 ,
+INFO  11:00:10,473 - Deklarisana promenljiva s2 na liniji 56
+INFO  11:00:10,473 - #18 s3
+INFO  11:00:10,473 - #25 ;
+INFO  11:00:10,473 - Deklarisana promenljiva s3 na liniji 56
+INFO  11:00:10,473 - #18 Kvadar
+INFO  11:00:10,473 - #18 k1
+INFO  11:00:10,473 - #30 ,
+INFO  11:00:10,473 - Deklarisana promenljiva k1 na liniji 56
+INFO  11:00:10,473 - #18 k2
+INFO  11:00:10,473 - #30 ,
+INFO  11:00:10,473 - Deklarisana promenljiva k2 na liniji 56
+INFO  11:00:10,481 - #18 k3
+INFO  11:00:10,481 - #25 ;
+INFO  11:00:10,481 - Deklarisana promenljiva k3 na liniji 56
+INFO  11:00:10,481 - #18 int
+INFO  11:00:10,481 - #18 t
+INFO  11:00:10,481 - #25 ;
+INFO  11:00:10,482 - Deklarisana promenljiva t na liniji 56
+INFO  11:00:10,482 - #23 {
+INFO  11:00:10,482 - #18 predmeti
+INFO  11:00:10,482 - #31 =
+INFO  11:00:10,482 - #14 new
+INFO  11:00:10,482 - #18 Predmet
+INFO  11:00:10,482 - #28 [
+INFO  11:00:10,482 - #15 6
+INFO  11:00:10,482 - #29 ]
+INFO  11:00:10,482 - #25 ;
+INFO  11:00:10,482 - #18 s1
+INFO  11:00:10,482 - #31 =
+INFO  11:00:10,482 - #14 new
+INFO  11:00:10,482 - #18 Sfera
+INFO  11:00:10,483 - #25 ;
+INFO  11:00:10,483 - #18 s2
+INFO  11:00:10,483 - #31 =
+INFO  11:00:10,483 - #14 new
+INFO  11:00:10,483 - #18 Sfera
+INFO  11:00:10,483 - #25 ;
+INFO  11:00:10,483 - #18 s3
+INFO  11:00:10,483 - #31 =
+INFO  11:00:10,483 - #14 new
+INFO  11:00:10,483 - #18 Sfera
+INFO  11:00:10,483 - #25 ;
+INFO  11:00:10,483 - #18 k1
+INFO  11:00:10,483 - #31 =
+INFO  11:00:10,483 - #14 new
+INFO  11:00:10,483 - #18 Kvadar
+INFO  11:00:10,484 - #25 ;
+INFO  11:00:10,484 - #18 k2
+INFO  11:00:10,484 - #31 =
+INFO  11:00:10,484 - #14 new
+INFO  11:00:10,484 - #18 Kvadar
+INFO  11:00:10,484 - #25 ;
+INFO  11:00:10,484 - #18 k3
+INFO  11:00:10,484 - #31 =
+INFO  11:00:10,484 - #14 new
+INFO  11:00:10,484 - #18 Kvadar
+INFO  11:00:10,484 - #25 ;
+INFO  11:00:10,484 - #18 s1
+INFO  11:00:10,484 - #32 .
+INFO  11:00:10,485 - #18 postaviPoluprecnik
+INFO  11:00:10,485 - #26 (
+INFO  11:00:10,485 - #15 1
+INFO  11:00:10,485 - #27 )
+INFO  11:00:10,485 - #25 ;
+INFO  11:00:10,485 - Pronadjen poziv funkcije postaviPoluprecnik na liniji 68
+INFO  11:00:10,485 - #18 s2
+INFO  11:00:10,485 - #32 .
+INFO  11:00:10,485 - #18 postaviPoluprecnik
+INFO  11:00:10,485 - #26 (
+INFO  11:00:10,486 - #15 2
+INFO  11:00:10,486 - #27 )
+INFO  11:00:10,486 - #25 ;
+INFO  11:00:10,486 - Pronadjen poziv funkcije postaviPoluprecnik na liniji 69
+INFO  11:00:10,486 - #18 s3
+INFO  11:00:10,486 - #32 .
+INFO  11:00:10,486 - #18 postaviPoluprecnik
+INFO  11:00:10,486 - #26 (
+INFO  11:00:10,487 - #15 3
+INFO  11:00:10,487 - #27 )
+INFO  11:00:10,487 - #25 ;
+INFO  11:00:10,487 - Pronadjen poziv funkcije postaviPoluprecnik na liniji 70
+INFO  11:00:10,487 - #18 k1
+INFO  11:00:10,487 - #32 .
+INFO  11:00:10,488 - #18 postaviStranice
+INFO  11:00:10,488 - #26 (
+INFO  11:00:10,488 - #15 1
+INFO  11:00:10,488 - #30 ,
+INFO  11:00:10,488 - #15 2
+INFO  11:00:10,488 - #30 ,
+INFO  11:00:10,488 - #15 3
+INFO  11:00:10,488 - #27 )
+INFO  11:00:10,488 - #25 ;
+INFO  11:00:10,489 - Pronadjen poziv funkcije postaviStranice na liniji 72
+INFO  11:00:10,489 - #18 k2
+INFO  11:00:10,489 - #32 .
+INFO  11:00:10,489 - #18 postaviStranice
+INFO  11:00:10,489 - #26 (
+INFO  11:00:10,489 - #15 2
+INFO  11:00:10,490 - #30 ,
+INFO  11:00:10,490 - #15 3
+INFO  11:00:10,490 - #30 ,
+INFO  11:00:10,490 - #15 4
+INFO  11:00:10,490 - #27 )
+INFO  11:00:10,490 - #25 ;
+INFO  11:00:10,490 - Pronadjen poziv funkcije postaviStranice na liniji 73
+INFO  11:00:10,490 - #18 k3
+INFO  11:00:10,490 - #32 .
+INFO  11:00:10,490 - #18 postaviStranice
+INFO  11:00:10,490 - #26 (
+INFO  11:00:10,490 - #15 3
+INFO  11:00:10,490 - #30 ,
+INFO  11:00:10,490 - #15 4
+INFO  11:00:10,491 - #30 ,
+INFO  11:00:10,491 - #15 5
+INFO  11:00:10,491 - #27 )
+INFO  11:00:10,491 - #25 ;
+INFO  11:00:10,491 - Pronadjen poziv funkcije postaviStranice na liniji 74
+INFO  11:00:10,491 - #18 predmeti
+INFO  11:00:10,491 - #28 [
+INFO  11:00:10,491 - #15 0
+INFO  11:00:10,491 - #29 ]
+INFO  11:00:10,491 - #31 =
+INFO  11:00:10,491 - #18 s1
+INFO  11:00:10,491 - #25 ;
+INFO  11:00:10,491 - #18 predmeti
+INFO  11:00:10,491 - #28 [
+INFO  11:00:10,492 - #15 2
+INFO  11:00:10,492 - #29 ]
+INFO  11:00:10,492 - #31 =
+INFO  11:00:10,492 - #18 s2
+INFO  11:00:10,492 - #25 ;
+INFO  11:00:10,492 - #18 predmeti
+INFO  11:00:10,492 - #28 [
+INFO  11:00:10,492 - #15 4
+INFO  11:00:10,492 - #29 ]
+INFO  11:00:10,492 - #31 =
+INFO  11:00:10,492 - #18 s3
+INFO  11:00:10,493 - #25 ;
+INFO  11:00:10,493 - #18 predmeti
+INFO  11:00:10,493 - #28 [
+INFO  11:00:10,493 - #15 1
+INFO  11:00:10,493 - #29 ]
+INFO  11:00:10,493 - #31 =
+INFO  11:00:10,493 - #18 k1
+INFO  11:00:10,493 - #25 ;
+INFO  11:00:10,493 - #18 predmeti
+INFO  11:00:10,493 - #28 [
+INFO  11:00:10,493 - #15 3
+INFO  11:00:10,493 - #29 ]
+INFO  11:00:10,493 - #31 =
+INFO  11:00:10,493 - #18 k2
+INFO  11:00:10,493 - #25 ;
+INFO  11:00:10,494 - #18 predmeti
+INFO  11:00:10,494 - #28 [
+INFO  11:00:10,494 - #15 5
+INFO  11:00:10,494 - #29 ]
+INFO  11:00:10,494 - #31 =
+INFO  11:00:10,494 - #18 k3
+INFO  11:00:10,494 - #25 ;
+INFO  11:00:10,494 - #6 read
+INFO  11:00:10,494 - #26 (
+INFO  11:00:10,494 - #18 t
+INFO  11:00:10,494 - #27 )
+INFO  11:00:10,495 - #25 ;
+INFO  11:00:10,495 - #50 for
+INFO  11:00:10,495 - #26 (
+INFO  11:00:10,495 - #18 i
+INFO  11:00:10,495 - #31 =
+INFO  11:00:10,495 - #15 0
+INFO  11:00:10,495 - #25 ;
+INFO  11:00:10,495 - #18 i
+INFO  11:00:10,495 - #37 <
+INFO  11:00:10,495 - #15 6
+INFO  11:00:10,495 - #25 ;
+INFO  11:00:10,495 - #18 i
+INFO  11:00:10,498 - #47 ++
+INFO  11:00:10,498 - #27 )
+INFO  11:00:10,498 - #23 {
+INFO  11:00:10,498 - #18 predmeti
+INFO  11:00:10,499 - #28 [
+INFO  11:00:10,499 - #18 i
+INFO  11:00:10,499 - #29 ]
+INFO  11:00:10,499 - #32 .
+INFO  11:00:10,499 - #18 postaviTezinu
+INFO  11:00:10,499 - #26 (
+INFO  11:00:10,499 - #18 t
+INFO  11:00:10,499 - #27 )
+INFO  11:00:10,499 - #25 ;
+INFO  11:00:10,499 - Pronadjen poziv funkcije postaviTezinu na liniji 86
+INFO  11:00:10,499 - #24 }
+INFO  11:00:10,499 - #18 i
+INFO  11:00:10,499 - #31 =
+INFO  11:00:10,499 - #15 0
+INFO  11:00:10,500 - #25 ;
+INFO  11:00:10,500 - #18 zapreminaS
+INFO  11:00:10,500 - #31 =
+INFO  11:00:10,500 - #15 0
+INFO  11:00:10,500 - #25 ;
+INFO  11:00:10,500 - #18 tezinaS
+INFO  11:00:10,500 - #31 =
+INFO  11:00:10,500 - #15 0
+INFO  11:00:10,500 - #25 ;
+INFO  11:00:10,500 - #50 for
+INFO  11:00:10,500 - #26 (
+INFO  11:00:10,500 - #25 ;
+INFO  11:00:10,500 - #18 i
+INFO  11:00:10,500 - #37 <
+INFO  11:00:10,500 - #15 6
+INFO  11:00:10,500 - #25 ;
+INFO  11:00:10,501 - #27 )
+INFO  11:00:10,501 - #23 {
+INFO  11:00:10,501 - #18 i
+INFO  11:00:10,501 - #47 ++
+INFO  11:00:10,501 - #25 ;
+INFO  11:00:10,501 - #9 if
+INFO  11:00:10,501 - #26 (
+INFO  11:00:10,501 - #18 i
+INFO  11:00:10,501 - #43 %
+INFO  11:00:10,501 - #15 2
+INFO  11:00:10,501 - #33 ==
+INFO  11:00:10,501 - #15 0
+INFO  11:00:10,501 - #27 )
+INFO  11:00:10,501 - #5 continue
+INFO  11:00:10,501 - #25 ;
+INFO  11:00:10,502 - #18 zapreminaS
+INFO  11:00:10,502 - #20 +=
+INFO  11:00:10,502 - #18 predmeti
+INFO  11:00:10,502 - #28 [
+INFO  11:00:10,502 - #18 i
+INFO  11:00:10,502 - #21 -
+INFO  11:00:10,502 - #15 1
+INFO  11:00:10,502 - #29 ]
+INFO  11:00:10,502 - #32 .
+INFO  11:00:10,502 - #18 zapremina
+INFO  11:00:10,502 - #26 (
+INFO  11:00:10,502 - #27 )
+INFO  11:00:10,502 - #25 ;
+INFO  11:00:10,502 - Pronadjen poziv funkcije zapremina na liniji 96
+INFO  11:00:10,502 - #18 tezinaS
+INFO  11:00:10,502 - #20 +=
+INFO  11:00:10,502 - #18 predmeti
+INFO  11:00:10,502 - #28 [
+INFO  11:00:10,503 - #18 i
+INFO  11:00:10,503 - #21 -
+INFO  11:00:10,503 - #15 1
+INFO  11:00:10,503 - #29 ]
+INFO  11:00:10,503 - #32 .
+INFO  11:00:10,503 - #18 Q
+INFO  11:00:10,503 - #26 (
+INFO  11:00:10,503 - #27 )
+INFO  11:00:10,503 - #25 ;
+INFO  11:00:10,503 - Pronadjen poziv funkcije Q na liniji 97
+INFO  11:00:10,503 - #18 Predmet
+INFO  11:00:10,503 - #32 .
+INFO  11:00:10,503 - #18 ispis
+INFO  11:00:10,503 - #26 (
+INFO  11:00:10,503 - #18 predmeti
+INFO  11:00:10,503 - #28 [
+INFO  11:00:10,503 - #18 i
+INFO  11:00:10,503 - #21 -
+INFO  11:00:10,504 - #15 1
+INFO  11:00:10,504 - #29 ]
+INFO  11:00:10,504 - #27 )
+INFO  11:00:10,504 - #25 ;
+INFO  11:00:10,504 - Pronadjen poziv funkcije ispis na liniji 98
+INFO  11:00:10,504 - #24 }
+INFO  11:00:10,504 - #18 i
+INFO  11:00:10,504 - #31 =
+INFO  11:00:10,504 - #15 0
+INFO  11:00:10,504 - #25 ;
+INFO  11:00:10,504 - #18 zapreminaK
+INFO  11:00:10,504 - #31 =
+INFO  11:00:10,504 - #15 0
+INFO  11:00:10,504 - #25 ;
+INFO  11:00:10,504 - #18 tezinaK
+INFO  11:00:10,504 - #31 =
+INFO  11:00:10,505 - #15 0
+INFO  11:00:10,505 - #25 ;
+INFO  11:00:10,505 - #50 for
+INFO  11:00:10,505 - #26 (
+INFO  11:00:10,505 - #25 ;
+INFO  11:00:10,505 - #18 i
+INFO  11:00:10,505 - #37 <
+INFO  11:00:10,505 - #15 6
+INFO  11:00:10,505 - #25 ;
+INFO  11:00:10,505 - #27 )
+INFO  11:00:10,505 - #23 {
+INFO  11:00:10,505 - #18 i
+INFO  11:00:10,505 - #47 ++
+INFO  11:00:10,506 - #25 ;
+INFO  11:00:10,506 - #9 if
+INFO  11:00:10,506 - #26 (
+INFO  11:00:10,506 - #18 i
+INFO  11:00:10,506 - #43 %
+INFO  11:00:10,506 - #15 2
+INFO  11:00:10,506 - #33 ==
+INFO  11:00:10,506 - #15 1
+INFO  11:00:10,506 - #27 )
+INFO  11:00:10,506 - #5 continue
+INFO  11:00:10,506 - #25 ;
+INFO  11:00:10,506 - #18 zapreminaK
+INFO  11:00:10,506 - #20 +=
+INFO  11:00:10,506 - #18 predmeti
+INFO  11:00:10,506 - #28 [
+INFO  11:00:10,506 - #18 i
+INFO  11:00:10,507 - #21 -
+INFO  11:00:10,507 - #15 1
+INFO  11:00:10,507 - #29 ]
+INFO  11:00:10,507 - #32 .
+INFO  11:00:10,507 - #18 zapremina
+INFO  11:00:10,507 - #26 (
+INFO  11:00:10,507 - #27 )
+INFO  11:00:10,507 - #25 ;
+INFO  11:00:10,507 - Pronadjen poziv funkcije zapremina na liniji 107
+INFO  11:00:10,507 - #18 tezinaK
+INFO  11:00:10,507 - #20 +=
+INFO  11:00:10,507 - #18 predmeti
+INFO  11:00:10,507 - #28 [
+INFO  11:00:10,508 - #18 i
+INFO  11:00:10,508 - #21 -
+INFO  11:00:10,508 - #15 1
+INFO  11:00:10,508 - #29 ]
+INFO  11:00:10,508 - #32 .
+INFO  11:00:10,508 - #18 Q
+INFO  11:00:10,508 - #26 (
+INFO  11:00:10,508 - #27 )
+INFO  11:00:10,508 - #25 ;
+INFO  11:00:10,508 - Pronadjen poziv funkcije Q na liniji 108
+INFO  11:00:10,508 - #18 Predmet
+INFO  11:00:10,508 - #32 .
+INFO  11:00:10,508 - #18 ispis
+INFO  11:00:10,508 - #26 (
+INFO  11:00:10,508 - #18 predmeti
+INFO  11:00:10,508 - #28 [
+INFO  11:00:10,508 - #18 i
+INFO  11:00:10,509 - #21 -
+INFO  11:00:10,509 - #15 1
+INFO  11:00:10,509 - #29 ]
+INFO  11:00:10,509 - #27 )
+INFO  11:00:10,509 - #25 ;
+INFO  11:00:10,509 - Pronadjen poziv funkcije ispis na liniji 109
+INFO  11:00:10,509 - #24 }
+INFO  11:00:10,509 - #3 print
+INFO  11:00:10,509 - #26 (
+INFO  11:00:10,509 - #18 zapreminaS
+INFO  11:00:10,509 - #27 )
+INFO  11:00:10,509 - #25 ;
+INFO  11:00:10,509 - #3 print
+INFO  11:00:10,509 - #26 (
+INFO  11:00:10,510 - #18 eol
+INFO  11:00:10,510 - #27 )
+INFO  11:00:10,510 - #25 ;
+INFO  11:00:10,510 - #3 print
+INFO  11:00:10,510 - #26 (
+INFO  11:00:10,510 - #18 zapreminaK
+INFO  11:00:10,510 - #27 )
+INFO  11:00:10,510 - #25 ;
+INFO  11:00:10,510 - #3 print
+INFO  11:00:10,510 - #26 (
+INFO  11:00:10,510 - #18 eol
+INFO  11:00:10,510 - #27 )
+INFO  11:00:10,511 - #25 ;
+INFO  11:00:10,511 - #3 print
+INFO  11:00:10,511 - #26 (
+INFO  11:00:10,511 - #18 tezinaS
+INFO  11:00:10,511 - #27 )
+INFO  11:00:10,511 - #25 ;
+INFO  11:00:10,511 - #3 print
+INFO  11:00:10,511 - #26 (
+INFO  11:00:10,511 - #18 eol
+INFO  11:00:10,511 - #27 )
+INFO  11:00:10,511 - #25 ;
+INFO  11:00:10,511 - #3 print
+INFO  11:00:10,511 - #26 (
+INFO  11:00:10,511 - #18 tezinaK
+INFO  11:00:10,511 - #27 )
+INFO  11:00:10,511 - #25 ;
+INFO  11:00:10,511 - #3 print
+INFO  11:00:10,511 - #26 (
+INFO  11:00:10,511 - #18 eol
+INFO  11:00:10,511 - #27 )
+INFO  11:00:10,511 - #25 ;
+INFO  11:00:10,511 - #24 }
+INFO  11:00:10,512 - #24 }
+INFO  11:00:10,512 - Definicije globalnih promenljivih = 4
+INFO  11:00:10,512 - Definicija lokalnih promenljivih (u main funkciji) = 8
+INFO  11:00:10,512 - Definicije globalnih konstanti = 2
+INFO  11:00:10,512 - Deklaracije globalnih nizova = 0
+INFO  11:00:10,512 - Definicije funkcija u glavnom programu = 1
+INFO  11:00:10,512 - Blokovi naredbi = 16
+INFO  11:00:10,512 - Pozivi funkcija u telu metode main = 22
+INFO  11:00:10,512 - Deklaracije formalnih argumenata funkcija = 9
+INFO  11:00:10,512 - Definicje unutrasnjih klasa = 3
+INFO  11:00:10,512 - Definicije metoda unutrasnjih klasa = 12
+INFO  11:00:10,512 - Deklaracije polja unutrasnjih klasa = 6

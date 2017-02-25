@@ -1,0 +1,129 @@
+INFO  12:26:43,103 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test04.mj
+INFO  12:26:43,123 - #2 program
+INFO  12:26:43,123 - #18 test04
+INFO  12:26:43,123 - #18 int
+INFO  12:26:43,123 - #18 x
+INFO  12:26:43,123 - #30 ,
+INFO  12:26:43,124 - Deklarisana promenljiva x na liniji 5
+INFO  12:26:43,124 - #18 y
+INFO  12:26:43,124 - #25 ;
+INFO  12:26:43,124 - Deklarisana promenljiva y na liniji 5
+INFO  12:26:43,124 - #18 int
+INFO  12:26:43,124 - #18 a
+INFO  12:26:43,124 - #28 [
+INFO  12:26:43,124 - #29 ]
+INFO  12:26:43,124 - #25 ;
+INFO  12:26:43,124 - Deklarisan niz a na liniji 6
+INFO  12:26:43,124 - #18 bool
+INFO  12:26:43,125 - #18 log
+INFO  12:26:43,125 - #25 ;
+INFO  12:26:43,125 - Deklarisana promenljiva log na liniji 7
+INFO  12:26:43,125 - #23 {
+INFO  12:26:43,125 - #18 int
+INFO  12:26:43,125 - #18 sum
+INFO  12:26:43,125 - #26 (
+INFO  12:26:43,126 - Obradjuje se funkcija sum na liniji 10
+INFO  12:26:43,126 - #18 int
+INFO  12:26:43,126 - #18 z
+INFO  12:26:43,126 - #30 ,
+INFO  12:26:43,126 - Deklarisana formalna promenljiva z na liniji 10
+INFO  12:26:43,126 - #18 int
+INFO  12:26:43,126 - #18 d
+INFO  12:26:43,126 - #27 )
+INFO  12:26:43,126 - Deklarisana formalna promenljiva d na liniji 10
+INFO  12:26:43,126 - #23 {
+INFO  12:26:43,126 - #7 return
+INFO  12:26:43,126 - #18 z
+INFO  12:26:43,127 - #19 +
+INFO  12:26:43,129 - #18 d
+INFO  12:26:43,129 - #25 ;
+INFO  12:26:43,129 - #24 }
+INFO  12:26:43,129 - #8 void
+INFO  12:26:43,129 - #18 main
+INFO  12:26:43,129 - #26 (
+INFO  12:26:43,129 - Obradjuje se funkcija main na liniji 14
+INFO  12:26:43,130 - #27 )
+INFO  12:26:43,130 - #23 {
+INFO  12:26:43,130 - #18 a
+INFO  12:26:43,130 - #31 =
+INFO  12:26:43,130 - #14 new
+INFO  12:26:43,130 - #18 int
+INFO  12:26:43,130 - #28 [
+INFO  12:26:43,130 - #15 5
+INFO  12:26:43,131 - #29 ]
+INFO  12:26:43,131 - #25 ;
+INFO  12:26:43,131 - #18 log
+INFO  12:26:43,131 - #31 =
+INFO  12:26:43,131 - #17 true
+INFO  12:26:43,131 - #25 ;
+INFO  12:26:43,131 - #18 x
+INFO  12:26:43,132 - #31 =
+INFO  12:26:43,132 - #15 0
+INFO  12:26:43,132 - #25 ;
+INFO  12:26:43,132 - #18 y
+INFO  12:26:43,132 - #31 =
+INFO  12:26:43,132 - #15 3
+INFO  12:26:43,132 - #25 ;
+INFO  12:26:43,132 - #50 for
+INFO  12:26:43,132 - #26 (
+INFO  12:26:43,132 - #25 ;
+INFO  12:26:43,132 - #18 log
+INFO  12:26:43,133 - #25 ;
+INFO  12:26:43,133 - #27 )
+INFO  12:26:43,133 - #23 {
+INFO  12:26:43,133 - #18 a
+INFO  12:26:43,133 - #28 [
+INFO  12:26:43,133 - #18 x
+INFO  12:26:43,133 - #29 ]
+INFO  12:26:43,133 - #31 =
+INFO  12:26:43,133 - #18 sum
+INFO  12:26:43,133 - #26 (
+INFO  12:26:43,133 - #18 y
+INFO  12:26:43,134 - #30 ,
+INFO  12:26:43,134 - #18 x
+INFO  12:26:43,134 - #27 )
+INFO  12:26:43,134 - #19 +
+INFO  12:26:43,134 - Pronadjen poziv funkcije sum na liniji 19
+INFO  12:26:43,134 - #15 1
+INFO  12:26:43,134 - #25 ;
+INFO  12:26:43,135 - #18 x
+INFO  12:26:43,135 - #31 =
+INFO  12:26:43,135 - #18 sum
+INFO  12:26:43,135 - #26 (
+INFO  12:26:43,135 - #18 x
+INFO  12:26:43,135 - #30 ,
+INFO  12:26:43,135 - #15 1
+INFO  12:26:43,135 - #27 )
+INFO  12:26:43,136 - #25 ;
+INFO  12:26:43,136 - Pronadjen poziv funkcije sum na liniji 20
+INFO  12:26:43,136 - #9 if
+INFO  12:26:43,136 - #26 (
+INFO  12:26:43,136 - #18 x
+INFO  12:26:43,136 - #33 ==
+INFO  12:26:43,137 - #15 5
+INFO  12:26:43,137 - #27 )
+INFO  12:26:43,137 - #4 break
+INFO  12:26:43,137 - #25 ;
+INFO  12:26:43,137 - #24 }
+INFO  12:26:43,137 - #3 print
+INFO  12:26:43,137 - #26 (
+INFO  12:26:43,137 - #18 a
+INFO  12:26:43,137 - #28 [
+INFO  12:26:43,137 - #15 3
+INFO  12:26:43,138 - #29 ]
+INFO  12:26:43,138 - #27 )
+INFO  12:26:43,138 - #25 ;
+INFO  12:26:43,138 - #24 }
+INFO  12:26:43,138 - #24 }
+INFO  12:26:43,138 - Definicije globalnih promenljivih = 3
+INFO  12:26:43,138 - Definicija lokalnih promenljivih (u main funkciji) = 0
+INFO  12:26:43,138 - Definicije globalnih konstanti = 0
+INFO  12:26:43,139 - Deklaracije globalnih nizova = 1
+INFO  12:26:43,139 - Definicije funkcija u glavnom programu = 2
+INFO  12:26:43,139 - Blokovi naredbi = 3
+INFO  12:26:43,139 - Pozivi funkcija u telu metode main = 3
+INFO  12:26:43,139 - Deklaracije formalnih argumenata funkcija = 2
+INFO  12:26:43,139 - Definicje unutrasnjih klasa = 0
+INFO  12:26:43,139 - Definicije metoda unutrasnjih klasa = 0
+INFO  12:26:43,139 - Deklaracije polja unutrasnjih klasa = 0
+INFO  12:26:43,142 - Parsiranje uspesno zavrseno!

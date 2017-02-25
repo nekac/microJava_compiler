@@ -1,0 +1,291 @@
+INFO  12:28:49,629 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test05.mj
+INFO  12:28:49,648 - #2 program
+INFO  12:28:49,648 - #18 Rastojanje
+INFO  12:28:49,648 - #18 int
+INFO  12:28:49,648 - #18 xa
+INFO  12:28:49,649 - #30 ,
+INFO  12:28:49,649 - Deklarisana promenljiva xa na liniji 4
+INFO  12:28:49,649 - #18 ya
+INFO  12:28:49,649 - #30 ,
+INFO  12:28:49,649 - Deklarisana promenljiva ya na liniji 4
+INFO  12:28:49,649 - #18 xb
+INFO  12:28:49,649 - #30 ,
+INFO  12:28:49,649 - Deklarisana promenljiva xb na liniji 4
+INFO  12:28:49,649 - #18 yb
+INFO  12:28:49,650 - #30 ,
+INFO  12:28:49,650 - Deklarisana promenljiva yb na liniji 4
+INFO  12:28:49,650 - #18 xc
+INFO  12:28:49,650 - #30 ,
+INFO  12:28:49,650 - Deklarisana promenljiva xc na liniji 4
+INFO  12:28:49,650 - #18 xc
+INFO  12:28:49,650 - #25 ;
+INFO  12:28:49,651 - #18 char
+INFO  12:28:49,651 - #18 cccc
+INFO  12:28:49,651 - #25 ;
+INFO  12:28:49,651 - Deklarisana promenljiva cccc na liniji 5
+INFO  12:28:49,651 - #18 int
+INFO  12:28:49,651 - #18 a
+INFO  12:28:49,651 - #30 ,
+INFO  12:28:49,651 - Deklarisana promenljiva a na liniji 6
+INFO  12:28:49,651 - #18 b
+INFO  12:28:49,652 - #18 c
+INFO  12:28:49,652 - #25 ;
+INFO  12:28:49,652 - #18 int
+INFO  12:28:49,652 - #18 u
+INFO  12:28:49,654 - #30 ,
+DEBUG 12:28:49,654 - Uspesan oporavak od greske do ; pri definiciji globalne promenljive.
+INFO  12:28:49,654 - Deklarisana promenljiva u na liniji 7
+INFO  12:28:49,654 - #18 v
+INFO  12:28:49,654 - #25 ;
+INFO  12:28:49,654 - Deklarisana promenljiva v na liniji 7
+INFO  12:28:49,654 - #23 {
+INFO  12:28:49,654 - #18 int
+INFO  12:28:49,655 - #18 distance
+INFO  12:28:49,655 - #26 (
+INFO  12:28:49,655 - Obradjuje se funkcija distance na liniji 9
+INFO  12:28:49,655 - #18 int
+INFO  12:28:49,655 - #18 x1
+INFO  12:28:49,655 - #30 ,
+INFO  12:28:49,655 - Deklarisana formalna promenljiva x1 na liniji 9
+INFO  12:28:49,655 - #18 int
+INFO  12:28:49,655 - #18 y1
+INFO  12:28:49,656 - #30 ,
+INFO  12:28:49,656 - Deklarisana formalna promenljiva y1 na liniji 9
+INFO  12:28:49,656 - #18 int
+INFO  12:28:49,656 - #18 x2
+INFO  12:28:49,656 - #30 ,
+INFO  12:28:49,656 - Deklarisana formalna promenljiva x2 na liniji 9
+INFO  12:28:49,657 - #18 int
+INFO  12:28:49,657 - #18 y2
+INFO  12:28:49,657 - #27 )
+INFO  12:28:49,657 - Deklarisana formalna promenljiva y2 na liniji 9
+INFO  12:28:49,657 - #23 {
+INFO  12:28:49,657 - #18 sqrt
+INFO  12:28:49,657 - #26 (
+INFO  12:28:49,658 - #18 sqr
+INFO  12:28:49,658 - #26 (
+INFO  12:28:49,658 - #18 x1
+INFO  12:28:49,658 - #21 -
+INFO  12:28:49,660 - #18 x2
+INFO  12:28:49,660 - #27 )
+INFO  12:28:49,661 - #19 +
+INFO  12:28:49,661 - #18 sqr
+INFO  12:28:49,661 - #26 (
+INFO  12:28:49,661 - #18 y1
+INFO  12:28:49,661 - #21 -
+INFO  12:28:49,661 - #18 y2
+INFO  12:28:49,661 - #27 )
+INFO  12:28:49,661 - #27 )
+INFO  12:28:49,661 - #25 ;
+INFO  12:28:49,661 - #24 }
+INFO  12:28:49,662 - #18 int
+INFO  12:28:49,662 - #18 obim
+INFO  12:28:49,662 - #26 (
+INFO  12:28:49,662 - Obradjuje se funkcija obim na liniji 13
+INFO  12:28:49,662 - #18 int
+INFO  12:28:49,662 - #18 a
+INFO  12:28:49,662 - #30 ,
+INFO  12:28:49,662 - Deklarisana formalna promenljiva a na liniji 13
+INFO  12:28:49,662 - #18 int
+INFO  12:28:49,662 - #18 b
+INFO  12:28:49,663 - #30 ,
+INFO  12:28:49,663 - Deklarisana formalna promenljiva b na liniji 13
+INFO  12:28:49,663 - #18 int
+INFO  12:28:49,663 - #18 c
+INFO  12:28:49,663 - #27 )
+INFO  12:28:49,663 - Deklarisana formalna promenljiva c na liniji 13
+INFO  12:28:49,663 - #18 char
+INFO  12:28:49,663 - #18 o
+INFO  12:28:49,663 - #25 ;
+INFO  12:28:49,664 - Deklarisana promenljiva o na liniji 13
+INFO  12:28:49,664 - #23 {
+INFO  12:28:49,664 - #18 o
+INFO  12:28:49,664 - #31 =
+INFO  12:28:49,664 - #18 a
+INFO  12:28:49,664 - #19 +
+INFO  12:28:49,664 - #18 b
+INFO  12:28:49,665 - #19 +
+INFO  12:28:49,665 - #18 c
+INFO  12:28:49,665 - #25 ;
+INFO  12:28:49,665 - #7 return
+INFO  12:28:49,665 - #18 o
+INFO  12:28:49,665 - #25 ;
+INFO  12:28:49,665 - #24 }
+INFO  12:28:49,666 - #8 void
+INFO  12:28:49,666 - #18 povrsina
+INFO  12:28:49,666 - #26 (
+INFO  12:28:49,666 - Obradjuje se funkcija povrsina na liniji 18
+INFO  12:28:49,666 - #18 int
+INFO  12:28:49,666 - #18 a
+INFO  12:28:49,666 - #30 ,
+INFO  12:28:49,666 - Deklarisana formalna promenljiva a na liniji 18
+INFO  12:28:49,667 - #18 int
+INFO  12:28:49,667 - #18 b
+INFO  12:28:49,667 - #30 ,
+INFO  12:28:49,667 - Deklarisana formalna promenljiva b na liniji 18
+INFO  12:28:49,667 - #18 int
+INFO  12:28:49,667 - #18 c
+INFO  12:28:49,667 - #27 )
+INFO  12:28:49,667 - Deklarisana formalna promenljiva c na liniji 18
+INFO  12:28:49,667 - #18 char
+INFO  12:28:49,668 - #18 s
+INFO  12:28:49,669 - #25 ;
+INFO  12:28:49,669 - Deklarisana promenljiva s na liniji 18
+INFO  12:28:49,669 - #23 {
+INFO  12:28:49,670 - #18 s
+INFO  12:28:49,670 - #31 =
+INFO  12:28:49,670 - #26 (
+INFO  12:28:49,670 - #18 a
+INFO  12:28:49,670 - #19 +
+INFO  12:28:49,670 - #18 b
+INFO  12:28:49,670 - #19 +
+INFO  12:28:49,670 - #18 c
+INFO  12:28:49,670 - #27 )
+INFO  12:28:49,671 - #41 /
+INFO  12:28:49,671 - #15 2
+INFO  12:28:49,671 - #25 ;
+INFO  12:28:49,671 - #7 return
+INFO  12:28:49,671 - #18 s
+INFO  12:28:49,671 - #25 ;
+INFO  12:28:49,672 - #24 }
+INFO  12:28:49,672 - #18 int
+INFO  12:28:49,672 - #18 pogresna
+INFO  12:28:49,672 - #26 (
+INFO  12:28:49,672 - Obradjuje se funkcija pogresna na liniji 23
+INFO  12:28:49,672 - #18 int
+INFO  12:28:49,673 - #18 x
+INFO  12:28:49,673 - #30 ,
+INFO  12:28:49,673 - Deklarisana formalna promenljiva x na liniji 23
+INFO  12:28:49,673 - #18 z
+INFO  12:28:49,673 - #30 ,
+INFO  12:28:49,673 - #18 int
+INFO  12:28:49,673 - #27 )
+INFO  12:28:49,673 - #23 {
+INFO  12:28:49,673 - #7 return
+INFO  12:28:49,673 - #15 1
+INFO  12:28:49,674 - Uspesan oporavak od greske do ) prilikom deklarisanja formalnih argumenata funkcije na liniji 23
+INFO  12:28:49,674 - #25 ;
+INFO  12:28:49,674 - #24 }
+INFO  12:28:49,674 - #18 int
+INFO  12:28:49,674 - #18 main
+INFO  12:28:49,674 - #26 (
+INFO  12:28:49,674 - Obradjuje se funkcija main na liniji 27
+INFO  12:28:49,674 - #27 )
+INFO  12:28:49,674 - #18 bool
+INFO  12:28:49,674 - #18 b
+INFO  12:28:49,674 - #25 ;
+INFO  12:28:49,674 - Deklarisana promenljiva b na liniji 27
+INFO  12:28:49,675 - #18 char
+INFO  12:28:49,675 - #18 p
+INFO  12:28:49,675 - #23 {
+INFO  12:28:49,675 - #6 read
+INFO  12:28:49,675 - #26 (
+INFO  12:28:49,675 - #18 xc
+INFO  12:28:49,675 - Uspesan oporavak od greske do { pri deklaraciji lokalnih promenljivih na liniji 27
+INFO  12:28:49,675 - #27 )
+INFO  12:28:49,675 - #25 ;
+INFO  12:28:49,675 - #6 read
+INFO  12:28:49,675 - #26 (
+INFO  12:28:49,675 - #18 yc
+INFO  12:28:49,675 - #27 )
+INFO  12:28:49,675 - #25 ;
+INFO  12:28:49,676 - #18 a
+INFO  12:28:49,676 - #31 =
+INFO  12:28:49,676 - #18 distance
+INFO  12:28:49,676 - #26 (
+INFO  12:28:49,676 - #18 cccc
+INFO  12:28:49,676 - #30 ,
+INFO  12:28:49,676 - #18 ya
+INFO  12:28:49,676 - #30 ,
+INFO  12:28:49,676 - #18 xb
+INFO  12:28:49,676 - #30 ,
+INFO  12:28:49,676 - #18 yb
+INFO  12:28:49,676 - #27 )
+INFO  12:28:49,676 - #25 ;
+INFO  12:28:49,676 - Pronadjen poziv funkcije distance na liniji 32
+INFO  12:28:49,677 - #18 b
+INFO  12:28:49,677 - #31 =
+INFO  12:28:49,677 - #18 distance
+INFO  12:28:49,677 - #26 (
+INFO  12:28:49,677 - #18 xb
+INFO  12:28:49,677 - #30 ,
+INFO  12:28:49,677 - #18 yb
+INFO  12:28:49,677 - #30 ,
+INFO  12:28:49,677 - #18 xc
+INFO  12:28:49,677 - #30 ,
+INFO  12:28:49,677 - #18 yc
+INFO  12:28:49,677 - #27 )
+INFO  12:28:49,677 - #25 ;
+INFO  12:28:49,677 - Pronadjen poziv funkcije distance na liniji 34
+INFO  12:28:49,678 - #18 c
+INFO  12:28:49,678 - #31 =
+INFO  12:28:49,678 - #18 distance
+INFO  12:28:49,678 - #26 (
+INFO  12:28:49,678 - #18 ya
+INFO  12:28:49,678 - #30 ,
+INFO  12:28:49,678 - #18 xc
+INFO  12:28:49,678 - #30 ,
+INFO  12:28:49,678 - #18 yc
+INFO  12:28:49,679 - #27 )
+INFO  12:28:49,679 - #25 ;
+INFO  12:28:49,679 - Pronadjen poziv funkcije distance na liniji 37
+INFO  12:28:49,679 - #9 if
+INFO  12:28:49,679 - #26 (
+INFO  12:28:49,679 - #18 a
+INFO  12:28:49,680 - #19 +
+INFO  12:28:49,680 - #18 u
+INFO  12:28:49,680 - #35 >
+INFO  12:28:49,680 - #18 v
+INFO  12:28:49,680 - #45 &&
+INFO  12:28:49,680 - #18 a
+INFO  12:28:49,680 - #19 +
+INFO  12:28:49,680 - #18 v
+INFO  12:28:49,681 - #35 >
+INFO  12:28:49,681 - #18 u
+INFO  12:28:49,681 - #45 &&
+INFO  12:28:49,681 - #18 u
+INFO  12:28:49,681 - #19 +
+INFO  12:28:49,681 - #18 v
+INFO  12:28:49,681 - #35 >
+INFO  12:28:49,681 - #18 a
+INFO  12:28:49,681 - #27 )
+INFO  12:28:49,681 - #23 {
+INFO  12:28:49,681 - #18 obim
+INFO  12:28:49,682 - #26 (
+INFO  12:28:49,682 - #18 a
+INFO  12:28:49,682 - #30 ,
+INFO  12:28:49,682 - #18 b
+INFO  12:28:49,682 - #30 ,
+INFO  12:28:49,682 - #18 u
+INFO  12:28:49,682 - #30 ,
+INFO  12:28:49,682 - #18 v
+INFO  12:28:49,682 - #27 )
+INFO  12:28:49,682 - #25 ;
+INFO  12:28:49,683 - Pronadjen poziv funkcije obim na liniji 40
+INFO  12:28:49,683 - #18 povrsina
+INFO  12:28:49,683 - #26 (
+INFO  12:28:49,683 - #15 5
+INFO  12:28:49,683 - #19 +
+INFO  12:28:49,683 - #15 2
+INFO  12:28:49,683 - #30 ,
+INFO  12:28:49,684 - #16 w
+INFO  12:28:49,684 - #30 ,
+INFO  12:28:49,684 - #18 c
+INFO  12:28:49,684 - #27 )
+INFO  12:28:49,685 - #25 ;
+INFO  12:28:49,685 - Pronadjen poziv funkcije povrsina na liniji 41
+INFO  12:28:49,685 - #24 }
+INFO  12:28:49,685 - #24 }
+INFO  12:28:49,685 - #24 }
+INFO  12:28:49,685 - Definicije globalnih promenljivih = 10
+INFO  12:28:49,685 - Definicija lokalnih promenljivih (u main funkciji) = 1
+INFO  12:28:49,686 - Definicije globalnih konstanti = 0
+INFO  12:28:49,686 - Deklaracije globalnih nizova = 0
+INFO  12:28:49,686 - Definicije funkcija u glavnom programu = 5
+INFO  12:28:49,686 - Blokovi naredbi = 6
+INFO  12:28:49,686 - Pozivi funkcija u telu metode main = 7
+INFO  12:28:49,686 - Deklaracije formalnih argumenata funkcija = 10
+INFO  12:28:49,686 - Definicje unutrasnjih klasa = 0
+INFO  12:28:49,686 - Definicije metoda unutrasnjih klasa = 0
+INFO  12:28:49,686 - Deklaracije polja unutrasnjih klasa = 0
+ERROR 12:28:49,688 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,53 @@
+INFO  13:02:58,068 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test301.mj
+INFO  13:02:58,089 - #2 program
+INFO  13:02:58,089 - #18 test301
+INFO  13:02:58,090 - #11 const
+INFO  13:02:58,090 - #18 int
+INFO  13:02:58,090 - #18 jedan
+INFO  13:02:58,090 - #31 =
+INFO  13:02:58,090 - #15 1
+INFO  13:02:58,090 - #25 ;
+INFO  13:02:58,090 - Deklarisana konstanta jedan na liniji 4
+INFO  13:02:58,091 - #11 const
+INFO  13:02:58,091 - #18 int
+INFO  13:02:58,091 - #18 pet
+INFO  13:02:58,091 - #31 =
+INFO  13:02:58,091 - #15 5
+INFO  13:02:58,091 - #25 ;
+INFO  13:02:58,091 - Deklarisana konstanta pet na liniji 5
+INFO  13:02:58,091 - #18 int
+INFO  13:02:58,091 - #18 niz
+INFO  13:02:58,091 - #28 [
+INFO  13:02:58,093 - #29 ]
+INFO  13:02:58,093 - #25 ;
+INFO  13:02:58,093 - Deklarisan niz niz na liniji 7
+INFO  13:02:58,093 - #18 char
+INFO  13:02:58,094 - #18 nizch
+INFO  13:02:58,094 - #28 [
+INFO  13:02:58,094 - #29 ]
+INFO  13:02:58,094 - #25 ;
+INFO  13:02:58,094 - Deklarisan niz nizch na liniji 9
+INFO  13:02:58,094 - #23 {
+INFO  13:02:58,094 - #8 void
+INFO  13:02:58,094 - #18 main
+INFO  13:02:58,094 - #26 (
+INFO  13:02:58,094 - Obradjuje se funkcija main na liniji 12
+INFO  13:02:58,095 - #27 )
+INFO  13:02:58,095 - #18 int
+INFO  13:02:58,095 - #18 bodovi
+INFO  13:02:58,095 - #25 ;
+INFO  13:02:58,095 - Deklarisana promenljiva bodovi na liniji 12
+INFO  13:02:58,095 - #23 {
+INFO  13:02:58,095 - #18 bodovi
+INFO  13:02:58,097 - #31 =
+INFO  13:02:58,098 - #15 0
+INFO  13:02:58,098 - #25 ;
+INFO  13:02:58,098 - #18 bodovi
+INFO  13:02:58,098 - #47 ++
+INFO  13:02:58,098 - #25 ;
+INFO  13:02:58,098 - #18 bodovi
+INFO  13:02:58,098 - #31 =
+INFO  13:02:58,098 - #18 bodovi
+INFO  13:02:58,098 - #19 +
+INFO  13:02:58,098 - #18 jedan
+INFO  13:02:58,098 - #25 ;

@@ -1,0 +1,602 @@
+INFO  23:32:11,244 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\ParserTestCorrect.mj
+INFO  23:32:11,273 - #2 program
+INFO  23:32:11,273 - #18 ParserTestCorrect
+INFO  23:32:11,273 - #11 const
+INFO  23:32:11,274 - #18 int
+INFO  23:32:11,274 - #18 K
+INFO  23:32:11,274 - Na liniji 5 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,274 - #31 =
+INFO  23:32:11,274 - #15 3
+INFO  23:32:11,275 - #25 ;
+INFO  23:32:11,275 - Deklarisana konstanta K na liniji 5
+INFO  23:32:11,275 - #18 int
+INFO  23:32:11,275 - #18 rezultati
+INFO  23:32:11,275 - Na liniji 6 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,275 - #28 [
+INFO  23:32:11,275 - #29 ]
+INFO  23:32:11,275 - #25 ;
+INFO  23:32:11,276 - Deklarisan niz rezultati na liniji 6
+INFO  23:32:11,277 - #18 int
+INFO  23:32:11,278 - #18 i
+INFO  23:32:11,278 - Na liniji 7 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,278 - #25 ;
+INFO  23:32:11,278 - Deklarisana promenljiva i na liniji 7
+INFO  23:32:11,278 - #13 class
+INFO  23:32:11,278 - #18 kocka
+INFO  23:32:11,278 - #23 {
+INFO  23:32:11,278 - Obradjuje se klasa kocka na liniji 9
+INFO  23:32:11,279 - #18 char
+INFO  23:32:11,279 - #18 name
+INFO  23:32:11,279 - Na liniji 11 detektovano koriscenje tipa Type char: char, -1, -1 
+INFO  23:32:11,279 - #25 ;
+INFO  23:32:11,279 - Deklarisana promenljiva name na liniji 11
+INFO  23:32:11,279 - #18 int
+INFO  23:32:11,279 - #18 a
+INFO  23:32:11,279 - Na liniji 12 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,279 - #25 ;
+INFO  23:32:11,280 - Deklarisana promenljiva a na liniji 12
+INFO  23:32:11,280 - #18 int
+INFO  23:32:11,280 - #18 b
+INFO  23:32:11,280 - Na liniji 13 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,280 - #25 ;
+INFO  23:32:11,280 - Deklarisana promenljiva b na liniji 13
+INFO  23:32:11,280 - #18 int
+INFO  23:32:11,280 - #18 c
+INFO  23:32:11,280 - Na liniji 14 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,281 - #25 ;
+INFO  23:32:11,281 - Deklarisana promenljiva c na liniji 14
+INFO  23:32:11,281 - #23 {
+INFO  23:32:11,281 - #18 int
+INFO  23:32:11,281 - #18 povrsina
+INFO  23:32:11,281 - Na liniji 17 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,282 - #26 (
+INFO  23:32:11,282 - Obradjuje se funkcija povrsina na liniji 17
+INFO  23:32:11,282 - #27 )
+INFO  23:32:11,282 - #18 int
+INFO  23:32:11,282 - #18 p
+INFO  23:32:11,283 - Na liniji 18 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,283 - #25 ;
+INFO  23:32:11,283 - Deklarisana promenljiva p na liniji 18
+INFO  23:32:11,283 - #23 {
+INFO  23:32:11,283 - #18 p
+INFO  23:32:11,284 - #31 =
+INFO  23:32:11,284 - Na liniji 20 detektovano koriscenje simbola: Var p: int, 0, 1 
+INFO  23:32:11,284 - #15 6
+INFO  23:32:11,284 - #39 *
+INFO  23:32:11,288 - #18 a
+INFO  23:32:11,288 - #39 *
+INFO  23:32:11,289 - Na liniji 20 detektovano koriscenje simbola: Fld a: int, 1, 1 
+INFO  23:32:11,290 - #18 b
+INFO  23:32:11,290 - #25 ;
+INFO  23:32:11,290 - Na liniji 20 detektovano koriscenje simbola: Fld b: int, 2, 1 
+INFO  23:32:11,290 - #7 return
+INFO  23:32:11,290 - #18 p
+INFO  23:32:11,291 - #25 ;
+INFO  23:32:11,291 - Na liniji 21 detektovano koriscenje simbola: Var p: int, 0, 1 
+INFO  23:32:11,291 - #24 }
+INFO  23:32:11,291 - #8 void
+INFO  23:32:11,291 - #18 setA
+INFO  23:32:11,291 - #26 (
+INFO  23:32:11,291 - Obradjuje se funkcija setA na liniji 24
+INFO  23:32:11,291 - #27 )
+INFO  23:32:11,292 - #23 {
+INFO  23:32:11,292 - #6 read
+INFO  23:32:11,292 - #26 (
+INFO  23:32:11,292 - #18 a
+INFO  23:32:11,292 - #27 )
+INFO  23:32:11,293 - Na liniji 26 detektovano koriscenje simbola: Fld a: int, 1, 1 
+INFO  23:32:11,293 - #25 ;
+INFO  23:32:11,293 - #24 }
+INFO  23:32:11,294 - #8 void
+INFO  23:32:11,294 - #18 setB
+INFO  23:32:11,294 - #26 (
+INFO  23:32:11,295 - Obradjuje se funkcija setB na liniji 29
+INFO  23:32:11,295 - #27 )
+INFO  23:32:11,295 - #23 {
+INFO  23:32:11,295 - #6 read
+INFO  23:32:11,295 - #26 (
+INFO  23:32:11,296 - #18 b
+INFO  23:32:11,296 - #27 )
+INFO  23:32:11,297 - Na liniji 31 detektovano koriscenje simbola: Fld b: int, 2, 1 
+INFO  23:32:11,298 - #25 ;
+INFO  23:32:11,298 - #24 }
+INFO  23:32:11,298 - #8 void
+INFO  23:32:11,298 - #18 setC
+INFO  23:32:11,299 - #26 (
+INFO  23:32:11,299 - Obradjuje se funkcija setC na liniji 34
+INFO  23:32:11,299 - #27 )
+INFO  23:32:11,299 - #23 {
+INFO  23:32:11,299 - #6 read
+INFO  23:32:11,299 - #26 (
+INFO  23:32:11,299 - #18 c
+INFO  23:32:11,299 - #27 )
+INFO  23:32:11,299 - Na liniji 36 detektovano koriscenje simbola: Fld c: int, 3, 1 
+INFO  23:32:11,299 - #25 ;
+INFO  23:32:11,300 - #24 }
+INFO  23:32:11,300 - #8 void
+INFO  23:32:11,300 - #18 setName
+INFO  23:32:11,300 - #26 (
+INFO  23:32:11,300 - Obradjuje se funkcija setName na liniji 39
+INFO  23:32:11,300 - #27 )
+INFO  23:32:11,300 - #23 {
+INFO  23:32:11,301 - #6 read
+INFO  23:32:11,301 - #26 (
+INFO  23:32:11,301 - #18 name
+INFO  23:32:11,301 - #27 )
+INFO  23:32:11,301 - Na liniji 41 detektovano koriscenje simbola: Fld name: char, 0, 1 
+INFO  23:32:11,301 - #25 ;
+INFO  23:32:11,301 - #24 }
+INFO  23:32:11,301 - #24 }
+INFO  23:32:11,301 - #24 }
+INFO  23:32:11,301 - #18 kocka
+INFO  23:32:11,302 - #18 kock
+INFO  23:32:11,302 - Na liniji 47 detektovano koriscenje tipa Type kocka: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 0, 0 
+INFO  23:32:11,302 - #25 ;
+INFO  23:32:11,303 - Deklarisana promenljiva kock na liniji 47
+INFO  23:32:11,303 - #23 {
+INFO  23:32:11,303 - #18 int
+INFO  23:32:11,303 - #18 zapremina
+INFO  23:32:11,303 - Na liniji 51 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,303 - #26 (
+INFO  23:32:11,303 - Obradjuje se funkcija zapremina na liniji 51
+INFO  23:32:11,304 - #18 int
+INFO  23:32:11,304 - #18 x
+INFO  23:32:11,304 - Na liniji 51 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,304 - #30 ,
+INFO  23:32:11,304 - Deklarisana formalna promenljiva x na liniji 51
+INFO  23:32:11,304 - #18 int
+INFO  23:32:11,304 - #18 y
+INFO  23:32:11,304 - Na liniji 51 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,305 - #30 ,
+INFO  23:32:11,305 - Deklarisana formalna promenljiva y na liniji 51
+INFO  23:32:11,305 - #18 int
+INFO  23:32:11,305 - #18 z
+INFO  23:32:11,305 - Na liniji 51 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,305 - #27 )
+INFO  23:32:11,305 - Deklarisana formalna promenljiva z na liniji 51
+INFO  23:32:11,305 - #18 int
+INFO  23:32:11,306 - #18 rez
+INFO  23:32:11,306 - Na liniji 52 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,306 - #25 ;
+INFO  23:32:11,306 - Deklarisana promenljiva rez na liniji 52
+INFO  23:32:11,306 - #23 {
+INFO  23:32:11,306 - #18 rez
+INFO  23:32:11,306 - #31 =
+INFO  23:32:11,306 - Na liniji 54 detektovano koriscenje simbola: Var rez: int, 3, 1 
+INFO  23:32:11,306 - #18 x
+INFO  23:32:11,307 - #39 *
+INFO  23:32:11,307 - Na liniji 54 detektovano koriscenje simbola: Var x: int, 0, 1 
+INFO  23:32:11,307 - #18 y
+INFO  23:32:11,307 - #39 *
+INFO  23:32:11,307 - Na liniji 54 detektovano koriscenje simbola: Var y: int, 1, 1 
+INFO  23:32:11,307 - #18 z
+INFO  23:32:11,307 - #25 ;
+INFO  23:32:11,307 - Na liniji 54 detektovano koriscenje simbola: Var z: int, 2, 1 
+INFO  23:32:11,307 - #7 return
+INFO  23:32:11,308 - #18 rez
+INFO  23:32:11,308 - #25 ;
+INFO  23:32:11,308 - Na liniji 55 detektovano koriscenje simbola: Var rez: int, 3, 1 
+INFO  23:32:11,308 - #24 }
+INFO  23:32:11,308 - #18 int
+INFO  23:32:11,308 - #18 zapremina2
+INFO  23:32:11,308 - Na liniji 58 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,309 - #26 (
+INFO  23:32:11,309 - Obradjuje se funkcija zapremina2 na liniji 58
+INFO  23:32:11,309 - #18 kocka
+INFO  23:32:11,310 - #18 k
+INFO  23:32:11,310 - Na liniji 58 detektovano koriscenje tipa Type kocka: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 0, 0 
+INFO  23:32:11,310 - #27 )
+INFO  23:32:11,310 - Deklarisana formalna promenljiva k na liniji 58
+INFO  23:32:11,310 - #18 int
+INFO  23:32:11,310 - #18 rez
+INFO  23:32:11,310 - Na liniji 59 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,311 - #25 ;
+INFO  23:32:11,311 - Deklarisana promenljiva rez na liniji 59
+INFO  23:32:11,311 - #18 kocka
+INFO  23:32:11,311 - #18 k1
+INFO  23:32:11,311 - Na liniji 60 detektovano koriscenje tipa Type kocka: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 0, 0 
+INFO  23:32:11,312 - #25 ;
+INFO  23:32:11,312 - Deklarisana promenljiva k1 na liniji 60
+INFO  23:32:11,312 - #23 {
+INFO  23:32:11,312 - #18 k1
+INFO  23:32:11,313 - #31 =
+INFO  23:32:11,313 - Na liniji 62 detektovano koriscenje simbola: Var k1: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 2, 1 
+INFO  23:32:11,313 - #18 k
+INFO  23:32:11,313 - #25 ;
+INFO  23:32:11,314 - Na liniji 62 detektovano koriscenje simbola: Var k: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 0, 1 
+INFO  23:32:11,314 - #18 rez
+INFO  23:32:11,314 - #31 =
+INFO  23:32:11,314 - Na liniji 63 detektovano koriscenje simbola: Var rez: int, 1, 1 
+INFO  23:32:11,314 - #18 k1
+INFO  23:32:11,314 - #32 .
+INFO  23:32:11,314 - Na liniji 63 detektovano koriscenje simbola: Var k1: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 2, 1 
+INFO  23:32:11,315 - #18 a
+INFO  23:32:11,315 - #39 *
+INFO  23:32:11,315 - Na liniji 63 detektovano koriscenje simbola: Fld a: int, 1, 1 
+INFO  23:32:11,315 - #18 k1
+INFO  23:32:11,315 - #32 .
+INFO  23:32:11,316 - Na liniji 63 detektovano koriscenje simbola: Var k1: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 2, 1 
+INFO  23:32:11,316 - #18 b
+INFO  23:32:11,316 - #39 *
+INFO  23:32:11,316 - Na liniji 63 detektovano koriscenje simbola: Fld b: int, 2, 1 
+INFO  23:32:11,316 - #18 k1
+INFO  23:32:11,316 - #32 .
+INFO  23:32:11,316 - Na liniji 63 detektovano koriscenje simbola: Var k1: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 2, 1 
+INFO  23:32:11,316 - #18 c
+INFO  23:32:11,317 - #25 ;
+INFO  23:32:11,317 - Na liniji 63 detektovano koriscenje simbola: Fld c: int, 3, 1 
+INFO  23:32:11,317 - #7 return
+INFO  23:32:11,317 - #18 rez
+INFO  23:32:11,317 - #25 ;
+INFO  23:32:11,317 - Na liniji 64 detektovano koriscenje simbola: Var rez: int, 1, 1 
+INFO  23:32:11,317 - #24 }
+INFO  23:32:11,317 - #18 int
+INFO  23:32:11,317 - #18 racunaj
+INFO  23:32:11,317 - Na liniji 68 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,317 - #26 (
+INFO  23:32:11,317 - Obradjuje se funkcija racunaj na liniji 68
+INFO  23:32:11,318 - #27 )
+INFO  23:32:11,318 - #18 int
+INFO  23:32:11,318 - #18 x
+INFO  23:32:11,318 - Na liniji 69 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,318 - #25 ;
+INFO  23:32:11,318 - Deklarisana promenljiva x na liniji 69
+INFO  23:32:11,318 - #18 char
+INFO  23:32:11,318 - #18 i
+INFO  23:32:11,318 - Na liniji 70 detektovano koriscenje tipa Type char: char, -1, -1 
+INFO  23:32:11,318 - #28 [
+INFO  23:32:11,318 - #29 ]
+INFO  23:32:11,319 - #25 ;
+INFO  23:32:11,319 - Deklarisana promenljiva i na liniji 70
+INFO  23:32:11,319 - #23 {
+INFO  23:32:11,319 - #6 read
+INFO  23:32:11,319 - #26 (
+INFO  23:32:11,319 - #18 x
+INFO  23:32:11,319 - #27 )
+INFO  23:32:11,325 - Na liniji 72 detektovano koriscenje simbola: Var x: int, 0, 1 
+INFO  23:32:11,326 - #25 ;
+INFO  23:32:11,326 - #7 return
+INFO  23:32:11,326 - #18 x
+INFO  23:32:11,327 - #25 ;
+INFO  23:32:11,327 - Na liniji 73 detektovano koriscenje simbola: Var x: int, 0, 1 
+INFO  23:32:11,327 - #24 }
+INFO  23:32:11,327 - #18 int
+INFO  23:32:11,328 - #18 saberi
+INFO  23:32:11,328 - Na liniji 76 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,328 - #26 (
+INFO  23:32:11,328 - Obradjuje se funkcija saberi na liniji 76
+INFO  23:32:11,328 - #18 int
+INFO  23:32:11,328 - #18 b
+INFO  23:32:11,328 - Na liniji 76 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,328 - #30 ,
+INFO  23:32:11,328 - Deklarisana formalna promenljiva b na liniji 76
+INFO  23:32:11,328 - #18 int
+INFO  23:32:11,328 - #18 c
+INFO  23:32:11,329 - Na liniji 76 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,329 - #27 )
+INFO  23:32:11,329 - Deklarisana formalna promenljiva c na liniji 76
+INFO  23:32:11,329 - #18 int
+INFO  23:32:11,329 - #18 r
+INFO  23:32:11,329 - Na liniji 77 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,329 - #25 ;
+INFO  23:32:11,329 - Deklarisana promenljiva r na liniji 77
+INFO  23:32:11,329 - #23 {
+INFO  23:32:11,329 - #18 b
+INFO  23:32:11,329 - #31 =
+INFO  23:32:11,330 - Na liniji 79 detektovano koriscenje simbola: Var b: int, 0, 1 
+INFO  23:32:11,330 - #18 r
+INFO  23:32:11,330 - #19 +
+INFO  23:32:11,330 - Na liniji 79 detektovano koriscenje simbola: Var r: int, 2, 1 
+INFO  23:32:11,330 - #18 c
+INFO  23:32:11,330 - #25 ;
+INFO  23:32:11,330 - Na liniji 79 detektovano koriscenje simbola: Var c: int, 1, 1 
+INFO  23:32:11,330 - #7 return
+INFO  23:32:11,330 - #18 b
+INFO  23:32:11,330 - #25 ;
+INFO  23:32:11,330 - Na liniji 80 detektovano koriscenje simbola: Var b: int, 0, 1 
+INFO  23:32:11,330 - #24 }
+INFO  23:32:11,331 - #18 int
+INFO  23:32:11,331 - #18 prosledi
+INFO  23:32:11,331 - Na liniji 83 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,331 - #26 (
+INFO  23:32:11,331 - Obradjuje se funkcija prosledi na liniji 83
+INFO  23:32:11,331 - #18 int
+INFO  23:32:11,331 - #18 x
+INFO  23:32:11,331 - Na liniji 83 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,331 - #27 )
+INFO  23:32:11,331 - Deklarisana formalna promenljiva x na liniji 83
+INFO  23:32:11,331 - #18 int
+INFO  23:32:11,331 - #18 y
+INFO  23:32:11,332 - Na liniji 84 detektovano koriscenje tipa Type int: int, -1, -1 
+INFO  23:32:11,332 - #25 ;
+INFO  23:32:11,332 - Deklarisana promenljiva y na liniji 84
+INFO  23:32:11,332 - #23 {
+INFO  23:32:11,332 - #18 y
+INFO  23:32:11,332 - #31 =
+INFO  23:32:11,332 - Na liniji 86 detektovano koriscenje simbola: Var y: int, 1, 1 
+INFO  23:32:11,332 - #18 x
+INFO  23:32:11,332 - #25 ;
+INFO  23:32:11,332 - Na liniji 86 detektovano koriscenje simbola: Var x: int, 0, 1 
+INFO  23:32:11,333 - #7 return
+INFO  23:32:11,333 - #18 y
+INFO  23:32:11,333 - #25 ;
+INFO  23:32:11,333 - Na liniji 87 detektovano koriscenje simbola: Var y: int, 1, 1 
+INFO  23:32:11,333 - #24 }
+INFO  23:32:11,333 - #8 void
+INFO  23:32:11,333 - #18 stampaj
+INFO  23:32:11,333 - #26 (
+INFO  23:32:11,333 - Obradjuje se funkcija stampaj na liniji 90
+INFO  23:32:11,333 - #18 char
+INFO  23:32:11,333 - #18 r
+INFO  23:32:11,334 - Na liniji 90 detektovano koriscenje tipa Type char: char, -1, -1 
+INFO  23:32:11,334 - #27 )
+INFO  23:32:11,334 - Deklarisana formalna promenljiva r na liniji 90
+INFO  23:32:11,334 - #23 {
+INFO  23:32:11,334 - #3 print
+INFO  23:32:11,334 - #26 (
+INFO  23:32:11,334 - #18 r
+INFO  23:32:11,334 - #27 )
+INFO  23:32:11,334 - Na liniji 92 detektovano koriscenje simbola: Var r: char, 0, 1 
+INFO  23:32:11,334 - #25 ;
+INFO  23:32:11,334 - #24 }
+INFO  23:32:11,335 - #8 void
+INFO  23:32:11,335 - #18 main
+INFO  23:32:11,335 - #26 (
+INFO  23:32:11,335 - Obradjuje se funkcija main na liniji 95
+INFO  23:32:11,335 - #27 )
+INFO  23:32:11,335 - #23 {
+INFO  23:32:11,335 - #18 rezultati
+INFO  23:32:11,335 - #28 [
+INFO  23:32:11,337 - Na liniji 98 detektovano koriscenje simbola: Var rezultati: Arr of int, 0, 0 
+INFO  23:32:11,337 - #15 1
+INFO  23:32:11,338 - Na liniji 98 detektovano koriscenje clana niza Var rezultati: Arr of int, 0, 0 
+INFO  23:32:11,338 - #29 ]
+INFO  23:32:11,338 - #31 =
+INFO  23:32:11,339 - #15 1
+INFO  23:32:11,339 - #25 ;
+INFO  23:32:11,339 - #18 kock
+INFO  23:32:11,339 - #32 .
+INFO  23:32:11,340 - Na liniji 99 detektovano koriscenje simbola: Var kock: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 2, 0 
+INFO  23:32:11,340 - #18 setA
+INFO  23:32:11,340 - #26 (
+INFO  23:32:11,340 - Na liniji 99 detektovano koriscenje simbola: Meth setA: notype, 19, 0 
+
+INFO  23:32:11,340 - #27 )
+INFO  23:32:11,340 - #25 ;
+INFO  23:32:11,340 - Pronadjen poziv funkcije setA na liniji 99
+INFO  23:32:11,340 - #18 kock
+INFO  23:32:11,341 - #32 .
+INFO  23:32:11,341 - Na liniji 100 detektovano koriscenje simbola: Var kock: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 2, 0 
+INFO  23:32:11,341 - #18 setB
+INFO  23:32:11,341 - #26 (
+INFO  23:32:11,341 - Na liniji 100 detektovano koriscenje simbola: Meth setB: notype, 28, 0 
+
+INFO  23:32:11,341 - #27 )
+INFO  23:32:11,341 - #25 ;
+INFO  23:32:11,341 - Pronadjen poziv funkcije setB na liniji 100
+INFO  23:32:11,342 - #18 kock
+INFO  23:32:11,342 - #32 .
+INFO  23:32:11,342 - Na liniji 101 detektovano koriscenje simbola: Var kock: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 2, 0 
+INFO  23:32:11,345 - #18 setC
+INFO  23:32:11,345 - #26 (
+INFO  23:32:11,345 - Na liniji 101 detektovano koriscenje simbola: Meth setC: notype, 37, 0 
+
+INFO  23:32:11,345 - #27 )
+INFO  23:32:11,345 - #25 ;
+INFO  23:32:11,345 - Pronadjen poziv funkcije setC na liniji 101
+INFO  23:32:11,345 - #18 rezultati
+INFO  23:32:11,346 - #28 [
+INFO  23:32:11,346 - Na liniji 102 detektovano koriscenje simbola: Var rezultati: Arr of int, 0, 0 
+INFO  23:32:11,346 - #15 2
+INFO  23:32:11,346 - Na liniji 102 detektovano koriscenje clana niza Var rezultati: Arr of int, 0, 0 
+INFO  23:32:11,346 - #29 ]
+INFO  23:32:11,346 - #31 =
+INFO  23:32:11,346 - #18 kock
+INFO  23:32:11,346 - #32 .
+INFO  23:32:11,347 - Na liniji 102 detektovano koriscenje simbola: Var kock: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 2, 0 
+INFO  23:32:11,347 - #18 povrsina
+INFO  23:32:11,347 - #26 (
+INFO  23:32:11,347 - Na liniji 102 detektovano koriscenje simbola: Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+
+INFO  23:32:11,347 - #27 )
+INFO  23:32:11,347 - #25 ;
+INFO  23:32:11,347 - Pronadjen poziv funkcije povrsina na liniji 102
+INFO  23:32:11,347 - #18 rezultati
+INFO  23:32:11,347 - #28 [
+INFO  23:32:11,347 - Na liniji 103 detektovano koriscenje simbola: Var rezultati: Arr of int, 0, 0 
+INFO  23:32:11,347 - #15 3
+INFO  23:32:11,348 - Na liniji 103 detektovano koriscenje clana niza Var rezultati: Arr of int, 0, 0 
+INFO  23:32:11,348 - #29 ]
+INFO  23:32:11,348 - #31 =
+INFO  23:32:11,348 - #18 zapremina2
+INFO  23:32:11,348 - #26 (
+INFO  23:32:11,348 - Na liniji 103 detektovano koriscenje simbola: Meth zapremina2: int, 0, 0 
+   Var k: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+      Var p: int, 0, 1 
+      Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 0, 1 
+   Var rez: int, 1, 1 
+   Var k1: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+      Var p: int, 0, 1 
+      Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 2, 1 
+
+INFO  23:32:11,348 - #18 kock
+INFO  23:32:11,349 - #27 )
+INFO  23:32:11,349 - Na liniji 103 detektovano koriscenje simbola: Var kock: Class [Fld name: char, 0, 1 Fld a: int, 1, 1 Fld b: int, 2, 1 Fld c: int, 3, 1 Meth povrsina: int, 0, 1 
+   Var p: int, 0, 1 
+   Con : int, 6, 1 
+Meth setA: notype, 19, 0 
+Meth setB: notype, 28, 0 
+Meth setC: notype, 37, 0 
+Meth setName: notype, 46, 0 
+], 2, 0 
+INFO  23:32:11,349 - #25 ;
+INFO  23:32:11,349 - Pronadjen poziv funkcije zapremina2 na liniji 103
+INFO  23:32:11,349 - #18 rezultati
+INFO  23:32:11,350 - #28 [
+INFO  23:32:11,350 - Na liniji 104 detektovano koriscenje simbola: Var rezultati: Arr of int, 0, 0 
+INFO  23:32:11,350 - #15 4
+INFO  23:32:11,350 - Na liniji 104 detektovano koriscenje clana niza Var rezultati: Arr of int, 0, 0 
+INFO  23:32:11,350 - #29 ]
+INFO  23:32:11,350 - #31 =
+INFO  23:32:11,350 - #18 zapremina
+INFO  23:32:11,350 - #26 (
+INFO  23:32:11,351 - Na liniji 104 detektovano koriscenje simbola: Meth zapremina: int, 0, 0 
+   Var x: int, 0, 1 
+   Var y: int, 1, 1 
+   Var z: int, 2, 1 
+   Var rez: int, 3, 1 
+
+INFO  23:32:11,351 - #15 2
+INFO  23:32:11,351 - #30 ,
+INFO  23:32:11,351 - #15 3
+INFO  23:32:11,351 - #30 ,
+INFO  23:32:11,351 - #15 4
+INFO  23:32:11,351 - #27 )
+INFO  23:32:11,351 - #25 ;
+INFO  23:32:11,351 - Pronadjen poziv funkcije zapremina na liniji 104
+INFO  23:32:11,351 - #9 if
+INFO  23:32:11,352 - #26 (
+INFO  23:32:11,352 - #18 i
+INFO  23:32:11,352 - #35 >
+INFO  23:32:11,352 - Na liniji 106 detektovano koriscenje simbola: Var i: int, 1, 0 
+INFO  23:32:11,352 - #15 0
+INFO  23:32:11,353 - #27 )
+INFO  23:32:11,353 - #23 {
+INFO  23:32:11,353 - #50 for
+INFO  23:32:11,353 - #26 (
+INFO  23:32:11,353 - #25 ;
+INFO  23:32:11,353 - #18 i
+INFO  23:32:11,353 - #35 >
+INFO  23:32:11,353 - Na liniji 107 detektovano koriscenje simbola: Var i: int, 1, 0 
+INFO  23:32:11,353 - #15 0
+INFO  23:32:11,354 - #25 ;
+INFO  23:32:11,354 - #27 )
+INFO  23:32:11,354 - #6 read
+INFO  23:32:11,354 - #26 (
+INFO  23:32:11,354 - #18 i
+INFO  23:32:11,354 - #27 )
+INFO  23:32:11,354 - Na liniji 108 detektovano koriscenje simbola: Var i: int, 1, 0 
+INFO  23:32:11,354 - #25 ;
+INFO  23:32:11,354 - #24 }
+INFO  23:32:11,354 - #18 i
+INFO  23:32:11,355 - #31 =
+INFO  23:32:11,355 - Na liniji 110 detektovano koriscenje simbola: Var i: int, 1, 0 
+INFO  23:32:11,355 - #18 racunaj
+INFO  23:32:11,355 - #26 (
+INFO  23:32:11,355 - Na liniji 110 detektovano koriscenje simbola: Meth racunaj: int, 0, 0 
+   Var x: int, 0, 1 
+   Var i: Arr of char, 1, 1 
+
+INFO  23:32:11,355 - #27 )
+INFO  23:32:11,355 - #25 ;
+INFO  23:32:11,355 - Pronadjen poziv funkcije racunaj na liniji 110
+INFO  23:32:11,355 - #24 }
+INFO  23:32:11,355 - #24 }
+INFO  23:32:11,356 - Definicije globalnih promenljivih = 2
+INFO  23:32:11,356 - Definicija lokalnih promenljivih (u main funkciji) = 0
+INFO  23:32:11,356 - Definicije globalnih konstanti = 1
+INFO  23:32:11,356 - Deklaracije globalnih nizova = 1
+INFO  23:32:11,356 - Definicije funkcija u glavnom programu = 7
+INFO  23:32:11,356 - Blokovi naredbi = 13
+INFO  23:32:11,356 - Pozivi funkcija u telu metode main = 8
+INFO  23:32:11,356 - Deklaracije formalnih argumenata funkcija = 8
+INFO  23:32:11,356 - Definicje unutrasnjih klasa = 1
+INFO  23:32:11,356 - Definicije metoda unutrasnjih klasa = 5
+INFO  23:32:11,356 - Deklaracije polja unutrasnjih klasa = 4
+INFO  23:32:11,359 - Parsiranje uspesno zavrseno!

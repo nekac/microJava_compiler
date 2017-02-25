@@ -1,0 +1,242 @@
+INFO  12:38:48,797 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test08.mj
+INFO  12:38:48,817 - #2 program
+INFO  12:38:48,817 - #18 test08
+INFO  12:38:48,817 - #13 class
+INFO  12:38:48,818 - #18 Alfa
+INFO  12:38:48,818 - #12 extends
+INFO  12:38:48,818 - #18 Nepostojeca
+INFO  12:38:48,818 - #23 {
+INFO  12:38:48,818 - Obradjuje se klasa Alfa na liniji 5
+INFO  12:38:48,819 - #18 int
+INFO  12:38:48,819 - #18 x
+INFO  12:38:48,819 - #25 ;
+INFO  12:38:48,819 - Deklarisana promenljiva x na liniji 6
+INFO  12:38:48,819 - #18 char
+INFO  12:38:48,819 - #18 x
+INFO  12:38:48,820 - #25 ;
+INFO  12:38:48,820 - #18 real
+INFO  12:38:48,820 - #18 y
+INFO  12:38:48,820 - #25 ;
+INFO  12:38:48,820 - Deklarisana promenljiva y na liniji 8
+INFO  12:38:48,821 - #18 y
+INFO  12:38:48,821 - #18 z
+INFO  12:38:48,821 - #25 ;
+INFO  12:38:48,821 - Deklarisana promenljiva z na liniji 9
+INFO  12:38:48,821 - #18 char
+INFO  12:38:48,821 - #18 b
+INFO  12:38:48,821 - #25 ;
+INFO  12:38:48,821 - Deklarisana promenljiva b na liniji 10
+INFO  12:38:48,821 - #23 {
+INFO  12:38:48,822 - #8 void
+INFO  12:38:48,822 - #18 k
+INFO  12:38:48,822 - #26 (
+INFO  12:38:48,822 - Obradjuje se funkcija k na liniji 12
+INFO  12:38:48,822 - #27 )
+INFO  12:38:48,822 - #23 {
+INFO  12:38:48,822 - #18 this
+INFO  12:38:48,824 - #32 .
+INFO  12:38:48,824 - #18 b
+INFO  12:38:48,824 - #31 =
+INFO  12:38:48,825 - #16 a
+INFO  12:38:48,825 - #25 ;
+INFO  12:38:48,825 - #24 }
+INFO  12:38:48,825 - #18 int
+INFO  12:38:48,825 - #18 f
+INFO  12:38:48,825 - #26 (
+INFO  12:38:48,825 - Obradjuje se funkcija f na liniji 16
+INFO  12:38:48,825 - #18 int
+INFO  12:38:48,825 - #18 sss
+INFO  12:38:48,826 - #27 )
+INFO  12:38:48,826 - Deklarisana formalna promenljiva sss na liniji 16
+INFO  12:38:48,826 - #23 {
+INFO  12:38:48,826 - #18 this
+INFO  12:38:48,826 - #31 =
+INFO  12:38:48,826 - #15 1
+INFO  12:38:48,826 - #25 ;
+INFO  12:38:48,827 - #18 this
+INFO  12:38:48,827 - #32 .
+INFO  12:38:48,827 - #18 b
+INFO  12:38:48,827 - #31 =
+INFO  12:38:48,827 - #15 1
+INFO  12:38:48,827 - #25 ;
+INFO  12:38:48,828 - #18 this
+INFO  12:38:48,828 - #32 .
+INFO  12:38:48,828 - #18 zh
+INFO  12:38:48,828 - #31 =
+INFO  12:38:48,828 - #15 2
+INFO  12:38:48,828 - #25 ;
+INFO  12:38:48,829 - #18 this
+INFO  12:38:48,829 - #32 .
+INFO  12:38:48,829 - #18 b
+INFO  12:38:48,829 - #31 =
+INFO  12:38:48,829 - #18 k
+INFO  12:38:48,829 - #26 (
+INFO  12:38:48,829 - #27 )
+INFO  12:38:48,829 - #25 ;
+INFO  12:38:48,830 - Pronadjen poziv funkcije k na liniji 20
+INFO  12:38:48,830 - #7 return
+INFO  12:38:48,830 - #18 b
+INFO  12:38:48,830 - #25 ;
+INFO  12:38:48,830 - #24 }
+INFO  12:38:48,830 - #24 }
+INFO  12:38:48,831 - #24 }
+INFO  12:38:48,831 - #13 class
+INFO  12:38:48,831 - #18 Beta
+INFO  12:38:48,831 - #23 {
+INFO  12:38:48,831 - Obradjuje se klasa Beta na liniji 27
+INFO  12:38:48,831 - #18 int
+INFO  12:38:48,831 - #18 a
+INFO  12:38:48,831 - #30 ,
+INFO  12:38:48,831 - Deklarisana promenljiva a na liniji 28
+INFO  12:38:48,832 - #18 b
+INFO  12:38:48,832 - #25 ;
+INFO  12:38:48,832 - Deklarisana promenljiva b na liniji 28
+INFO  12:38:48,832 - #23 {
+INFO  12:38:48,832 - #8 void
+INFO  12:38:48,832 - #18 setA
+INFO  12:38:48,832 - #26 (
+INFO  12:38:48,832 - Obradjuje se funkcija setA na liniji 30
+INFO  12:38:48,832 - #27 )
+INFO  12:38:48,833 - #23 {
+INFO  12:38:48,833 - #6 read
+INFO  12:38:48,833 - #26 (
+INFO  12:38:48,833 - #18 a
+INFO  12:38:48,833 - #27 )
+INFO  12:38:48,833 - #25 ;
+INFO  12:38:48,833 - #24 }
+INFO  12:38:48,833 - #8 void
+INFO  12:38:48,833 - #18 setAB
+INFO  12:38:48,833 - #26 (
+INFO  12:38:48,833 - Obradjuje se funkcija setAB na liniji 34
+INFO  12:38:48,834 - #18 int
+INFO  12:38:48,834 - #18 aa
+INFO  12:38:48,834 - #30 ,
+INFO  12:38:48,834 - Deklarisana formalna promenljiva aa na liniji 34
+INFO  12:38:48,834 - #18 int
+INFO  12:38:48,834 - #18 bb
+INFO  12:38:48,834 - #27 )
+INFO  12:38:48,834 - Deklarisana formalna promenljiva bb na liniji 34
+INFO  12:38:48,835 - #23 {
+INFO  12:38:48,835 - #18 a
+INFO  12:38:48,835 - #31 =
+INFO  12:38:48,835 - #18 aa
+INFO  12:38:48,835 - #25 ;
+INFO  12:38:48,835 - #18 b
+INFO  12:38:48,835 - #31 =
+INFO  12:38:48,836 - #18 bb
+INFO  12:38:48,836 - #25 ;
+INFO  12:38:48,836 - #24 }
+INFO  12:38:48,836 - #24 }
+INFO  12:38:48,836 - #24 }
+INFO  12:38:48,836 - #13 class
+INFO  12:38:48,838 - #18 Gama
+INFO  12:38:48,838 - #12 extends
+INFO  12:38:48,838 - #18 Beta
+INFO  12:38:48,838 - #23 {
+INFO  12:38:48,838 - Obradjuje se klasa Gama na liniji 41
+INFO  12:38:48,838 - #18 Beta
+INFO  12:38:48,838 - #18 b
+INFO  12:38:48,838 - #25 ;
+INFO  12:38:48,839 - Deklarisana promenljiva b na liniji 42
+INFO  12:38:48,839 - #24 }
+INFO  12:38:48,839 - #18 Gama
+INFO  12:38:48,839 - #18 g
+INFO  12:38:48,839 - #25 ;
+INFO  12:38:48,839 - Deklarisana promenljiva g na liniji 45
+INFO  12:38:48,839 - #23 {
+INFO  12:38:48,839 - #8 void
+INFO  12:38:48,839 - #18 main2
+INFO  12:38:48,840 - #26 (
+INFO  12:38:48,840 - Obradjuje se funkcija main2 na liniji 47
+INFO  12:38:48,840 - #27 )
+INFO  12:38:48,840 - #18 Alfa
+INFO  12:38:48,840 - #18 a
+INFO  12:38:48,840 - #25 ;
+INFO  12:38:48,840 - Deklarisana promenljiva a na liniji 48
+INFO  12:38:48,840 - #23 {
+INFO  12:38:48,840 - #18 a
+INFO  12:38:48,840 - #31 =
+INFO  12:38:48,840 - #14 new
+INFO  12:38:48,841 - #18 Alfa
+INFO  12:38:48,841 - #25 ;
+INFO  12:38:48,841 - #18 g
+INFO  12:38:48,841 - #31 =
+INFO  12:38:48,841 - #14 new
+INFO  12:38:48,841 - #18 Gama
+INFO  12:38:48,841 - #25 ;
+INFO  12:38:48,841 - #3 print
+INFO  12:38:48,841 - #26 (
+INFO  12:38:48,841 - #18 a
+INFO  12:38:48,841 - #32 .
+INFO  12:38:48,841 - #18 f
+INFO  12:38:48,842 - #26 (
+INFO  12:38:48,842 - #26 (
+INFO  12:38:48,842 - #15 3
+INFO  12:38:48,842 - #19 +
+INFO  12:38:48,842 - #15 5
+INFO  12:38:48,842 - #27 )
+INFO  12:38:48,842 - #21 -
+INFO  12:38:48,842 - #15 4
+INFO  12:38:48,842 - #27 )
+INFO  12:38:48,843 - #27 )
+INFO  12:38:48,843 - Pronadjen poziv funkcije f na liniji 52
+INFO  12:38:48,843 - #25 ;
+INFO  12:38:48,843 - #18 this
+INFO  12:38:48,843 - #31 =
+INFO  12:38:48,843 - #15 3
+INFO  12:38:48,843 - #25 ;
+INFO  12:38:48,843 - #18 g
+INFO  12:38:48,843 - #32 .
+INFO  12:38:48,844 - #18 setA
+INFO  12:38:48,844 - #26 (
+INFO  12:38:48,844 - #15 2
+INFO  12:38:48,844 - #27 )
+INFO  12:38:48,844 - #25 ;
+INFO  12:38:48,844 - #18 g
+INFO  12:38:48,844 - #32 .
+INFO  12:38:48,844 - #18 setAB
+INFO  12:38:48,844 - #26 (
+INFO  12:38:48,845 - #15 2
+INFO  12:38:48,845 - #27 )
+INFO  12:38:48,845 - #25 ;
+INFO  12:38:48,845 - #18 g
+INFO  12:38:48,845 - #32 .
+INFO  12:38:48,845 - #18 setAB
+INFO  12:38:48,845 - #26 (
+INFO  12:38:48,845 - #16 a
+INFO  12:38:48,845 - #30 ,
+INFO  12:38:48,845 - #16 b
+INFO  12:38:48,845 - #27 )
+INFO  12:38:48,845 - #25 ;
+INFO  12:38:48,846 - #18 g
+INFO  12:38:48,846 - #32 .
+INFO  12:38:48,846 - #18 setAB
+INFO  12:38:48,846 - #26 (
+INFO  12:38:48,846 - #16 a
+INFO  12:38:48,846 - #30 ,
+INFO  12:38:48,846 - #15 5
+INFO  12:38:48,846 - #27 )
+INFO  12:38:48,846 - #25 ;
+INFO  12:38:48,846 - #18 g
+INFO  12:38:48,846 - #32 .
+INFO  12:38:48,847 - #18 setAB
+INFO  12:38:48,847 - #26 (
+INFO  12:38:48,847 - #15 5
+INFO  12:38:48,847 - #30 ,
+INFO  12:38:48,847 - #16 b
+INFO  12:38:48,847 - #27 )
+INFO  12:38:48,847 - #25 ;
+INFO  12:38:48,847 - #24 }
+INFO  12:38:48,847 - #24 }
+INFO  12:38:48,848 - Definicije globalnih promenljivih = 1
+INFO  12:38:48,848 - Definicija lokalnih promenljivih (u main funkciji) = 0
+INFO  12:38:48,848 - Definicije globalnih konstanti = 0
+INFO  12:38:48,848 - Deklaracije globalnih nizova = 0
+INFO  12:38:48,848 - Definicije funkcija u glavnom programu = 1
+INFO  12:38:48,848 - Blokovi naredbi = 5
+INFO  12:38:48,848 - Pozivi funkcija u telu metode main = 0
+INFO  12:38:48,848 - Deklaracije formalnih argumenata funkcija = 3
+INFO  12:38:48,848 - Definicje unutrasnjih klasa = 3
+INFO  12:38:48,848 - Definicije metoda unutrasnjih klasa = 4
+INFO  12:38:48,848 - Deklaracije polja unutrasnjih klasa = 7
+ERROR 12:38:48,850 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,78 @@
+// ispravan Lexer test program
+
+program LexerTestError
+
+class Zivotin`ja{ 							// GESKA!
+		string ime;
+        int godinaRodjenja;
+		char p[];
+		{
+			void postaviIme(string ime){
+				this.ime = ime;
+			}
+			
+			void stampajGodinu(){
+				print(this.godinaRodjenja);
+				print(eol);
+			}		
+		}
+	}
+	
+	class Pas extends Zivotinja{
+		char z[];
+		{\ 										// GESKA!
+			void postaviIme(string ime){
+				this.ime = "Pas " + ime;
+			}
+		}
+	}
+	class RasniPas extends Pas{
+		{
+			void postaviIme(string ime){
+				this.ime = "Rasni pas " + ime;!			// GRESKA!
+			}
+		}
+	}
+	
+{
+	string uporedi(string a, string b){
+		if (a == b) 
+			return "isti";
+		return "razliciti";
+	}
+	
+	void stampaj(string s){						
+		print(s);
+		print(eol);
+	}
+
+	void main() Zivotinja z1, z2; Pas p; RasniPas rp;{
+		z1 = new Zivotinja;  
+		z2 = new Zivotinja;  
+		p = new Pas;
+		rp = new RasniPas;							
+		
+		z1.postaviIme("Macka");  
+		z2.postaviIme("Medved");  
+		p.postaviIme("Dzeki");  // ime = Pas Dzeki
+		rp.postaviIme("Apolon");  // ime = Rasni pas Apolon
+
+		stampaj(z1.ime);   
+		stampaj(z2.ime);    
+		stampaj(p.ime);   
+		stampaj(rp.ime); 
+		
+		print(uporedi(z1.ime, z2.ime));  // izlaz razliciti
+		print(eol);
+		
+		read(p.godinaRodjenja); 								
+		if (p.godinaRodjenja > 2014) // mladji pas ne mora biti rasan
+			stampaj(p.ime);     // Pas Dzeki 
+		else
+			stampaj(rp.ime);     // Rasni pas Apolon
+		
+		z1.godinaRodjenja = 2015;
+		z1.stampajGodinu | ();									// GESKA!
+
+	}
+}

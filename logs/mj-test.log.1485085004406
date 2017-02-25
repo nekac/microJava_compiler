@@ -1,0 +1,130 @@
+INFO  12:32:58,112 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test06.mj
+INFO  12:32:58,132 - #2 program
+INFO  12:32:58,133 - #18 test06
+INFO  12:32:58,133 - #18 int
+INFO  12:32:58,133 - #18 a
+INFO  12:32:58,133 - #28 [
+INFO  12:32:58,133 - #29 ]
+INFO  12:32:58,133 - #30 ,
+INFO  12:32:58,134 - Deklarisan niz a na liniji 4
+INFO  12:32:58,134 - #18 b
+INFO  12:32:58,134 - #28 [
+INFO  12:32:58,134 - #29 ]
+INFO  12:32:58,134 - #30 ,
+INFO  12:32:58,134 - Deklarisan niz b na liniji 4
+INFO  12:32:58,134 - #18 x
+INFO  12:32:58,135 - #30 ,
+INFO  12:32:58,135 - Deklarisana promenljiva x na liniji 4
+INFO  12:32:58,135 - #18 y
+INFO  12:32:58,135 - #25 ;
+INFO  12:32:58,135 - Deklarisana promenljiva y na liniji 4
+INFO  12:32:58,135 - #18 char
+INFO  12:32:58,136 - #18 c
+INFO  12:32:58,136 - #28 [
+INFO  12:32:58,136 - #29 ]
+INFO  12:32:58,136 - #30 ,
+INFO  12:32:58,136 - Deklarisan niz c na liniji 5
+INFO  12:32:58,136 - #18 d
+INFO  12:32:58,136 - #28 [
+INFO  12:32:58,136 - #29 ]
+INFO  12:32:58,137 - #30 ,
+INFO  12:32:58,137 - Deklarisan niz d na liniji 5
+INFO  12:32:58,137 - #18 j
+INFO  12:32:58,137 - #25 ;
+INFO  12:32:58,137 - Deklarisana promenljiva j na liniji 5
+INFO  12:32:58,137 - #23 {
+INFO  12:32:58,137 - #8 void
+INFO  12:32:58,137 - #18 main
+INFO  12:32:58,137 - #26 (
+INFO  12:32:58,138 - Obradjuje se funkcija main na liniji 8
+INFO  12:32:58,138 - #27 )
+INFO  12:32:58,138 - #23 {
+INFO  12:32:58,138 - #18 x
+INFO  12:32:58,139 - #31 =
+INFO  12:32:58,139 - #15 3
+INFO  12:32:58,139 - #25 ;
+INFO  12:32:58,140 - #18 a
+INFO  12:32:58,140 - #31 =
+INFO  12:32:58,140 - #14 new
+INFO  12:32:58,140 - #18 char
+INFO  12:32:58,140 - #28 [
+INFO  12:32:58,140 - #15 5
+INFO  12:32:58,140 - #29 ]
+INFO  12:32:58,140 - #25 ;
+INFO  12:32:58,141 - #18 a
+INFO  12:32:58,141 - #28 [
+INFO  12:32:58,141 - #18 x
+INFO  12:32:58,141 - #47 ++
+INFO  12:32:58,141 - #29 ]
+INFO  12:32:58,141 - #31 =
+INFO  12:32:58,141 - #15 2
+INFO  12:32:58,142 - #25 ;
+INFO  12:32:58,142 - Uspesan oporavak od greske pri indeksiranju niza do ] na liniji 11
+INFO  12:32:58,143 - #18 a
+INFO  12:32:58,143 - #28 [
+INFO  12:32:58,143 - #18 j
+INFO  12:32:58,143 - #29 ]
+INFO  12:32:58,143 - #31 =
+INFO  12:32:58,143 - #15 3
+INFO  12:32:58,143 - #25 ;
+INFO  12:32:58,143 - #18 a
+INFO  12:32:58,144 - #28 [
+INFO  12:32:58,144 - #15 1
+INFO  12:32:58,144 - #29 ]
+INFO  12:32:58,144 - #31 =
+INFO  12:32:58,144 - #18 x
+INFO  12:32:58,144 - #19 +
+INFO  12:32:58,144 - #18 b
+INFO  12:32:58,144 - #25 ;
+INFO  12:32:58,144 - #18 j
+INFO  12:32:58,144 - #31 =
+INFO  12:32:58,145 - #16 a
+INFO  12:32:58,145 - #25 ;
+INFO  12:32:58,145 - #18 c
+INFO  12:32:58,145 - #31 =
+INFO  12:32:58,145 - #14 new
+INFO  12:32:58,146 - #18 char
+INFO  12:32:58,146 - #28 [
+INFO  12:32:58,146 - #15 3
+INFO  12:32:58,146 - #29 ]
+INFO  12:32:58,146 - #25 ;
+INFO  12:32:58,147 - #18 c
+INFO  12:32:58,147 - #28 [
+INFO  12:32:58,147 - #15 2
+INFO  12:32:58,147 - #29 ]
+INFO  12:32:58,147 - #31 =
+INFO  12:32:58,147 - #18 j
+INFO  12:32:58,147 - #47 ++
+INFO  12:32:58,147 - #25 ;
+INFO  12:32:58,147 - #18 len
+INFO  12:32:58,147 - #26 (
+INFO  12:32:58,148 - #18 x
+DEBUG 12:32:58,148 - Uspesan oporavak od greske pri dodeli vrednosti.
+INFO  12:32:58,148 - #27 )
+INFO  12:32:58,148 - #25 ;
+INFO  12:32:58,148 - Pronadjen poziv funkcije len na liniji 17
+INFO  12:32:58,148 - #18 len
+INFO  12:32:58,149 - #26 (
+INFO  12:32:58,149 - #18 a
+INFO  12:32:58,149 - #27 )
+INFO  12:32:58,149 - #25 ;
+INFO  12:32:58,149 - Pronadjen poziv funkcije len na liniji 18
+INFO  12:32:58,149 - #3 print
+INFO  12:32:58,149 - #26 (
+INFO  12:32:58,149 - #18 a
+INFO  12:32:58,149 - #27 )
+INFO  12:32:58,149 - #25 ;
+INFO  12:32:58,150 - #24 }
+INFO  12:32:58,150 - #24 }
+INFO  12:32:58,150 - Definicije globalnih promenljivih = 3
+INFO  12:32:58,150 - Definicija lokalnih promenljivih (u main funkciji) = 0
+INFO  12:32:58,150 - Definicije globalnih konstanti = 0
+INFO  12:32:58,150 - Deklaracije globalnih nizova = 4
+INFO  12:32:58,151 - Definicije funkcija u glavnom programu = 1
+INFO  12:32:58,151 - Blokovi naredbi = 1
+INFO  12:32:58,151 - Pozivi funkcija u telu metode main = 3
+INFO  12:32:58,151 - Deklaracije formalnih argumenata funkcija = 0
+INFO  12:32:58,151 - Definicje unutrasnjih klasa = 0
+INFO  12:32:58,151 - Definicije metoda unutrasnjih klasa = 0
+INFO  12:32:58,151 - Deklaracije polja unutrasnjih klasa = 0
+ERROR 12:32:58,152 - Parsiranje NIJE uspesno zavrseno!

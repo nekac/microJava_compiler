@@ -1,0 +1,63 @@
+// TEST ZA GENERISANJE KODA
+
+program CodeGeneratorTest
+
+	const int brojTri = 3;
+	const int brojDevet = 9;
+	
+	int rezultat, a, b;
+	int niz[];
+	char c, nizchar[];
+
+{
+	void main(){
+	
+		rezultat = 10;
+		rezultat++;
+		rezultat = rezultat + brojDevet;
+		rezultat--;
+		rezultat = rezultat - brojTri;
+		
+		print(rezultat); 
+
+// dobija se na izlazu 16
+	
+		niz = new int[3];
+		niz[0] = brojTri;
+		niz[1] = 10;
+		niz[2] = brojDevet;
+		rezultat = niz[2] / niz[0];
+		print(rezultat); 
+
+// dobija se na izlazu 13
+		
+		nizchar = new char[4];
+		nizchar[0] = 'A';
+		nizchar[1] = 'B';
+		nizchar[brojTri - 1] = 'C';
+		nizchar[brojDevet / brojTri] = 'D';
+		
+		print( nizchar[2 - 1]);
+		print( nizchar[brojTri * 2 - 6]);
+
+// dobija se na izlazu B A 
+		
+		read(rezultat);
+		if(rezultat == 3){
+			rezultat = (brojTri * 1 - 1) * brojDevet - (3 % 2 + brojDevet / 3 - 3 + 8) - 1 * 0 + 2; 
+			brojTri--;
+			print(rezultat);
+		} else {
+			print(rezultat);
+		}
+
+// dobija se na izlazu 11 ako se zada broj 3 na ulazu, suprotno stampa ono sto je uneto
+			
+		read(rezultat);
+		rezultat = rezultat + brojTri - 1;
+		print(rezultat);
+			
+// dobija se na izlazu 'ulaz' + 2
+
+	}
+}

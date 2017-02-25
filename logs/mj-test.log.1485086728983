@@ -1,0 +1,155 @@
+INFO  13:04:01,616 - Compiling source file: C:\Users\Nikola\workspace\MJProjekat_nn100428\test\test01.mj
+INFO  13:04:01,636 - #2 program
+INFO  13:04:01,636 - #18 Prilepi
+INFO  13:04:01,636 - #18 int
+INFO  13:04:01,637 - #18 a
+INFO  13:04:01,637 - #30 ,
+INFO  13:04:01,637 - Deklarisana promenljiva a na liniji 6
+INFO  13:04:01,637 - #18 b
+INFO  13:04:01,637 - #25 ;
+INFO  13:04:01,637 - Deklarisana promenljiva b na liniji 6
+INFO  13:04:01,637 - #18 int
+INFO  13:04:01,637 - #18 manji
+INFO  13:04:01,637 - #30 ,
+INFO  13:04:01,637 - Deklarisana promenljiva manji na liniji 7
+INFO  13:04:01,638 - #18 veci
+INFO  13:04:01,638 - #30 ,
+INFO  13:04:01,638 - Deklarisana promenljiva veci na liniji 7
+INFO  13:04:01,638 - #18 step
+INFO  13:04:01,638 - #30 ,
+INFO  13:04:01,638 - Deklarisana promenljiva step na liniji 7
+INFO  13:04:01,638 - #18 pom
+INFO  13:04:01,638 - #30 ,
+INFO  13:04:01,639 - Deklarisana promenljiva pom na liniji 7
+INFO  13:04:01,639 - #18 novi
+INFO  13:04:01,639 - #25 ;
+INFO  13:04:01,639 - Deklarisana promenljiva novi na liniji 7
+INFO  13:04:01,639 - #11 const
+INFO  13:04:01,639 - #18 int
+INFO  13:04:01,639 - #18 x
+INFO  13:04:01,639 - #31 =
+INFO  13:04:01,640 - #15 10
+INFO  13:04:01,640 - #25 ;
+INFO  13:04:01,640 - Deklarisana konstanta x na liniji 8
+INFO  13:04:01,640 - #23 {
+INFO  13:04:01,640 - #8 void
+INFO  13:04:01,640 - #18 main
+INFO  13:04:01,640 - #26 (
+INFO  13:04:01,640 - Obradjuje se funkcija main na liniji 11
+INFO  13:04:01,641 - #27 )
+INFO  13:04:01,641 - #23 {
+INFO  13:04:01,641 - #6 read
+INFO  13:04:01,642 - #26 (
+INFO  13:04:01,642 - #18 a
+INFO  13:04:01,642 - #27 )
+INFO  13:04:01,643 - Na liniji 13 detektovano koriscenje simbola: Var a: int, 0, 0 
+INFO  13:04:01,643 - #25 ;
+INFO  13:04:01,643 - #6 read
+INFO  13:04:01,643 - #26 (
+INFO  13:04:01,643 - #18 b
+INFO  13:04:01,643 - #27 )
+INFO  13:04:01,644 - Na liniji 14 detektovano koriscenje simbola: Var b: int, 1, 0 
+INFO  13:04:01,644 - #25 ;
+INFO  13:04:01,644 - #18 novi
+INFO  13:04:01,644 - #31 =
+INFO  13:04:01,644 - Na liniji 16 detektovano koriscenje simbola: Var novi: int, 6, 0 
+INFO  13:04:01,644 - #15 0
+INFO  13:04:01,644 - #25 ;
+INFO  13:04:01,644 - #9 if
+INFO  13:04:01,645 - #26 (
+INFO  13:04:01,645 - #18 a
+INFO  13:04:01,645 - #37 <
+INFO  13:04:01,645 - Na liniji 17 detektovano koriscenje simbola: Var a: int, 0, 0 
+INFO  13:04:01,645 - #18 b
+INFO  13:04:01,645 - #27 )
+INFO  13:04:01,645 - Na liniji 17 detektovano koriscenje simbola: Var b: int, 1, 0 
+INFO  13:04:01,646 - #23 {
+INFO  13:04:01,646 - #18 manji
+INFO  13:04:01,646 - #31 =
+INFO  13:04:01,646 - Na liniji 18 detektovano koriscenje simbola: Var manji: int, 2, 0 
+INFO  13:04:01,646 - #18 a
+INFO  13:04:01,646 - #25 ;
+INFO  13:04:01,646 - Na liniji 18 detektovano koriscenje simbola: Var a: int, 0, 0 
+INFO  13:04:01,646 - #18 veci
+INFO  13:04:01,646 - #31 =
+INFO  13:04:01,647 - Na liniji 19 detektovano koriscenje simbola: Var veci: int, 3, 0 
+INFO  13:04:01,647 - #18 b
+INFO  13:04:01,647 - #25 ;
+INFO  13:04:01,647 - Na liniji 19 detektovano koriscenje simbola: Var b: int, 1, 0 
+INFO  13:04:01,647 - #24 }
+INFO  13:04:01,647 - #10 else
+INFO  13:04:01,647 - #23 {
+INFO  13:04:01,647 - #18 manji
+INFO  13:04:01,648 - #31 =
+INFO  13:04:01,648 - Na liniji 21 detektovano koriscenje simbola: Var manji: int, 2, 0 
+INFO  13:04:01,648 - #18 b
+INFO  13:04:01,648 - #25 ;
+INFO  13:04:01,648 - Na liniji 21 detektovano koriscenje simbola: Var b: int, 1, 0 
+INFO  13:04:01,648 - #18 veci
+INFO  13:04:01,648 - #31 =
+INFO  13:04:01,648 - Na liniji 22 detektovano koriscenje simbola: Var veci: int, 3, 0 
+INFO  13:04:01,648 - #18 a
+INFO  13:04:01,648 - #25 ;
+INFO  13:04:01,649 - Na liniji 22 detektovano koriscenje simbola: Var a: int, 0, 0 
+INFO  13:04:01,649 - #24 }
+INFO  13:04:01,649 - #18 pom
+INFO  13:04:01,649 - #31 =
+INFO  13:04:01,649 - Na liniji 24 detektovano koriscenje simbola: Var pom: int, 5, 0 
+INFO  13:04:01,649 - #18 manji
+INFO  13:04:01,649 - #25 ;
+INFO  13:04:01,649 - Na liniji 24 detektovano koriscenje simbola: Var manji: int, 2, 0 
+INFO  13:04:01,650 - #50 for
+INFO  13:04:01,650 - #26 (
+INFO  13:04:01,650 - #25 ;
+INFO  13:04:01,650 - #18 pom
+INFO  13:04:01,650 - #35 >
+INFO  13:04:01,650 - Na liniji 25 detektovano koriscenje simbola: Var pom: int, 5, 0 
+INFO  13:04:01,650 - #15 0
+INFO  13:04:01,650 - #25 ;
+INFO  13:04:01,651 - #27 )
+INFO  13:04:01,651 - #23 {
+INFO  13:04:01,651 - #18 pom
+INFO  13:04:01,651 - #31 =
+INFO  13:04:01,651 - Na liniji 26 detektovano koriscenje simbola: Var pom: int, 5, 0 
+INFO  13:04:01,651 - #18 pom
+INFO  13:04:01,651 - #41 /
+INFO  13:04:01,652 - Na liniji 26 detektovano koriscenje simbola: Var pom: int, 5, 0 
+INFO  13:04:01,652 - #18 x
+INFO  13:04:01,652 - #25 ;
+INFO  13:04:01,652 - Na liniji 26 detektovano koriscenje simbola: Con x: int, 10, 0 
+INFO  13:04:01,652 - #18 step
+INFO  13:04:01,652 - #31 =
+INFO  13:04:01,654 - Na liniji 27 detektovano koriscenje simbola: Var step: int, 4, 0 
+INFO  13:04:01,654 - #18 step
+INFO  13:04:01,654 - #39 *
+INFO  13:04:01,654 - Na liniji 27 detektovano koriscenje simbola: Var step: int, 4, 0 
+INFO  13:04:01,654 - #18 x
+INFO  13:04:01,655 - #25 ;
+INFO  13:04:01,655 - Na liniji 27 detektovano koriscenje simbola: Con x: int, 10, 0 
+INFO  13:04:01,655 - #24 }
+INFO  13:04:01,655 - #18 novi
+INFO  13:04:01,655 - #31 =
+INFO  13:04:01,657 - Na liniji 29 detektovano koriscenje simbola: Var novi: int, 6, 0 
+INFO  13:04:01,657 - #18 veci
+INFO  13:04:01,657 - #39 *
+INFO  13:04:01,657 - Na liniji 29 detektovano koriscenje simbola: Var veci: int, 3, 0 
+INFO  13:04:01,658 - #18 step
+INFO  13:04:01,658 - #19 +
+INFO  13:04:01,658 - Na liniji 29 detektovano koriscenje simbola: Var step: int, 4, 0 
+INFO  13:04:01,658 - #18 manji
+INFO  13:04:01,658 - #25 ;
+INFO  13:04:01,658 - Na liniji 29 detektovano koriscenje simbola: Var manji: int, 2, 0 
+INFO  13:04:01,658 - #24 }
+INFO  13:04:01,658 - #24 }
+INFO  13:04:01,659 - Definicije globalnih promenljivih = 7
+INFO  13:04:01,659 - Definicija lokalnih promenljivih (u main funkciji) = 0
+INFO  13:04:01,659 - Definicije globalnih konstanti = 1
+INFO  13:04:01,659 - Deklaracije globalnih nizova = 0
+INFO  13:04:01,659 - Definicije funkcija u glavnom programu = 1
+INFO  13:04:01,659 - Blokovi naredbi = 4
+INFO  13:04:01,659 - Pozivi funkcija u telu metode main = 2
+INFO  13:04:01,659 - Deklaracije formalnih argumenata funkcija = 0
+INFO  13:04:01,659 - Definicje unutrasnjih klasa = 0
+INFO  13:04:01,659 - Definicije metoda unutrasnjih klasa = 0
+INFO  13:04:01,659 - Deklaracije polja unutrasnjih klasa = 0
+INFO  13:04:01,662 - Parsiranje uspesno zavrseno!
